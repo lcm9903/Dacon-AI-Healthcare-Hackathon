@@ -1,0 +1,38 @@
+{
+  "train_n": 4961,
+  "validation_n": 1240,
+  "feature_n": 4384,
+  "macro_f1_binary": 0.35114436760121137,
+  "macro_f1_variant": 0.3618116361744023,
+  "n_training_selected_genes_min10": 3817,
+  "target_pairs": [
+    {
+      "pair": "KIPAN ↔ KIRC",
+      "n_train_a": 412,
+      "n_train_b": 267,
+      "cosine_similarity": 0.90040729406093,
+      "mean_abs_mutation_rate_difference": 0.0021310988219762927
+    },
+    {
+      "pair": "GBMLGG ↔ LGG",
+      "n_train_a": 369,
+      "n_train_b": 184,
+      "cosine_similarity": 0.8911092654907627,
+      "mean_abs_mutation_rate_difference": 0.0023033540270361867
+    },
+    {
+      "pair": "BRCA ↔ OV",
+      "n_train_a": 629,
+      "n_train_b": 203,
+      "cosine_similarity": 0.6370707526247621,
+      "mean_abs_mutation_rate_difference": 0.004075255012000574
+    }
+  ],
+  "n_fdr_significant_by_pair": {
+    "BRCA ↔ OV": 5,
+    "GBMLGG ↔ LGG": 1,
+    "KIPAN ↔ KIRC": 0
+  },
+  "train_burden_q25": 7.0,
+  "train_burden_q75": 27.0
+}

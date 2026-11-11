@@ -1,0 +1,16 @@
+{
+  "seed": 42,
+  "n_splits": 3,
+  "quick_check": false,
+  "feature": "binary_gene_mutation",
+  "models": [
+    "SGD",
+    "RandomForest",
+    "XGBoost",
+    "LightGBM"
+  ],
+  "evaluation": "StratifiedGroupKFold grouped by identical binary profiles",
+  "test_data_used": false,
+  "n_samples": 6201,
+  "n_features": 4384
+}

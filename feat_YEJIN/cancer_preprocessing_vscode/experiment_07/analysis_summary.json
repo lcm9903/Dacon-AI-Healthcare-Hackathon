@@ -1,0 +1,20 @@
+{
+  "n_patients": 6201,
+  "models": [
+    "LightGBM",
+    "RandomForest",
+    "SGD",
+    "XGBoost"
+  ],
+  "all_wrong_n": 2862,
+  "all_correct_n": 1242,
+  "all_wrong_fraction": 0.46153846153846156,
+  "zero_mutation_n": 94,
+  "zero_mutation_all_wrong_n": 82,
+  "unanimous_wrong_n": 713,
+  "notes": [
+    "Only internal out-of-fold predictions and training features were used.",
+    "Exploratory associations; avoid post-hoc feature selection on the same validation predictions.",
+    "Zero-mutation group has identical binary input and may be concentrated in one validation fold."
+  ]
+}

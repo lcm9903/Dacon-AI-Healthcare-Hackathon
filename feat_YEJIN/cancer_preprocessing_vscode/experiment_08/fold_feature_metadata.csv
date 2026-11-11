@@ -1,0 +1,10 @@
+﻿fold,strategy,feature_columns,count_mean_train,q25_train,q75_train
+1,Binary,4384,,,
+1,Count,4385,2.779436028747669,,
+1,Interaction,13153,2.779436028747669,7.0,27.0
+2,Binary,4384,,,
+2,Count,4385,2.742722150059097,,
+2,Interaction,13153,2.742722150059097,7.0,27.0
+3,Binary,4384,,,
+3,Count,4385,2.7456347026222847,,
+3,Interaction,13153,2.7456347026222847,7.0,27.0

@@ -1,0 +1,16 @@
+﻿true,case_group,size
+BRCA,mixed,5
+CESC,all_wrong,3
+GBMLGG,all_wrong,2
+KIPAN,all_wrong,4
+KIRC,all_wrong,2
+LAML,all_wrong,12
+LGG,all_wrong,3
+LUSC,all_wrong,2
+PAAD,all_wrong,1
+PCPG,mixed,3
+PRAD,mixed,4
+SARC,all_wrong,3
+STES,all_wrong,2
+THCA,all_wrong,18
+THYM,all_wrong,30

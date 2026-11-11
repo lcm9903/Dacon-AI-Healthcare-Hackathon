@@ -1,0 +1,13 @@
+{
+  "train_rows": 6201,
+  "genes": 4384,
+  "classes": 26,
+  "non_wt_cells_train": 218893,
+  "fit_rows": 4961,
+  "validation_rows": 1240,
+  "profile_overlap": 0,
+  "train_missing": 0,
+  "seed": 42,
+  "encoding": "WT=0, observed non-WT=1; missing NOT mapped to WT",
+  "test_used_for_training": false
+}
