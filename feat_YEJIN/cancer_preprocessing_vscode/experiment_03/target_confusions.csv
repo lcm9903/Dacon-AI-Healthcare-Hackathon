@@ -1,0 +1,7 @@
+﻿true,predicted,true_support,errors_binary_only,errors_binary_plus_variant,error_delta
+KIPAN,KIRC,103,18,18,0
+KIRC,KIPAN,67,18,17,-1
+GBMLGG,LGG,92,33,34,1
+LGG,GBMLGG,45,7,8,1
+BRCA,OV,157,15,17,2
+OV,BRCA,50,15,16,1

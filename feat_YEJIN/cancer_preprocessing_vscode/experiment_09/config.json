@@ -1,0 +1,87 @@
+{
+  "seed": 42,
+  "quick_check": false,
+  "outer_splits": 3,
+  "inner_splits": 2,
+  "candidates": [
+    {
+      "name": "SGD_A",
+      "family": "SGD",
+      "strategy": "Binary",
+      "alpha": 0.0001
+    },
+    {
+      "name": "SGD_A",
+      "family": "SGD",
+      "strategy": "Count",
+      "alpha": 0.0001
+    },
+    {
+      "name": "SGD_A",
+      "family": "SGD",
+      "strategy": "Interaction",
+      "alpha": 0.0001
+    },
+    {
+      "name": "SGD_B",
+      "family": "SGD",
+      "strategy": "Binary",
+      "alpha": 0.001
+    },
+    {
+      "name": "SGD_B",
+      "family": "SGD",
+      "strategy": "Count",
+      "alpha": 0.001
+    },
+    {
+      "name": "SGD_B",
+      "family": "SGD",
+      "strategy": "Interaction",
+      "alpha": 0.001
+    },
+    {
+      "name": "XGB_A",
+      "family": "XGBoost",
+      "strategy": "Binary",
+      "n_estimators": 200,
+      "max_depth": 3,
+      "learning_rate": 0.06
+    },
+    {
+      "name": "XGB_A",
+      "family": "XGBoost",
+      "strategy": "Interaction",
+      "n_estimators": 200,
+      "max_depth": 3,
+      "learning_rate": 0.06
+    },
+    {
+      "name": "XGB_B",
+      "family": "XGBoost",
+      "strategy": "Binary",
+      "n_estimators": 350,
+      "max_depth": 4,
+      "learning_rate": 0.05
+    },
+    {
+      "name": "XGB_B",
+      "family": "XGBoost",
+      "strategy": "Interaction",
+      "n_estimators": 350,
+      "max_depth": 4,
+      "learning_rate": 0.05
+    }
+  ],
+  "n_rows": 6201,
+  "minority_labels": [
+    "DLBC",
+    "ACC",
+    "THYM",
+    "BLCA",
+    "PAAD",
+    "TGCT"
+  ],
+  "test_used": false,
+  "warning": "Exploratory nested CV on previously examined Train. Not a pristine external test."
+}

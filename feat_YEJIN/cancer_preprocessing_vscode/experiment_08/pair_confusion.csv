@@ -1,0 +1,10 @@
+﻿strategy,pair,errors
+Binary,KIPAN <-> KIRC,192
+Binary,GBMLGG <-> LGG,206
+Binary,BRCA <-> OV,120
+Count,KIPAN <-> KIRC,175
+Count,GBMLGG <-> LGG,209
+Count,BRCA <-> OV,127
+Interaction,KIPAN <-> KIRC,181
+Interaction,GBMLGG <-> LGG,202
+Interaction,BRCA <-> OV,117

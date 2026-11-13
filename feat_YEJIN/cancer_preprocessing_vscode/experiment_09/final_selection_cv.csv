@@ -1,0 +1,11 @@
+﻿candidate,family,strategy,mean_macro_f1,std_macro_f1,settings
+SGD_B_Interaction,SGD,Interaction,0.38426331223296634,0.009854103739612022,"{""name"": ""SGD_B"", ""family"": ""SGD"", ""strategy"": ""Interaction"", ""alpha"": 0.001}"
+SGD_B_Binary,SGD,Binary,0.37862938060451573,0.010009199350535307,"{""name"": ""SGD_B"", ""family"": ""SGD"", ""strategy"": ""Binary"", ""alpha"": 0.001}"
+XGB_B_Interaction,XGBoost,Interaction,0.37770878000918856,0.008983254455500094,"{""name"": ""XGB_B"", ""family"": ""XGBoost"", ""strategy"": ""Interaction"", ""n_estimators"": 350, ""max_depth"": 4, ""learning_rate"": 0.05}"
+SGD_B_Count,SGD,Count,0.37399557739864336,0.01992775836152348,"{""name"": ""SGD_B"", ""family"": ""SGD"", ""strategy"": ""Count"", ""alpha"": 0.001}"
+XGB_A_Interaction,XGBoost,Interaction,0.3689225291203215,0.014019318578853752,"{""name"": ""XGB_A"", ""family"": ""XGBoost"", ""strategy"": ""Interaction"", ""n_estimators"": 200, ""max_depth"": 3, ""learning_rate"": 0.06}"
+SGD_A_Interaction,SGD,Interaction,0.3607683237394306,0.016588429080056,"{""name"": ""SGD_A"", ""family"": ""SGD"", ""strategy"": ""Interaction"", ""alpha"": 0.0001}"
+XGB_B_Binary,XGBoost,Binary,0.3489752805832753,0.019752995874190257,"{""name"": ""XGB_B"", ""family"": ""XGBoost"", ""strategy"": ""Binary"", ""n_estimators"": 350, ""max_depth"": 4, ""learning_rate"": 0.05}"
+XGB_A_Binary,XGBoost,Binary,0.34593986359765877,0.017041226901722408,"{""name"": ""XGB_A"", ""family"": ""XGBoost"", ""strategy"": ""Binary"", ""n_estimators"": 200, ""max_depth"": 3, ""learning_rate"": 0.06}"
+SGD_A_Count,SGD,Count,0.34215428614501037,0.018774820151780953,"{""name"": ""SGD_A"", ""family"": ""SGD"", ""strategy"": ""Count"", ""alpha"": 0.0001}"
+SGD_A_Binary,SGD,Binary,0.3288772997448676,0.025542426301918737,"{""name"": ""SGD_A"", ""family"": ""SGD"", ""strategy"": ""Binary"", ""alpha"": 0.0001}"

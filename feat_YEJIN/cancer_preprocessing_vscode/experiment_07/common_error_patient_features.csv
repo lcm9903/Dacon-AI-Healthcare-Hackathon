@@ -1,0 +1,2863 @@
+﻿row_index,true,fold,mutation_count,n_models_correct,all_wrong,all_correct,case_group,burden_group,n_distinct_wrong_labels,unanimous_wrong,unanimous_pred
+3,KIRC,2,7,0,True,False,all_wrong,1~7개,1,True,GBMLGG
+4,GBMLGG,1,34,0,True,False,all_wrong,28개 이상,2,False,
+5,STES,2,270,0,True,False,all_wrong,28개 이상,1,True,SKCM
+7,THCA,1,1,0,True,False,all_wrong,1~7개,2,False,
+8,LIHC,3,9,0,True,False,all_wrong,8~27개,3,False,
+9,STES,1,20,0,True,False,all_wrong,8~27개,2,False,
+10,STES,1,6,0,True,False,all_wrong,1~7개,2,False,
+11,HNSC,3,32,0,True,False,all_wrong,28개 이상,2,False,
+12,KIRC,1,14,0,True,False,all_wrong,8~27개,2,False,
+13,PAAD,1,14,0,True,False,all_wrong,8~27개,2,False,
+15,OV,2,9,0,True,False,all_wrong,8~27개,1,True,GBMLGG
+16,KIPAN,3,17,0,True,False,all_wrong,8~27개,4,False,
+19,PRAD,2,8,0,True,False,all_wrong,8~27개,3,False,
+20,GBMLGG,1,1,0,True,False,all_wrong,1~7개,2,False,
+21,UCEC,3,10,0,True,False,all_wrong,8~27개,2,False,
+24,COAD,1,262,0,True,False,all_wrong,28개 이상,4,False,
+25,STES,3,43,0,True,False,all_wrong,28개 이상,3,False,
+32,HNSC,3,32,0,True,False,all_wrong,28개 이상,1,True,COAD
+33,KIRC,3,10,0,True,False,all_wrong,8~27개,2,False,
+35,PRAD,3,3,0,True,False,all_wrong,1~7개,4,False,
+38,LUSC,1,41,0,True,False,all_wrong,28개 이상,1,True,BRCA
+39,BRCA,1,10,0,True,False,all_wrong,8~27개,2,False,
+45,LUAD,3,26,0,True,False,all_wrong,8~27개,2,False,
+48,STES,1,18,0,True,False,all_wrong,8~27개,3,False,
+49,LUSC,1,52,0,True,False,all_wrong,28개 이상,3,False,
+61,KIRC,2,5,0,True,False,all_wrong,1~7개,4,False,
+63,BRCA,2,12,0,True,False,all_wrong,8~27개,1,True,OV
+66,KIPAN,1,0,0,True,False,all_wrong,0개,3,False,
+67,BRCA,1,34,0,True,False,all_wrong,28개 이상,3,False,
+68,OV,2,22,0,True,False,all_wrong,8~27개,4,False,
+76,LUSC,2,37,0,True,False,all_wrong,28개 이상,1,True,COAD
+79,KIPAN,2,21,0,True,False,all_wrong,8~27개,3,False,
+84,OV,3,17,0,True,False,all_wrong,8~27개,1,True,COAD
+85,STES,1,22,0,True,False,all_wrong,8~27개,2,False,
+87,PRAD,1,205,0,True,False,all_wrong,28개 이상,1,True,SKCM
+88,BRCA,2,12,0,True,False,all_wrong,8~27개,1,True,LAML
+89,BRCA,2,33,0,True,False,all_wrong,28개 이상,3,False,
+91,KIPAN,3,18,0,True,False,all_wrong,8~27개,3,False,
+92,KIPAN,2,246,0,True,False,all_wrong,28개 이상,3,False,
+93,CESC,2,25,0,True,False,all_wrong,8~27개,2,False,
+98,KIPAN,3,3,0,True,False,all_wrong,1~7개,1,True,THYM
+99,PCPG,3,2,0,True,False,all_wrong,1~7개,3,False,
+102,THYM,1,0,0,True,False,all_wrong,0개,3,False,
+104,BRCA,2,12,0,True,False,all_wrong,8~27개,1,True,OV
+108,KIPAN,2,14,0,True,False,all_wrong,8~27개,3,False,
+116,BLCA,3,108,0,True,False,all_wrong,28개 이상,1,True,HNSC
+120,KIPAN,3,27,0,True,False,all_wrong,8~27개,1,True,KIRC
+122,THCA,1,0,0,True,False,all_wrong,0개,3,False,
+123,KIPAN,1,22,0,True,False,all_wrong,8~27개,3,False,
+124,OV,3,14,0,True,False,all_wrong,8~27개,3,False,
+125,STES,1,36,0,True,False,all_wrong,28개 이상,2,False,
+126,THYM,2,5,0,True,False,all_wrong,1~7개,2,False,
+127,LUSC,1,96,0,True,False,all_wrong,28개 이상,1,True,HNSC
+128,HNSC,3,16,0,True,False,all_wrong,8~27개,2,False,
+129,LUSC,1,0,0,True,False,all_wrong,0개,3,False,
+131,KIRC,3,11,0,True,False,all_wrong,8~27개,2,False,
+132,SKCM,2,66,0,True,False,all_wrong,28개 이상,3,False,
+133,SARC,1,0,0,True,False,all_wrong,0개,3,False,
+134,DLBC,3,17,0,True,False,all_wrong,8~27개,3,False,
+135,LUAD,1,28,0,True,False,all_wrong,28개 이상,1,True,BRCA
+138,KIRC,2,7,0,True,False,all_wrong,1~7개,2,False,
+140,THCA,1,1,0,True,False,all_wrong,1~7개,2,False,
+141,LUSC,1,53,0,True,False,all_wrong,28개 이상,2,False,
+143,KIRC,3,20,0,True,False,all_wrong,8~27개,2,False,
+146,LUAD,3,21,0,True,False,all_wrong,8~27개,3,False,
+149,KIRC,2,13,0,True,False,all_wrong,8~27개,2,False,
+151,GBMLGG,3,10,0,True,False,all_wrong,8~27개,2,False,
+154,SARC,2,5,0,True,False,all_wrong,1~7개,3,False,
+156,KIPAN,1,13,0,True,False,all_wrong,8~27개,2,False,
+157,GBMLGG,2,11,0,True,False,all_wrong,8~27개,1,True,LGG
+159,BRCA,2,5,0,True,False,all_wrong,1~7개,1,True,OV
+162,GBMLGG,3,16,0,True,False,all_wrong,8~27개,2,False,
+163,PRAD,3,2,0,True,False,all_wrong,1~7개,2,False,
+165,SARC,1,15,0,True,False,all_wrong,8~27개,3,False,
+168,PRAD,3,2,0,True,False,all_wrong,1~7개,2,False,
+170,THYM,3,3,0,True,False,all_wrong,1~7개,2,False,
+173,SKCM,3,29,0,True,False,all_wrong,28개 이상,2,False,
+174,CESC,1,18,0,True,False,all_wrong,8~27개,1,True,SARC
+175,PAAD,1,33,0,True,False,all_wrong,28개 이상,3,False,
+176,THCA,1,2,0,True,False,all_wrong,1~7개,3,False,
+178,CESC,3,20,0,True,False,all_wrong,8~27개,1,True,BRCA
+180,BRCA,1,12,0,True,False,all_wrong,8~27개,2,False,
+181,KIPAN,1,9,0,True,False,all_wrong,8~27개,3,False,
+184,PAAD,1,11,0,True,False,all_wrong,8~27개,3,False,
+185,OV,1,31,0,True,False,all_wrong,28개 이상,2,False,
+187,CESC,1,19,0,True,False,all_wrong,8~27개,2,False,
+188,LUAD,3,47,0,True,False,all_wrong,28개 이상,2,False,
+190,BRCA,1,6,0,True,False,all_wrong,1~7개,1,True,OV
+191,LUSC,3,24,0,True,False,all_wrong,8~27개,3,False,
+198,LIHC,1,28,0,True,False,all_wrong,28개 이상,3,False,
+200,PRAD,2,6,0,True,False,all_wrong,1~7개,2,False,
+203,LIHC,3,28,0,True,False,all_wrong,28개 이상,1,True,BRCA
+206,KIPAN,3,15,0,True,False,all_wrong,8~27개,1,True,KIRC
+207,SARC,3,14,0,True,False,all_wrong,8~27개,3,False,
+209,LUSC,3,37,0,True,False,all_wrong,28개 이상,4,False,
+210,SKCM,1,6,0,True,False,all_wrong,1~7개,3,False,
+212,OV,1,20,0,True,False,all_wrong,8~27개,2,False,
+213,THYM,3,7,0,True,False,all_wrong,1~7개,2,False,
+214,THCA,1,2,0,True,False,all_wrong,1~7개,3,False,
+218,KIPAN,3,21,0,True,False,all_wrong,8~27개,2,False,
+219,CESC,2,10,0,True,False,all_wrong,8~27개,3,False,
+224,KIPAN,3,10,0,True,False,all_wrong,8~27개,2,False,
+225,KIPAN,2,15,0,True,False,all_wrong,8~27개,2,False,
+226,THCA,3,1,0,True,False,all_wrong,1~7개,3,False,
+227,KIPAN,3,10,0,True,False,all_wrong,8~27개,2,False,
+228,GBMLGG,3,4,0,True,False,all_wrong,1~7개,1,True,LGG
+229,BLCA,2,77,0,True,False,all_wrong,28개 이상,3,False,
+232,PRAD,3,9,0,True,False,all_wrong,8~27개,1,True,BRCA
+233,TGCT,1,14,0,True,False,all_wrong,8~27개,2,False,
+234,HNSC,2,11,0,True,False,all_wrong,8~27개,1,True,KIPAN
+237,UCEC,1,14,0,True,False,all_wrong,8~27개,1,True,OV
+238,STES,3,52,0,True,False,all_wrong,28개 이상,1,True,COAD
+240,CESC,1,18,0,True,False,all_wrong,8~27개,2,False,
+248,LUAD,2,23,0,True,False,all_wrong,8~27개,2,False,
+250,KIPAN,3,18,0,True,False,all_wrong,8~27개,1,True,OV
+256,LAML,1,0,0,True,False,all_wrong,0개,3,False,
+257,BLCA,1,36,0,True,False,all_wrong,28개 이상,3,False,
+259,STES,3,64,0,True,False,all_wrong,28개 이상,2,False,
+260,PRAD,3,2,0,True,False,all_wrong,1~7개,2,False,
+261,GBMLGG,3,7,0,True,False,all_wrong,1~7개,2,False,
+262,BLCA,2,62,0,True,False,all_wrong,28개 이상,2,False,
+263,BRCA,1,16,0,True,False,all_wrong,8~27개,3,False,
+264,KIPAN,3,12,0,True,False,all_wrong,8~27개,4,False,
+265,BRCA,1,8,0,True,False,all_wrong,8~27개,2,False,
+266,PRAD,3,4,0,True,False,all_wrong,1~7개,3,False,
+267,GBMLGG,2,8,0,True,False,all_wrong,8~27개,1,True,LGG
+271,KIPAN,1,6,0,True,False,all_wrong,1~7개,3,False,
+272,KIPAN,3,14,0,True,False,all_wrong,8~27개,2,False,
+275,CESC,1,23,0,True,False,all_wrong,8~27개,3,False,
+280,GBMLGG,2,8,0,True,False,all_wrong,8~27개,2,False,
+281,BRCA,3,7,0,True,False,all_wrong,1~7개,1,True,OV
+283,SKCM,1,41,0,True,False,all_wrong,28개 이상,3,False,
+289,PRAD,1,10,0,True,False,all_wrong,8~27개,3,False,
+290,GBMLGG,2,8,0,True,False,all_wrong,8~27개,1,True,LGG
+291,SARC,1,3,0,True,False,all_wrong,1~7개,3,False,
+293,LAML,3,1,0,True,False,all_wrong,1~7개,3,False,
+295,LUAD,3,25,0,True,False,all_wrong,8~27개,3,False,
+299,TGCT,2,8,0,True,False,all_wrong,8~27개,2,False,
+300,GBMLGG,3,5,0,True,False,all_wrong,1~7개,1,True,LGG
+302,GBMLGG,3,9,0,True,False,all_wrong,8~27개,3,False,
+304,TGCT,1,21,0,True,False,all_wrong,8~27개,2,False,
+306,PCPG,3,7,0,True,False,all_wrong,1~7개,2,False,
+308,COAD,1,17,0,True,False,all_wrong,8~27개,2,False,
+309,PRAD,2,5,0,True,False,all_wrong,1~7개,3,False,
+310,LUSC,1,23,0,True,False,all_wrong,8~27개,3,False,
+311,SARC,1,10,0,True,False,all_wrong,8~27개,2,False,
+315,PAAD,1,31,0,True,False,all_wrong,28개 이상,3,False,
+316,GBMLGG,2,5,0,True,False,all_wrong,1~7개,2,False,
+320,BRCA,1,13,0,True,False,all_wrong,8~27개,1,True,LIHC
+325,TGCT,2,14,0,True,False,all_wrong,8~27개,3,False,
+328,LIHC,1,22,0,True,False,all_wrong,8~27개,2,False,
+330,KIPAN,2,15,0,True,False,all_wrong,8~27개,4,False,
+331,LAML,3,2,0,True,False,all_wrong,1~7개,1,True,OV
+332,OV,2,14,0,True,False,all_wrong,8~27개,2,False,
+335,LIHC,1,41,0,True,False,all_wrong,28개 이상,2,False,
+336,THCA,3,2,0,True,False,all_wrong,1~7개,2,False,
+338,STES,3,36,0,True,False,all_wrong,28개 이상,1,True,HNSC
+343,KIRC,1,17,0,True,False,all_wrong,8~27개,2,False,
+346,KIPAN,1,6,0,True,False,all_wrong,1~7개,1,True,BRCA
+348,PRAD,2,7,0,True,False,all_wrong,1~7개,1,True,COAD
+349,STES,1,17,0,True,False,all_wrong,8~27개,3,False,
+351,LUAD,2,12,0,True,False,all_wrong,8~27개,3,False,
+354,DLBC,1,704,0,True,False,all_wrong,28개 이상,3,False,
+355,BLCA,1,49,0,True,False,all_wrong,28개 이상,1,True,COAD
+359,KIRC,2,10,0,True,False,all_wrong,8~27개,2,False,
+363,HNSC,2,87,0,True,False,all_wrong,28개 이상,1,True,LUSC
+365,KIPAN,3,1,0,True,False,all_wrong,1~7개,2,False,
+366,PCPG,3,10,0,True,False,all_wrong,8~27개,3,False,
+371,GBMLGG,3,6,0,True,False,all_wrong,1~7개,3,False,
+372,BRCA,2,11,0,True,False,all_wrong,8~27개,1,True,UCEC
+376,KIRC,2,9,0,True,False,all_wrong,8~27개,2,False,
+378,THCA,3,2,0,True,False,all_wrong,1~7개,2,False,
+381,GBMLGG,3,8,0,True,False,all_wrong,8~27개,1,True,LGG
+382,LAML,3,1,0,True,False,all_wrong,1~7개,2,False,
+383,OV,2,13,0,True,False,all_wrong,8~27개,2,False,
+387,LUAD,1,37,0,True,False,all_wrong,28개 이상,2,False,
+389,LAML,2,1,0,True,False,all_wrong,1~7개,2,False,
+393,STES,3,14,0,True,False,all_wrong,8~27개,3,False,
+394,LUAD,1,46,0,True,False,all_wrong,28개 이상,2,False,
+397,PRAD,1,4,0,True,False,all_wrong,1~7개,2,False,
+399,PAAD,2,13,0,True,False,all_wrong,8~27개,2,False,
+402,KIPAN,1,33,0,True,False,all_wrong,28개 이상,3,False,
+404,SKCM,1,27,0,True,False,all_wrong,8~27개,1,True,THCA
+405,STES,1,51,0,True,False,all_wrong,28개 이상,1,True,OV
+407,STES,2,22,0,True,False,all_wrong,8~27개,1,True,BRCA
+408,LIHC,2,8,0,True,False,all_wrong,8~27개,2,False,
+409,HNSC,1,52,0,True,False,all_wrong,28개 이상,2,False,
+410,CESC,2,10,0,True,False,all_wrong,8~27개,1,True,BRCA
+411,SARC,1,2,0,True,False,all_wrong,1~7개,3,False,
+412,THYM,1,0,0,True,False,all_wrong,0개,3,False,
+413,THYM,1,0,0,True,False,all_wrong,0개,3,False,
+414,PCPG,1,5,0,True,False,all_wrong,1~7개,2,False,
+416,STES,1,68,0,True,False,all_wrong,28개 이상,3,False,
+417,STES,3,51,0,True,False,all_wrong,28개 이상,1,True,LUSC
+418,PCPG,1,5,0,True,False,all_wrong,1~7개,2,False,
+421,TGCT,3,8,0,True,False,all_wrong,8~27개,2,False,
+422,KIPAN,3,5,0,True,False,all_wrong,1~7개,2,False,
+423,KIPAN,1,5,0,True,False,all_wrong,1~7개,3,False,
+427,PRAD,2,12,0,True,False,all_wrong,8~27개,2,False,
+428,THYM,3,3,0,True,False,all_wrong,1~7개,1,True,PCPG
+431,LIHC,3,15,0,True,False,all_wrong,8~27개,3,False,
+433,UCEC,2,6,0,True,False,all_wrong,1~7개,2,False,
+435,PRAD,2,3,0,True,False,all_wrong,1~7개,3,False,
+436,TGCT,3,14,0,True,False,all_wrong,8~27개,3,False,
+439,LUAD,2,33,0,True,False,all_wrong,28개 이상,2,False,
+440,OV,3,7,0,True,False,all_wrong,1~7개,3,False,
+444,LUSC,3,78,0,True,False,all_wrong,28개 이상,3,False,
+445,OV,3,44,0,True,False,all_wrong,28개 이상,2,False,
+451,LIHC,3,19,0,True,False,all_wrong,8~27개,4,False,
+452,KIPAN,3,24,0,True,False,all_wrong,8~27개,3,False,
+453,KIPAN,3,12,0,True,False,all_wrong,8~27개,3,False,
+456,PRAD,2,8,0,True,False,all_wrong,8~27개,3,False,
+457,SARC,3,8,0,True,False,all_wrong,8~27개,2,False,
+464,PRAD,2,7,0,True,False,all_wrong,1~7개,2,False,
+465,BRCA,1,2,0,True,False,all_wrong,1~7개,3,False,
+466,BRCA,3,7,0,True,False,all_wrong,1~7개,3,False,
+471,KIRC,3,8,0,True,False,all_wrong,8~27개,1,True,BRCA
+472,TGCT,3,9,0,True,False,all_wrong,8~27개,2,False,
+473,KIPAN,3,27,0,True,False,all_wrong,8~27개,1,True,BRCA
+476,GBMLGG,2,20,0,True,False,all_wrong,8~27개,1,True,LGG
+478,THYM,2,4,0,True,False,all_wrong,1~7개,1,True,PCPG
+479,BLCA,1,25,0,True,False,all_wrong,8~27개,3,False,
+481,LAML,1,10,0,True,False,all_wrong,8~27개,1,True,OV
+483,HNSC,2,24,0,True,False,all_wrong,8~27개,1,True,BRCA
+489,CESC,2,19,0,True,False,all_wrong,8~27개,2,False,
+491,PRAD,3,6,0,True,False,all_wrong,1~7개,3,False,
+493,COAD,2,22,0,True,False,all_wrong,8~27개,3,False,
+494,CESC,1,13,0,True,False,all_wrong,8~27개,2,False,
+499,SARC,1,10,0,True,False,all_wrong,8~27개,4,False,
+502,HNSC,3,16,0,True,False,all_wrong,8~27개,3,False,
+503,BLCA,3,21,0,True,False,all_wrong,8~27개,4,False,
+505,PAAD,2,20,0,True,False,all_wrong,8~27개,4,False,
+509,THCA,3,2,0,True,False,all_wrong,1~7개,2,False,
+510,GBMLGG,2,13,0,True,False,all_wrong,8~27개,1,True,OV
+515,COAD,1,47,0,True,False,all_wrong,28개 이상,3,False,
+516,SARC,3,9,0,True,False,all_wrong,8~27개,1,True,OV
+517,HNSC,3,42,0,True,False,all_wrong,28개 이상,2,False,
+519,STES,3,8,0,True,False,all_wrong,8~27개,3,False,
+526,UCEC,2,10,0,True,False,all_wrong,8~27개,1,True,BRCA
+529,LUSC,2,29,0,True,False,all_wrong,28개 이상,2,False,
+533,PAAD,1,7,0,True,False,all_wrong,1~7개,2,False,
+536,CESC,1,40,0,True,False,all_wrong,28개 이상,4,False,
+539,STES,1,52,0,True,False,all_wrong,28개 이상,4,False,
+540,CESC,2,67,0,True,False,all_wrong,28개 이상,2,False,
+541,PCPG,2,4,0,True,False,all_wrong,1~7개,1,True,KIRC
+544,LAML,3,4,0,True,False,all_wrong,1~7개,2,False,
+551,KIPAN,2,6,0,True,False,all_wrong,1~7개,4,False,
+558,LAML,2,1,0,True,False,all_wrong,1~7개,3,False,
+559,STES,3,26,0,True,False,all_wrong,8~27개,3,False,
+561,BLCA,3,231,0,True,False,all_wrong,28개 이상,4,False,
+563,STES,1,23,0,True,False,all_wrong,8~27개,2,False,
+565,SARC,2,80,0,True,False,all_wrong,28개 이상,2,False,
+566,SARC,2,4,0,True,False,all_wrong,1~7개,2,False,
+567,PAAD,1,22,0,True,False,all_wrong,8~27개,3,False,
+571,BRCA,2,11,0,True,False,all_wrong,8~27개,2,False,
+573,HNSC,2,20,0,True,False,all_wrong,8~27개,2,False,
+575,SARC,3,1,0,True,False,all_wrong,1~7개,2,False,
+576,THYM,1,0,0,True,False,all_wrong,0개,3,False,
+578,PAAD,2,24,0,True,False,all_wrong,8~27개,2,False,
+579,PCPG,3,3,0,True,False,all_wrong,1~7개,2,False,
+581,GBMLGG,3,8,0,True,False,all_wrong,8~27개,1,True,LGG
+583,LIHC,3,21,0,True,False,all_wrong,8~27개,3,False,
+584,LAML,1,8,0,True,False,all_wrong,8~27개,3,False,
+585,HNSC,2,13,0,True,False,all_wrong,8~27개,1,True,KIPAN
+586,BLCA,1,80,0,True,False,all_wrong,28개 이상,3,False,
+588,TGCT,3,9,0,True,False,all_wrong,8~27개,3,False,
+589,PRAD,3,5,0,True,False,all_wrong,1~7개,2,False,
+591,LUAD,3,21,0,True,False,all_wrong,8~27개,4,False,
+594,CESC,1,13,0,True,False,all_wrong,8~27개,3,False,
+596,STES,3,47,0,True,False,all_wrong,28개 이상,2,False,
+599,GBMLGG,1,13,0,True,False,all_wrong,8~27개,3,False,
+601,STES,2,1076,0,True,False,all_wrong,28개 이상,2,False,
+602,STES,3,12,0,True,False,all_wrong,8~27개,2,False,
+603,BRCA,2,14,0,True,False,all_wrong,8~27개,2,False,
+605,STES,3,59,0,True,False,all_wrong,28개 이상,1,True,COAD
+606,OV,3,5,0,True,False,all_wrong,1~7개,2,False,
+608,LUAD,3,16,0,True,False,all_wrong,8~27개,2,False,
+610,KIPAN,2,8,0,True,False,all_wrong,8~27개,4,False,
+614,DLBC,2,6,0,True,False,all_wrong,1~7개,3,False,
+616,STES,2,17,0,True,False,all_wrong,8~27개,3,False,
+618,STES,2,6,0,True,False,all_wrong,1~7개,2,False,
+619,HNSC,1,49,0,True,False,all_wrong,28개 이상,1,True,COAD
+621,STES,1,51,0,True,False,all_wrong,28개 이상,3,False,
+623,PCPG,1,8,0,True,False,all_wrong,8~27개,2,False,
+631,KIRC,2,6,0,True,False,all_wrong,1~7개,2,False,
+632,LAML,1,4,0,True,False,all_wrong,1~7개,3,False,
+633,BRCA,1,10,0,True,False,all_wrong,8~27개,3,False,
+634,PRAD,3,9,0,True,False,all_wrong,8~27개,4,False,
+635,LUAD,3,28,0,True,False,all_wrong,28개 이상,1,True,PAAD
+636,THYM,1,0,0,True,False,all_wrong,0개,3,False,
+639,STES,3,52,0,True,False,all_wrong,28개 이상,1,True,COAD
+641,KIPAN,1,20,0,True,False,all_wrong,8~27개,1,True,SARC
+642,KIPAN,3,9,0,True,False,all_wrong,8~27개,4,False,
+643,BRCA,2,11,0,True,False,all_wrong,8~27개,2,False,
+649,STES,1,20,0,True,False,all_wrong,8~27개,3,False,
+650,LUAD,3,37,0,True,False,all_wrong,28개 이상,2,False,
+651,UCEC,1,10,0,True,False,all_wrong,8~27개,1,True,BRCA
+653,HNSC,1,23,0,True,False,all_wrong,8~27개,2,False,
+657,SARC,2,5,0,True,False,all_wrong,1~7개,1,True,OV
+658,BRCA,2,16,0,True,False,all_wrong,8~27개,3,False,
+659,LAML,3,2,0,True,False,all_wrong,1~7개,3,False,
+666,KIPAN,2,10,0,True,False,all_wrong,8~27개,1,True,OV
+671,LGG,1,0,0,True,False,all_wrong,0개,3,False,
+672,TGCT,3,17,0,True,False,all_wrong,8~27개,4,False,
+674,THCA,3,5,0,True,False,all_wrong,1~7개,4,False,
+676,PAAD,3,11,0,True,False,all_wrong,8~27개,3,False,
+677,THYM,3,9,0,True,False,all_wrong,8~27개,2,False,
+681,LUSC,2,55,0,True,False,all_wrong,28개 이상,1,True,BRCA
+682,STES,2,932,0,True,False,all_wrong,28개 이상,4,False,
+684,LUAD,3,24,0,True,False,all_wrong,8~27개,1,True,THCA
+691,LUSC,2,86,0,True,False,all_wrong,28개 이상,2,False,
+692,KIRC,1,8,0,True,False,all_wrong,8~27개,1,True,PRAD
+694,SKCM,1,15,0,True,False,all_wrong,8~27개,1,True,THCA
+695,KIRC,3,13,0,True,False,all_wrong,8~27개,2,False,
+698,SKCM,2,14,0,True,False,all_wrong,8~27개,1,True,PRAD
+700,STES,2,15,0,True,False,all_wrong,8~27개,3,False,
+702,GBMLGG,3,10,0,True,False,all_wrong,8~27개,3,False,
+703,COAD,1,6,0,True,False,all_wrong,1~7개,1,True,BRCA
+705,LIHC,1,48,0,True,False,all_wrong,28개 이상,3,False,
+706,CESC,3,25,0,True,False,all_wrong,8~27개,3,False,
+707,KIPAN,2,1,0,True,False,all_wrong,1~7개,3,False,
+708,KIPAN,1,12,0,True,False,all_wrong,8~27개,3,False,
+709,KIRC,2,20,0,True,False,all_wrong,8~27개,2,False,
+710,KIRC,1,6,0,True,False,all_wrong,1~7개,3,False,
+712,GBMLGG,1,5,0,True,False,all_wrong,1~7개,1,True,LGG
+713,GBMLGG,2,4,0,True,False,all_wrong,1~7개,1,True,LGG
+715,OV,1,14,0,True,False,all_wrong,8~27개,1,True,BRCA
+716,KIPAN,1,26,0,True,False,all_wrong,8~27개,2,False,
+719,PRAD,2,17,0,True,False,all_wrong,8~27개,2,False,
+721,STES,1,65,0,True,False,all_wrong,28개 이상,1,True,COAD
+722,KIPAN,2,24,0,True,False,all_wrong,8~27개,1,True,KIRC
+729,PCPG,3,5,0,True,False,all_wrong,1~7개,3,False,
+733,GBMLGG,1,21,0,True,False,all_wrong,8~27개,3,False,
+735,STES,2,22,0,True,False,all_wrong,8~27개,2,False,
+737,STES,2,20,0,True,False,all_wrong,8~27개,3,False,
+740,KIPAN,2,12,0,True,False,all_wrong,8~27개,2,False,
+742,LUSC,1,42,0,True,False,all_wrong,28개 이상,2,False,
+746,LUSC,3,103,0,True,False,all_wrong,28개 이상,4,False,
+749,BRCA,1,7,0,True,False,all_wrong,1~7개,3,False,
+750,CESC,1,1,0,True,False,all_wrong,1~7개,3,False,
+756,LIHC,1,16,0,True,False,all_wrong,8~27개,1,True,GBMLGG
+759,SARC,3,1,0,True,False,all_wrong,1~7개,1,True,PRAD
+760,LIHC,2,29,0,True,False,all_wrong,28개 이상,2,False,
+766,STES,1,29,0,True,False,all_wrong,28개 이상,3,False,
+767,ACC,1,13,0,True,False,all_wrong,8~27개,2,False,
+768,OV,2,12,0,True,False,all_wrong,8~27개,3,False,
+773,BLCA,3,84,0,True,False,all_wrong,28개 이상,4,False,
+775,LUAD,2,73,0,True,False,all_wrong,28개 이상,3,False,
+776,GBMLGG,2,6,0,True,False,all_wrong,1~7개,1,True,LGG
+778,BLCA,1,73,0,True,False,all_wrong,28개 이상,2,False,
+781,CESC,1,0,0,True,False,all_wrong,0개,3,False,
+786,TGCT,2,16,0,True,False,all_wrong,8~27개,2,False,
+787,KIRC,1,5,0,True,False,all_wrong,1~7개,2,False,
+788,KIPAN,3,7,0,True,False,all_wrong,1~7개,3,False,
+792,LGG,1,10,0,True,False,all_wrong,8~27개,2,False,
+795,UCEC,1,17,0,True,False,all_wrong,8~27개,2,False,
+796,KIRC,3,20,0,True,False,all_wrong,8~27개,3,False,
+797,TGCT,2,26,0,True,False,all_wrong,8~27개,1,True,COAD
+799,KIPAN,1,18,0,True,False,all_wrong,8~27개,2,False,
+800,STES,1,7,0,True,False,all_wrong,1~7개,2,False,
+804,THCA,1,3,0,True,False,all_wrong,1~7개,3,False,
+807,SKCM,1,37,0,True,False,all_wrong,28개 이상,3,False,
+810,PCPG,1,2,0,True,False,all_wrong,1~7개,2,False,
+812,GBMLGG,1,10,0,True,False,all_wrong,8~27개,1,True,LGG
+813,LAML,1,0,0,True,False,all_wrong,0개,3,False,
+817,STES,1,12,0,True,False,all_wrong,8~27개,3,False,
+819,PCPG,1,2,0,True,False,all_wrong,1~7개,3,False,
+823,KIRC,3,7,0,True,False,all_wrong,1~7개,2,False,
+824,TGCT,1,17,0,True,False,all_wrong,8~27개,1,True,SARC
+828,GBMLGG,2,12,0,True,False,all_wrong,8~27개,1,True,BRCA
+829,KIRC,2,21,0,True,False,all_wrong,8~27개,3,False,
+830,TGCT,3,12,0,True,False,all_wrong,8~27개,3,False,
+831,KIPAN,1,15,0,True,False,all_wrong,8~27개,3,False,
+834,OV,1,6,0,True,False,all_wrong,1~7개,2,False,
+836,BRCA,1,9,0,True,False,all_wrong,8~27개,1,True,OV
+840,DLBC,1,21,0,True,False,all_wrong,8~27개,2,False,
+843,SKCM,3,74,0,True,False,all_wrong,28개 이상,3,False,
+844,THCA,2,1,0,True,False,all_wrong,1~7개,2,False,
+846,BLCA,3,45,0,True,False,all_wrong,28개 이상,3,False,
+847,LIHC,1,32,0,True,False,all_wrong,28개 이상,1,True,COAD
+848,SARC,2,3,0,True,False,all_wrong,1~7개,1,True,OV
+851,STES,1,11,0,True,False,all_wrong,8~27개,3,False,
+853,PRAD,3,3,0,True,False,all_wrong,1~7개,2,False,
+854,LGG,2,121,0,True,False,all_wrong,28개 이상,4,False,
+856,KIRC,3,5,0,True,False,all_wrong,1~7개,2,False,
+858,CESC,2,21,0,True,False,all_wrong,8~27개,1,True,LAML
+859,BLCA,1,65,0,True,False,all_wrong,28개 이상,1,True,STES
+860,UCEC,1,12,0,True,False,all_wrong,8~27개,1,True,OV
+861,LUSC,2,36,0,True,False,all_wrong,28개 이상,1,True,STES
+863,BLCA,1,29,0,True,False,all_wrong,28개 이상,3,False,
+865,SARC,3,6,0,True,False,all_wrong,1~7개,2,False,
+868,STES,1,39,0,True,False,all_wrong,28개 이상,4,False,
+869,GBMLGG,3,20,0,True,False,all_wrong,8~27개,3,False,
+872,SKCM,2,17,0,True,False,all_wrong,8~27개,2,False,
+873,LUSC,2,27,0,True,False,all_wrong,8~27개,2,False,
+874,CESC,1,38,0,True,False,all_wrong,28개 이상,1,True,BRCA
+875,BLCA,3,93,0,True,False,all_wrong,28개 이상,3,False,
+879,GBMLGG,2,1,0,True,False,all_wrong,1~7개,2,False,
+881,SARC,3,6,0,True,False,all_wrong,1~7개,1,True,PCPG
+882,BRCA,2,17,0,True,False,all_wrong,8~27개,2,False,
+883,COAD,3,12,0,True,False,all_wrong,8~27개,2,False,
+886,KIRC,3,5,0,True,False,all_wrong,1~7개,1,True,LAML
+888,KIPAN,2,10,0,True,False,all_wrong,8~27개,1,True,OV
+889,SKCM,2,83,0,True,False,all_wrong,28개 이상,4,False,
+892,LGG,2,5,0,True,False,all_wrong,1~7개,1,True,OV
+894,THYM,1,0,0,True,False,all_wrong,0개,3,False,
+895,LAML,1,1,0,True,False,all_wrong,1~7개,3,False,
+897,PRAD,1,46,0,True,False,all_wrong,28개 이상,1,True,BRCA
+898,SARC,3,16,0,True,False,all_wrong,8~27개,4,False,
+899,SKCM,1,53,0,True,False,all_wrong,28개 이상,2,False,
+901,LUSC,2,16,0,True,False,all_wrong,8~27개,2,False,
+906,CESC,3,16,0,True,False,all_wrong,8~27개,3,False,
+907,COAD,3,21,0,True,False,all_wrong,8~27개,2,False,
+908,PRAD,3,4,0,True,False,all_wrong,1~7개,3,False,
+910,THYM,2,15,0,True,False,all_wrong,8~27개,2,False,
+916,PCPG,2,4,0,True,False,all_wrong,1~7개,3,False,
+917,HNSC,2,58,0,True,False,all_wrong,28개 이상,2,False,
+923,LUSC,3,62,0,True,False,all_wrong,28개 이상,4,False,
+924,KIPAN,1,28,0,True,False,all_wrong,28개 이상,2,False,
+925,PCPG,3,7,0,True,False,all_wrong,1~7개,2,False,
+926,THYM,2,4,0,True,False,all_wrong,1~7개,4,False,
+929,KIRC,2,9,0,True,False,all_wrong,8~27개,2,False,
+931,HNSC,2,47,0,True,False,all_wrong,28개 이상,2,False,
+932,STES,1,24,0,True,False,all_wrong,8~27개,3,False,
+934,BLCA,1,43,0,True,False,all_wrong,28개 이상,3,False,
+935,BLCA,1,108,0,True,False,all_wrong,28개 이상,3,False,
+937,THYM,3,7,0,True,False,all_wrong,1~7개,2,False,
+939,TGCT,3,16,0,True,False,all_wrong,8~27개,3,False,
+940,PCPG,1,7,0,True,False,all_wrong,1~7개,2,False,
+941,SKCM,3,31,0,True,False,all_wrong,28개 이상,2,False,
+945,KIRC,3,15,0,True,False,all_wrong,8~27개,1,True,PCPG
+946,LUSC,1,105,0,True,False,all_wrong,28개 이상,2,False,
+951,CESC,3,13,0,True,False,all_wrong,8~27개,1,True,THCA
+952,BRCA,2,26,0,True,False,all_wrong,8~27개,4,False,
+953,COAD,1,33,0,True,False,all_wrong,28개 이상,1,True,BRCA
+955,THCA,2,4,0,True,False,all_wrong,1~7개,1,True,PCPG
+956,GBMLGG,2,2,0,True,False,all_wrong,1~7개,1,True,LGG
+957,PRAD,3,4,0,True,False,all_wrong,1~7개,1,True,OV
+959,STES,3,55,0,True,False,all_wrong,28개 이상,2,False,
+960,GBMLGG,3,20,0,True,False,all_wrong,8~27개,3,False,
+961,STES,1,28,0,True,False,all_wrong,28개 이상,1,True,COAD
+962,PCPG,2,5,0,True,False,all_wrong,1~7개,4,False,
+963,SKCM,2,5,0,True,False,all_wrong,1~7개,3,False,
+967,HNSC,3,128,0,True,False,all_wrong,28개 이상,3,False,
+968,THCA,2,2,0,True,False,all_wrong,1~7개,2,False,
+969,BLCA,2,43,0,True,False,all_wrong,28개 이상,1,True,HNSC
+971,LIHC,1,33,0,True,False,all_wrong,28개 이상,3,False,
+973,CESC,1,10,0,True,False,all_wrong,8~27개,2,False,
+974,THCA,3,4,0,True,False,all_wrong,1~7개,3,False,
+975,CESC,1,7,0,True,False,all_wrong,1~7개,3,False,
+978,STES,2,50,0,True,False,all_wrong,28개 이상,3,False,
+986,GBMLGG,2,5,0,True,False,all_wrong,1~7개,1,True,LAML
+987,KIPAN,3,10,0,True,False,all_wrong,8~27개,2,False,
+988,UCEC,3,9,0,True,False,all_wrong,8~27개,1,True,BRCA
+990,LUSC,1,51,0,True,False,all_wrong,28개 이상,3,False,
+992,PRAD,3,5,0,True,False,all_wrong,1~7개,3,False,
+995,GBMLGG,1,9,0,True,False,all_wrong,8~27개,3,False,
+1001,PRAD,1,7,0,True,False,all_wrong,1~7개,3,False,
+1003,KIPAN,3,15,0,True,False,all_wrong,8~27개,2,False,
+1006,PCPG,2,9,0,True,False,all_wrong,8~27개,3,False,
+1007,LAML,1,0,0,True,False,all_wrong,0개,3,False,
+1010,LIHC,3,14,0,True,False,all_wrong,8~27개,3,False,
+1011,PAAD,3,16,0,True,False,all_wrong,8~27개,2,False,
+1012,LUSC,3,74,0,True,False,all_wrong,28개 이상,4,False,
+1013,BRCA,2,163,0,True,False,all_wrong,28개 이상,3,False,
+1015,BRCA,3,15,0,True,False,all_wrong,8~27개,1,True,COAD
+1018,KIPAN,3,8,0,True,False,all_wrong,8~27개,4,False,
+1020,CESC,3,35,0,True,False,all_wrong,28개 이상,3,False,
+1023,LAML,2,5,0,True,False,all_wrong,1~7개,1,True,OV
+1024,SARC,1,11,0,True,False,all_wrong,8~27개,2,False,
+1025,STES,1,29,0,True,False,all_wrong,28개 이상,2,False,
+1026,PCPG,1,6,0,True,False,all_wrong,1~7개,4,False,
+1028,BRCA,1,3,0,True,False,all_wrong,1~7개,1,True,PRAD
+1030,LUSC,3,88,0,True,False,all_wrong,28개 이상,3,False,
+1032,KIPAN,1,22,0,True,False,all_wrong,8~27개,3,False,
+1033,GBMLGG,3,13,0,True,False,all_wrong,8~27개,3,False,
+1037,STES,3,15,0,True,False,all_wrong,8~27개,4,False,
+1041,LIHC,1,14,0,True,False,all_wrong,8~27개,3,False,
+1042,CESC,2,18,0,True,False,all_wrong,8~27개,4,False,
+1043,LIHC,2,53,0,True,False,all_wrong,28개 이상,4,False,
+1045,COAD,2,5,0,True,False,all_wrong,1~7개,2,False,
+1047,DLBC,3,30,0,True,False,all_wrong,28개 이상,2,False,
+1048,LIHC,3,14,0,True,False,all_wrong,8~27개,2,False,
+1051,PAAD,1,20,0,True,False,all_wrong,8~27개,2,False,
+1055,OV,2,17,0,True,False,all_wrong,8~27개,2,False,
+1057,LAML,3,4,0,True,False,all_wrong,1~7개,2,False,
+1058,GBMLGG,3,11,0,True,False,all_wrong,8~27개,1,True,LGG
+1059,LIHC,3,14,0,True,False,all_wrong,8~27개,1,True,GBMLGG
+1060,PAAD,2,29,0,True,False,all_wrong,28개 이상,2,False,
+1063,KIPAN,2,19,0,True,False,all_wrong,8~27개,2,False,
+1064,PRAD,3,10,0,True,False,all_wrong,8~27개,3,False,
+1065,LGG,1,14,0,True,False,all_wrong,8~27개,1,True,GBMLGG
+1066,KIRC,2,9,0,True,False,all_wrong,8~27개,1,True,BRCA
+1067,PRAD,3,7,0,True,False,all_wrong,1~7개,4,False,
+1068,STES,3,20,0,True,False,all_wrong,8~27개,2,False,
+1069,LGG,3,11,0,True,False,all_wrong,8~27개,3,False,
+1071,PRAD,3,9,0,True,False,all_wrong,8~27개,2,False,
+1073,KIRC,1,2,0,True,False,all_wrong,1~7개,3,False,
+1075,PAAD,1,17,0,True,False,all_wrong,8~27개,2,False,
+1076,BRCA,3,26,0,True,False,all_wrong,8~27개,3,False,
+1077,SARC,3,5,0,True,False,all_wrong,1~7개,2,False,
+1078,HNSC,3,83,0,True,False,all_wrong,28개 이상,2,False,
+1079,OV,3,12,0,True,False,all_wrong,8~27개,2,False,
+1083,KIPAN,3,10,0,True,False,all_wrong,8~27개,4,False,
+1084,CESC,1,7,0,True,False,all_wrong,1~7개,3,False,
+1086,LUAD,2,43,0,True,False,all_wrong,28개 이상,3,False,
+1087,PRAD,3,13,0,True,False,all_wrong,8~27개,3,False,
+1088,HNSC,2,72,0,True,False,all_wrong,28개 이상,2,False,
+1089,PRAD,2,2,0,True,False,all_wrong,1~7개,1,True,THYM
+1094,GBMLGG,3,4,0,True,False,all_wrong,1~7개,1,True,LGG
+1095,BRCA,3,26,0,True,False,all_wrong,8~27개,4,False,
+1099,STES,3,60,0,True,False,all_wrong,28개 이상,2,False,
+1100,SARC,2,6,0,True,False,all_wrong,1~7개,3,False,
+1101,LUAD,2,24,0,True,False,all_wrong,8~27개,2,False,
+1104,OV,3,3,0,True,False,all_wrong,1~7개,4,False,
+1107,LAML,2,8,0,True,False,all_wrong,8~27개,2,False,
+1110,LUSC,3,35,0,True,False,all_wrong,28개 이상,3,False,
+1112,HNSC,3,33,0,True,False,all_wrong,28개 이상,3,False,
+1115,HNSC,2,18,0,True,False,all_wrong,8~27개,3,False,
+1121,THCA,1,0,0,True,False,all_wrong,0개,3,False,
+1124,GBMLGG,1,16,0,True,False,all_wrong,8~27개,1,True,LAML
+1125,CESC,2,14,0,True,False,all_wrong,8~27개,3,False,
+1127,GBMLGG,2,10,0,True,False,all_wrong,8~27개,3,False,
+1129,GBMLGG,1,23,0,True,False,all_wrong,8~27개,1,True,COAD
+1130,STES,2,159,0,True,False,all_wrong,28개 이상,1,True,SKCM
+1134,SKCM,2,24,0,True,False,all_wrong,8~27개,2,False,
+1135,PCPG,1,6,0,True,False,all_wrong,1~7개,4,False,
+1137,KIPAN,2,10,0,True,False,all_wrong,8~27개,3,False,
+1141,BRCA,2,12,0,True,False,all_wrong,8~27개,1,True,PCPG
+1143,KIRC,3,15,0,True,False,all_wrong,8~27개,1,True,KIPAN
+1146,KIPAN,2,26,0,True,False,all_wrong,8~27개,1,True,BRCA
+1147,LUSC,1,44,0,True,False,all_wrong,28개 이상,3,False,
+1148,COAD,1,24,0,True,False,all_wrong,8~27개,2,False,
+1150,STES,3,13,0,True,False,all_wrong,8~27개,1,True,GBMLGG
+1151,LUSC,2,82,0,True,False,all_wrong,28개 이상,2,False,
+1154,PCPG,3,1,0,True,False,all_wrong,1~7개,2,False,
+1156,KIRC,1,24,0,True,False,all_wrong,8~27개,2,False,
+1160,CESC,2,38,0,True,False,all_wrong,28개 이상,2,False,
+1161,OV,3,15,0,True,False,all_wrong,8~27개,3,False,
+1164,SARC,3,7,0,True,False,all_wrong,1~7개,1,True,OV
+1167,COAD,2,18,0,True,False,all_wrong,8~27개,1,True,OV
+1175,UCEC,2,15,0,True,False,all_wrong,8~27개,1,True,BRCA
+1177,PRAD,2,8,0,True,False,all_wrong,8~27개,2,False,
+1178,LUAD,1,65,0,True,False,all_wrong,28개 이상,1,True,STES
+1180,GBMLGG,2,16,0,True,False,all_wrong,8~27개,2,False,
+1181,BRCA,2,5,0,True,False,all_wrong,1~7개,1,True,OV
+1182,BLCA,1,23,0,True,False,all_wrong,8~27개,2,False,
+1187,PCPG,2,3,0,True,False,all_wrong,1~7개,3,False,
+1192,LIHC,3,22,0,True,False,all_wrong,8~27개,3,False,
+1194,THCA,2,4,0,True,False,all_wrong,1~7개,3,False,
+1197,KIPAN,2,11,0,True,False,all_wrong,8~27개,1,True,THCA
+1201,BRCA,1,5,0,True,False,all_wrong,1~7개,1,True,OV
+1203,PCPG,1,3,0,True,False,all_wrong,1~7개,1,True,THCA
+1205,BRCA,2,16,0,True,False,all_wrong,8~27개,2,False,
+1207,STES,2,8,0,True,False,all_wrong,8~27개,2,False,
+1208,TGCT,3,127,0,True,False,all_wrong,28개 이상,2,False,
+1215,CESC,2,56,0,True,False,all_wrong,28개 이상,3,False,
+1216,GBMLGG,2,14,0,True,False,all_wrong,8~27개,1,True,LGG
+1217,SARC,3,7,0,True,False,all_wrong,1~7개,3,False,
+1218,THCA,1,2,0,True,False,all_wrong,1~7개,2,False,
+1219,SARC,2,11,0,True,False,all_wrong,8~27개,4,False,
+1220,KIPAN,1,18,0,True,False,all_wrong,8~27개,2,False,
+1221,HNSC,1,42,0,True,False,all_wrong,28개 이상,2,False,
+1224,SKCM,2,94,0,True,False,all_wrong,28개 이상,3,False,
+1225,OV,2,10,0,True,False,all_wrong,8~27개,1,True,PRAD
+1227,KIPAN,3,13,0,True,False,all_wrong,8~27개,1,True,KIRC
+1234,COAD,1,46,0,True,False,all_wrong,28개 이상,3,False,
+1235,ACC,3,396,0,True,False,all_wrong,28개 이상,2,False,
+1236,GBMLGG,2,9,0,True,False,all_wrong,8~27개,1,True,BRCA
+1237,PCPG,3,4,0,True,False,all_wrong,1~7개,2,False,
+1239,LUAD,1,35,0,True,False,all_wrong,28개 이상,4,False,
+1240,LUSC,2,20,0,True,False,all_wrong,8~27개,3,False,
+1245,LGG,3,4,0,True,False,all_wrong,1~7개,1,True,SARC
+1251,THCA,2,3,0,True,False,all_wrong,1~7개,2,False,
+1253,COAD,2,362,0,True,False,all_wrong,28개 이상,2,False,
+1255,PAAD,3,14,0,True,False,all_wrong,8~27개,2,False,
+1260,BRCA,3,8,0,True,False,all_wrong,8~27개,2,False,
+1261,BLCA,1,97,0,True,False,all_wrong,28개 이상,4,False,
+1262,PCPG,1,1,0,True,False,all_wrong,1~7개,3,False,
+1263,DLBC,2,22,0,True,False,all_wrong,8~27개,1,True,PRAD
+1267,CESC,1,48,0,True,False,all_wrong,28개 이상,2,False,
+1273,THCA,2,12,0,True,False,all_wrong,8~27개,4,False,
+1274,STES,2,446,0,True,False,all_wrong,28개 이상,1,True,SKCM
+1280,KIPAN,3,13,0,True,False,all_wrong,8~27개,1,True,KIRC
+1281,KIRC,1,6,0,True,False,all_wrong,1~7개,1,True,BRCA
+1283,OV,2,18,0,True,False,all_wrong,8~27개,2,False,
+1285,OV,1,19,0,True,False,all_wrong,8~27개,2,False,
+1287,KIPAN,3,17,0,True,False,all_wrong,8~27개,1,True,BRCA
+1289,BRCA,2,3,0,True,False,all_wrong,1~7개,1,True,LAML
+1292,THCA,1,9,0,True,False,all_wrong,8~27개,2,False,
+1296,LAML,1,1,0,True,False,all_wrong,1~7개,3,False,
+1297,LUSC,2,47,0,True,False,all_wrong,28개 이상,1,True,STES
+1298,OV,2,1,0,True,False,all_wrong,1~7개,2,False,
+1300,KIRC,1,16,0,True,False,all_wrong,8~27개,3,False,
+1301,PRAD,3,3,0,True,False,all_wrong,1~7개,2,False,
+1303,PCPG,1,4,0,True,False,all_wrong,1~7개,2,False,
+1305,BLCA,2,57,0,True,False,all_wrong,28개 이상,3,False,
+1308,PRAD,3,3,0,True,False,all_wrong,1~7개,1,True,PCPG
+1309,COAD,2,31,0,True,False,all_wrong,28개 이상,1,True,STES
+1310,KIPAN,1,14,0,True,False,all_wrong,8~27개,2,False,
+1315,SARC,2,9,0,True,False,all_wrong,8~27개,1,True,OV
+1317,HNSC,2,61,0,True,False,all_wrong,28개 이상,3,False,
+1318,PAAD,2,17,0,True,False,all_wrong,8~27개,3,False,
+1319,PAAD,3,21,0,True,False,all_wrong,8~27개,3,False,
+1320,GBMLGG,1,9,0,True,False,all_wrong,8~27개,1,True,LGG
+1322,STES,1,20,0,True,False,all_wrong,8~27개,1,True,BRCA
+1323,BRCA,3,3,0,True,False,all_wrong,1~7개,2,False,
+1326,COAD,3,26,0,True,False,all_wrong,8~27개,2,False,
+1329,TGCT,2,11,0,True,False,all_wrong,8~27개,2,False,
+1331,KIPAN,1,22,0,True,False,all_wrong,8~27개,1,True,BRCA
+1335,PCPG,3,2,0,True,False,all_wrong,1~7개,1,True,THYM
+1339,SKCM,1,18,0,True,False,all_wrong,8~27개,2,False,
+1340,SKCM,1,22,0,True,False,all_wrong,8~27개,2,False,
+1341,KIPAN,3,5,0,True,False,all_wrong,1~7개,3,False,
+1343,LUSC,3,55,0,True,False,all_wrong,28개 이상,4,False,
+1344,KIPAN,2,7,0,True,False,all_wrong,1~7개,3,False,
+1346,PRAD,1,4,0,True,False,all_wrong,1~7개,2,False,
+1349,BLCA,3,10,0,True,False,all_wrong,8~27개,2,False,
+1350,TGCT,2,20,0,True,False,all_wrong,8~27개,3,False,
+1353,THCA,2,3,0,True,False,all_wrong,1~7개,2,False,
+1355,COAD,1,15,0,True,False,all_wrong,8~27개,1,True,OV
+1356,LAML,2,1,0,True,False,all_wrong,1~7개,1,True,LGG
+1358,SKCM,3,22,0,True,False,all_wrong,8~27개,1,True,THCA
+1359,GBMLGG,1,17,0,True,False,all_wrong,8~27개,1,True,BRCA
+1363,BRCA,2,10,0,True,False,all_wrong,8~27개,3,False,
+1364,STES,3,53,0,True,False,all_wrong,28개 이상,1,True,LIHC
+1367,LGG,1,23,0,True,False,all_wrong,8~27개,1,True,COAD
+1368,SARC,2,6,0,True,False,all_wrong,1~7개,2,False,
+1371,GBMLGG,1,4,0,True,False,all_wrong,1~7개,1,True,LGG
+1373,LUAD,1,11,0,True,False,all_wrong,8~27개,2,False,
+1374,KIPAN,2,5,0,True,False,all_wrong,1~7개,3,False,
+1375,PCPG,2,7,0,True,False,all_wrong,1~7개,2,False,
+1376,KIPAN,2,12,0,True,False,all_wrong,8~27개,1,True,KIRC
+1379,CESC,3,117,0,True,False,all_wrong,28개 이상,3,False,
+1381,SKCM,1,15,0,True,False,all_wrong,8~27개,3,False,
+1382,OV,3,42,0,True,False,all_wrong,28개 이상,2,False,
+1385,HNSC,2,10,0,True,False,all_wrong,8~27개,1,True,OV
+1386,THCA,1,0,0,True,False,all_wrong,0개,3,False,
+1387,KIPAN,1,15,0,True,False,all_wrong,8~27개,3,False,
+1388,PCPG,3,5,0,True,False,all_wrong,1~7개,3,False,
+1391,PAAD,3,11,0,True,False,all_wrong,8~27개,3,False,
+1394,LUAD,3,148,0,True,False,all_wrong,28개 이상,3,False,
+1396,KIRC,3,13,0,True,False,all_wrong,8~27개,2,False,
+1397,OV,2,7,0,True,False,all_wrong,1~7개,2,False,
+1398,KIRC,2,8,0,True,False,all_wrong,8~27개,3,False,
+1400,THCA,3,6,0,True,False,all_wrong,1~7개,2,False,
+1403,CESC,1,27,0,True,False,all_wrong,8~27개,3,False,
+1411,LAML,2,6,0,True,False,all_wrong,1~7개,1,True,LGG
+1415,LUAD,2,17,0,True,False,all_wrong,8~27개,2,False,
+1417,HNSC,1,41,0,True,False,all_wrong,28개 이상,2,False,
+1418,LUAD,2,26,0,True,False,all_wrong,8~27개,2,False,
+1420,BRCA,2,5,0,True,False,all_wrong,1~7개,2,False,
+1424,PAAD,1,26,0,True,False,all_wrong,8~27개,4,False,
+1425,THYM,1,0,0,True,False,all_wrong,0개,3,False,
+1427,KIRC,2,13,0,True,False,all_wrong,8~27개,1,True,GBMLGG
+1429,STES,2,28,0,True,False,all_wrong,28개 이상,1,True,OV
+1430,SARC,1,4,0,True,False,all_wrong,1~7개,3,False,
+1431,PRAD,2,9,0,True,False,all_wrong,8~27개,3,False,
+1434,BRCA,1,6,0,True,False,all_wrong,1~7개,1,True,OV
+1439,GBMLGG,3,5,0,True,False,all_wrong,1~7개,1,True,LGG
+1440,PAAD,2,17,0,True,False,all_wrong,8~27개,2,False,
+1445,STES,2,44,0,True,False,all_wrong,28개 이상,1,True,BRCA
+1446,BRCA,3,5,0,True,False,all_wrong,1~7개,1,True,OV
+1447,STES,3,63,0,True,False,all_wrong,28개 이상,2,False,
+1449,LIHC,3,24,0,True,False,all_wrong,8~27개,1,True,UCEC
+1450,KIPAN,3,17,0,True,False,all_wrong,8~27개,1,True,KIRC
+1453,STES,2,36,0,True,False,all_wrong,28개 이상,3,False,
+1454,HNSC,1,44,0,True,False,all_wrong,28개 이상,2,False,
+1455,LUSC,1,29,0,True,False,all_wrong,28개 이상,3,False,
+1457,GBMLGG,3,9,0,True,False,all_wrong,8~27개,2,False,
+1458,BRCA,1,6,0,True,False,all_wrong,1~7개,1,True,PRAD
+1459,PRAD,1,5,0,True,False,all_wrong,1~7개,2,False,
+1460,THYM,1,0,0,True,False,all_wrong,0개,3,False,
+1462,THCA,2,2,0,True,False,all_wrong,1~7개,4,False,
+1463,SARC,1,6,0,True,False,all_wrong,1~7개,1,True,LAML
+1467,LIHC,1,7,0,True,False,all_wrong,1~7개,2,False,
+1471,BRCA,1,70,0,True,False,all_wrong,28개 이상,4,False,
+1472,STES,1,79,0,True,False,all_wrong,28개 이상,2,False,
+1474,BLCA,2,77,0,True,False,all_wrong,28개 이상,3,False,
+1475,BRCA,1,19,0,True,False,all_wrong,8~27개,3,False,
+1476,UCEC,1,10,0,True,False,all_wrong,8~27개,2,False,
+1478,STES,3,17,0,True,False,all_wrong,8~27개,3,False,
+1479,STES,3,18,0,True,False,all_wrong,8~27개,2,False,
+1480,THYM,1,0,0,True,False,all_wrong,0개,3,False,
+1481,CESC,2,7,0,True,False,all_wrong,1~7개,3,False,
+1482,GBMLGG,3,6,0,True,False,all_wrong,1~7개,1,True,LGG
+1485,PRAD,1,13,0,True,False,all_wrong,8~27개,1,True,OV
+1491,SARC,2,2,0,True,False,all_wrong,1~7개,2,False,
+1492,STES,3,48,0,True,False,all_wrong,28개 이상,2,False,
+1493,KIPAN,1,6,0,True,False,all_wrong,1~7개,2,False,
+1495,HNSC,3,19,0,True,False,all_wrong,8~27개,2,False,
+1497,BRCA,2,12,0,True,False,all_wrong,8~27개,1,True,OV
+1498,KIRC,3,9,0,True,False,all_wrong,8~27개,2,False,
+1499,BLCA,1,13,0,True,False,all_wrong,8~27개,1,True,THYM
+1500,COAD,3,21,0,True,False,all_wrong,8~27개,3,False,
+1501,PCPG,3,2,0,True,False,all_wrong,1~7개,3,False,
+1502,COAD,2,1146,0,True,False,all_wrong,28개 이상,1,True,UCEC
+1506,GBMLGG,1,16,0,True,False,all_wrong,8~27개,2,False,
+1514,GBMLGG,1,15,0,True,False,all_wrong,8~27개,1,True,TGCT
+1516,BRCA,1,34,0,True,False,all_wrong,28개 이상,2,False,
+1518,CESC,1,19,0,True,False,all_wrong,8~27개,3,False,
+1521,LUSC,2,20,0,True,False,all_wrong,8~27개,3,False,
+1522,GBMLGG,1,17,0,True,False,all_wrong,8~27개,3,False,
+1523,OV,1,23,0,True,False,all_wrong,8~27개,3,False,
+1524,SARC,2,4,0,True,False,all_wrong,1~7개,2,False,
+1528,CESC,2,11,0,True,False,all_wrong,8~27개,1,True,THCA
+1533,LUSC,3,33,0,True,False,all_wrong,28개 이상,3,False,
+1535,GBMLGG,3,10,0,True,False,all_wrong,8~27개,1,True,LGG
+1536,HNSC,3,87,0,True,False,all_wrong,28개 이상,4,False,
+1540,STES,1,41,0,True,False,all_wrong,28개 이상,2,False,
+1543,THCA,2,8,0,True,False,all_wrong,8~27개,1,True,PCPG
+1544,THCA,3,10,0,True,False,all_wrong,8~27개,3,False,
+1545,BLCA,2,25,0,True,False,all_wrong,8~27개,2,False,
+1546,LIHC,1,29,0,True,False,all_wrong,28개 이상,2,False,
+1547,BRCA,3,14,0,True,False,all_wrong,8~27개,1,True,OV
+1549,LIHC,1,28,0,True,False,all_wrong,28개 이상,3,False,
+1551,BLCA,2,27,0,True,False,all_wrong,8~27개,2,False,
+1555,THCA,1,0,0,True,False,all_wrong,0개,3,False,
+1556,HNSC,3,225,0,True,False,all_wrong,28개 이상,2,False,
+1559,LIHC,3,9,0,True,False,all_wrong,8~27개,1,True,OV
+1561,STES,2,29,0,True,False,all_wrong,28개 이상,4,False,
+1562,GBMLGG,2,8,0,True,False,all_wrong,8~27개,1,True,LGG
+1563,PRAD,2,4,0,True,False,all_wrong,1~7개,2,False,
+1564,STES,2,81,0,True,False,all_wrong,28개 이상,3,False,
+1569,LUSC,3,55,0,True,False,all_wrong,28개 이상,2,False,
+1572,COAD,2,26,0,True,False,all_wrong,8~27개,3,False,
+1573,BRCA,2,10,0,True,False,all_wrong,8~27개,1,True,OV
+1576,KIRC,1,18,0,True,False,all_wrong,8~27개,1,True,BRCA
+1577,COAD,3,31,0,True,False,all_wrong,28개 이상,2,False,
+1579,OV,1,14,0,True,False,all_wrong,8~27개,2,False,
+1580,SKCM,3,6,0,True,False,all_wrong,1~7개,3,False,
+1583,PCPG,1,4,0,True,False,all_wrong,1~7개,3,False,
+1584,PCPG,3,1,0,True,False,all_wrong,1~7개,2,False,
+1585,TGCT,1,22,0,True,False,all_wrong,8~27개,2,False,
+1587,THYM,1,0,0,True,False,all_wrong,0개,3,False,
+1589,THCA,2,7,0,True,False,all_wrong,1~7개,2,False,
+1591,PRAD,2,2,0,True,False,all_wrong,1~7개,2,False,
+1596,PAAD,1,14,0,True,False,all_wrong,8~27개,3,False,
+1597,STES,3,32,0,True,False,all_wrong,28개 이상,1,True,BRCA
+1600,HNSC,3,19,0,True,False,all_wrong,8~27개,2,False,
+1603,BLCA,2,228,0,True,False,all_wrong,28개 이상,2,False,
+1604,GBMLGG,2,6,0,True,False,all_wrong,1~7개,2,False,
+1605,COAD,2,9,0,True,False,all_wrong,8~27개,2,False,
+1606,BRCA,2,18,0,True,False,all_wrong,8~27개,3,False,
+1607,KIPAN,1,18,0,True,False,all_wrong,8~27개,1,True,BRCA
+1610,PRAD,3,5,0,True,False,all_wrong,1~7개,3,False,
+1611,GBMLGG,3,9,0,True,False,all_wrong,8~27개,1,True,LGG
+1612,HNSC,2,24,0,True,False,all_wrong,8~27개,1,True,OV
+1615,OV,3,10,0,True,False,all_wrong,8~27개,3,False,
+1616,CESC,2,31,0,True,False,all_wrong,28개 이상,3,False,
+1618,SKCM,3,67,0,True,False,all_wrong,28개 이상,1,True,LIHC
+1623,KIPAN,2,18,0,True,False,all_wrong,8~27개,1,True,OV
+1625,SARC,3,10,0,True,False,all_wrong,8~27개,4,False,
+1626,HNSC,2,20,0,True,False,all_wrong,8~27개,1,True,COAD
+1627,SARC,3,9,0,True,False,all_wrong,8~27개,3,False,
+1629,LIHC,2,22,0,True,False,all_wrong,8~27개,3,False,
+1633,STES,2,20,0,True,False,all_wrong,8~27개,1,True,PAAD
+1634,PRAD,2,29,0,True,False,all_wrong,28개 이상,3,False,
+1635,SARC,1,138,0,True,False,all_wrong,28개 이상,2,False,
+1638,KIRC,3,9,0,True,False,all_wrong,8~27개,3,False,
+1639,GBMLGG,2,7,0,True,False,all_wrong,1~7개,1,True,LGG
+1640,COAD,3,254,0,True,False,all_wrong,28개 이상,2,False,
+1642,LUAD,3,30,0,True,False,all_wrong,28개 이상,4,False,
+1645,LIHC,1,20,0,True,False,all_wrong,8~27개,2,False,
+1646,CESC,1,13,0,True,False,all_wrong,8~27개,1,True,COAD
+1647,STES,2,35,0,True,False,all_wrong,28개 이상,3,False,
+1650,KIPAN,3,15,0,True,False,all_wrong,8~27개,3,False,
+1651,HNSC,3,35,0,True,False,all_wrong,28개 이상,3,False,
+1652,LAML,2,1,0,True,False,all_wrong,1~7개,2,False,
+1653,GBMLGG,2,22,0,True,False,all_wrong,8~27개,1,True,BRCA
+1654,PRAD,2,8,0,True,False,all_wrong,8~27개,1,True,PCPG
+1658,CESC,2,12,0,True,False,all_wrong,8~27개,2,False,
+1662,OV,1,25,0,True,False,all_wrong,8~27개,1,True,BRCA
+1665,STES,3,27,0,True,False,all_wrong,8~27개,3,False,
+1668,GBMLGG,2,6,0,True,False,all_wrong,1~7개,3,False,
+1671,LGG,2,13,0,True,False,all_wrong,8~27개,1,True,GBMLGG
+1688,KIRC,2,5,0,True,False,all_wrong,1~7개,2,False,
+1693,KIRC,1,10,0,True,False,all_wrong,8~27개,2,False,
+1695,TGCT,2,12,0,True,False,all_wrong,8~27개,2,False,
+1697,KIPAN,1,14,0,True,False,all_wrong,8~27개,3,False,
+1699,LIHC,1,9,0,True,False,all_wrong,8~27개,1,True,COAD
+1700,KIPAN,3,4,0,True,False,all_wrong,1~7개,2,False,
+1701,PRAD,3,5,0,True,False,all_wrong,1~7개,3,False,
+1703,LUAD,1,11,0,True,False,all_wrong,8~27개,2,False,
+1704,THYM,2,18,0,True,False,all_wrong,8~27개,2,False,
+1705,STES,3,35,0,True,False,all_wrong,28개 이상,3,False,
+1710,LUAD,2,89,0,True,False,all_wrong,28개 이상,3,False,
+1711,KIRC,1,24,0,True,False,all_wrong,8~27개,1,True,BRCA
+1712,BRCA,3,11,0,True,False,all_wrong,8~27개,1,True,THYM
+1716,THYM,2,4,0,True,False,all_wrong,1~7개,2,False,
+1718,PRAD,1,3,0,True,False,all_wrong,1~7개,3,False,
+1721,STES,3,33,0,True,False,all_wrong,28개 이상,2,False,
+1727,BRCA,1,67,0,True,False,all_wrong,28개 이상,3,False,
+1728,KIRC,2,10,0,True,False,all_wrong,8~27개,1,True,LAML
+1731,KIRC,1,12,0,True,False,all_wrong,8~27개,2,False,
+1732,PCPG,2,7,0,True,False,all_wrong,1~7개,3,False,
+1734,SARC,3,10,0,True,False,all_wrong,8~27개,2,False,
+1737,KIPAN,1,25,0,True,False,all_wrong,8~27개,4,False,
+1738,PRAD,2,5,0,True,False,all_wrong,1~7개,2,False,
+1740,LIHC,3,23,0,True,False,all_wrong,8~27개,2,False,
+1742,PAAD,1,9,0,True,False,all_wrong,8~27개,2,False,
+1744,HNSC,2,34,0,True,False,all_wrong,28개 이상,1,True,COAD
+1745,LUAD,1,114,0,True,False,all_wrong,28개 이상,2,False,
+1746,OV,1,9,0,True,False,all_wrong,8~27개,3,False,
+1748,THCA,3,1,0,True,False,all_wrong,1~7개,2,False,
+1749,HNSC,3,10,0,True,False,all_wrong,8~27개,2,False,
+1750,CESC,1,22,0,True,False,all_wrong,8~27개,1,True,BRCA
+1753,LAML,1,0,0,True,False,all_wrong,0개,3,False,
+1755,PRAD,2,3,0,True,False,all_wrong,1~7개,2,False,
+1759,LAML,1,0,0,True,False,all_wrong,0개,3,False,
+1760,PRAD,2,6,0,True,False,all_wrong,1~7개,3,False,
+1771,BRCA,1,11,0,True,False,all_wrong,8~27개,2,False,
+1772,KIPAN,1,23,0,True,False,all_wrong,8~27개,1,True,KIRC
+1777,LIHC,2,11,0,True,False,all_wrong,8~27개,3,False,
+1778,HNSC,2,42,0,True,False,all_wrong,28개 이상,3,False,
+1779,GBMLGG,2,10,0,True,False,all_wrong,8~27개,1,True,LGG
+1781,OV,2,14,0,True,False,all_wrong,8~27개,1,True,PCPG
+1782,PRAD,3,5,0,True,False,all_wrong,1~7개,1,True,PCPG
+1783,BRCA,1,15,0,True,False,all_wrong,8~27개,2,False,
+1786,THCA,1,0,0,True,False,all_wrong,0개,3,False,
+1789,PAAD,1,2393,0,True,False,all_wrong,28개 이상,3,False,
+1791,GBMLGG,2,6,0,True,False,all_wrong,1~7개,1,True,LGG
+1795,BRCA,1,37,0,True,False,all_wrong,28개 이상,3,False,
+1796,LUSC,2,39,0,True,False,all_wrong,28개 이상,2,False,
+1800,LUSC,2,68,0,True,False,all_wrong,28개 이상,3,False,
+1801,THCA,2,2,0,True,False,all_wrong,1~7개,2,False,
+1802,LUAD,1,10,0,True,False,all_wrong,8~27개,1,True,PRAD
+1805,KIRC,2,24,0,True,False,all_wrong,8~27개,4,False,
+1807,OV,1,28,0,True,False,all_wrong,28개 이상,2,False,
+1811,COAD,1,24,0,True,False,all_wrong,8~27개,2,False,
+1813,BRCA,3,11,0,True,False,all_wrong,8~27개,2,False,
+1814,HNSC,1,36,0,True,False,all_wrong,28개 이상,4,False,
+1815,HNSC,2,13,0,True,False,all_wrong,8~27개,2,False,
+1816,HNSC,3,38,0,True,False,all_wrong,28개 이상,2,False,
+1817,CESC,1,13,0,True,False,all_wrong,8~27개,1,True,BRCA
+1818,COAD,2,208,0,True,False,all_wrong,28개 이상,2,False,
+1819,KIPAN,3,23,0,True,False,all_wrong,8~27개,3,False,
+1823,BRCA,1,16,0,True,False,all_wrong,8~27개,1,True,OV
+1827,BRCA,1,36,0,True,False,all_wrong,28개 이상,4,False,
+1829,KIPAN,3,7,0,True,False,all_wrong,1~7개,2,False,
+1830,KIPAN,3,5,0,True,False,all_wrong,1~7개,1,True,GBMLGG
+1833,CESC,3,20,0,True,False,all_wrong,8~27개,2,False,
+1834,LIHC,2,45,0,True,False,all_wrong,28개 이상,3,False,
+1835,THCA,1,5,0,True,False,all_wrong,1~7개,3,False,
+1837,BLCA,2,18,0,True,False,all_wrong,8~27개,1,True,BRCA
+1841,ACC,3,87,0,True,False,all_wrong,28개 이상,2,False,
+1845,STES,2,26,0,True,False,all_wrong,8~27개,3,False,
+1848,TGCT,3,19,0,True,False,all_wrong,8~27개,4,False,
+1849,SARC,1,10,0,True,False,all_wrong,8~27개,3,False,
+1852,PAAD,2,16,0,True,False,all_wrong,8~27개,3,False,
+1855,TGCT,1,17,0,True,False,all_wrong,8~27개,2,False,
+1856,KIPAN,3,28,0,True,False,all_wrong,28개 이상,4,False,
+1859,DLBC,2,18,0,True,False,all_wrong,8~27개,4,False,
+1860,BRCA,1,23,0,True,False,all_wrong,8~27개,2,False,
+1862,CESC,3,7,0,True,False,all_wrong,1~7개,2,False,
+1863,SKCM,1,7,0,True,False,all_wrong,1~7개,4,False,
+1866,BLCA,3,55,0,True,False,all_wrong,28개 이상,2,False,
+1867,BLCA,2,32,0,True,False,all_wrong,28개 이상,2,False,
+1874,CESC,2,20,0,True,False,all_wrong,8~27개,4,False,
+1875,PCPG,1,3,0,True,False,all_wrong,1~7개,2,False,
+1876,SKCM,1,9,0,True,False,all_wrong,8~27개,1,True,PCPG
+1877,BLCA,2,45,0,True,False,all_wrong,28개 이상,4,False,
+1880,PRAD,3,5,0,True,False,all_wrong,1~7개,2,False,
+1881,LUAD,1,7,0,True,False,all_wrong,1~7개,3,False,
+1882,KIRC,2,10,0,True,False,all_wrong,8~27개,2,False,
+1884,PCPG,2,2,0,True,False,all_wrong,1~7개,3,False,
+1885,STES,2,8,0,True,False,all_wrong,8~27개,1,True,BRCA
+1886,LAML,1,3,0,True,False,all_wrong,1~7개,4,False,
+1887,PRAD,3,19,0,True,False,all_wrong,8~27개,2,False,
+1888,GBMLGG,3,5,0,True,False,all_wrong,1~7개,1,True,LGG
+1889,HNSC,3,17,0,True,False,all_wrong,8~27개,3,False,
+1890,LIHC,3,21,0,True,False,all_wrong,8~27개,3,False,
+1893,KIRC,3,16,0,True,False,all_wrong,8~27개,3,False,
+1894,SKCM,3,5,0,True,False,all_wrong,1~7개,1,True,THCA
+1896,BRCA,2,56,0,True,False,all_wrong,28개 이상,1,True,STES
+1899,HNSC,1,53,0,True,False,all_wrong,28개 이상,3,False,
+1901,KIPAN,1,15,0,True,False,all_wrong,8~27개,2,False,
+1905,HNSC,3,31,0,True,False,all_wrong,28개 이상,3,False,
+1906,BRCA,3,164,0,True,False,all_wrong,28개 이상,3,False,
+1909,CESC,3,63,0,True,False,all_wrong,28개 이상,2,False,
+1910,KIRC,1,13,0,True,False,all_wrong,8~27개,3,False,
+1911,THCA,3,5,0,True,False,all_wrong,1~7개,2,False,
+1912,PRAD,2,12,0,True,False,all_wrong,8~27개,1,True,OV
+1913,KIPAN,1,21,0,True,False,all_wrong,8~27개,1,True,KIRC
+1914,HNSC,1,21,0,True,False,all_wrong,8~27개,2,False,
+1915,STES,3,19,0,True,False,all_wrong,8~27개,2,False,
+1916,HNSC,2,12,0,True,False,all_wrong,8~27개,3,False,
+1921,HNSC,1,25,0,True,False,all_wrong,8~27개,2,False,
+1935,STES,2,51,0,True,False,all_wrong,28개 이상,1,True,COAD
+1936,LAML,1,1,0,True,False,all_wrong,1~7개,2,False,
+1938,HNSC,2,18,0,True,False,all_wrong,8~27개,3,False,
+1944,PAAD,1,26,0,True,False,all_wrong,8~27개,1,True,COAD
+1949,GBMLGG,2,10,0,True,False,all_wrong,8~27개,2,False,
+1952,OV,2,31,0,True,False,all_wrong,28개 이상,2,False,
+1954,GBMLGG,3,9,0,True,False,all_wrong,8~27개,1,True,LGG
+1961,PRAD,1,12,0,True,False,all_wrong,8~27개,2,False,
+1962,THCA,3,5,0,True,False,all_wrong,1~7개,2,False,
+1967,PAAD,3,13,0,True,False,all_wrong,8~27개,1,True,PCPG
+1968,THCA,1,3,0,True,False,all_wrong,1~7개,4,False,
+1969,STES,3,35,0,True,False,all_wrong,28개 이상,3,False,
+1970,GBMLGG,1,21,0,True,False,all_wrong,8~27개,1,True,KIRC
+1971,PCPG,1,7,0,True,False,all_wrong,1~7개,3,False,
+1977,STES,3,23,0,True,False,all_wrong,8~27개,4,False,
+1979,HNSC,2,63,0,True,False,all_wrong,28개 이상,2,False,
+1980,HNSC,3,24,0,True,False,all_wrong,8~27개,2,False,
+1982,PCPG,2,4,0,True,False,all_wrong,1~7개,3,False,
+1984,THCA,1,2,0,True,False,all_wrong,1~7개,4,False,
+1985,CESC,2,83,0,True,False,all_wrong,28개 이상,3,False,
+1987,UCEC,3,55,0,True,False,all_wrong,28개 이상,2,False,
+1988,KIPAN,2,15,0,True,False,all_wrong,8~27개,1,True,KIRC
+1989,KIPAN,3,23,0,True,False,all_wrong,8~27개,1,True,COAD
+1994,LUAD,1,141,0,True,False,all_wrong,28개 이상,3,False,
+1996,LUAD,3,78,0,True,False,all_wrong,28개 이상,2,False,
+2000,PCPG,3,4,0,True,False,all_wrong,1~7개,2,False,
+2001,SARC,1,3,0,True,False,all_wrong,1~7개,3,False,
+2003,SARC,2,13,0,True,False,all_wrong,8~27개,1,True,PRAD
+2004,KIRC,1,12,0,True,False,all_wrong,8~27개,3,False,
+2005,BRCA,2,12,0,True,False,all_wrong,8~27개,2,False,
+2009,LUSC,1,39,0,True,False,all_wrong,28개 이상,3,False,
+2011,THYM,2,7,0,True,False,all_wrong,1~7개,1,True,PCPG
+2012,UCEC,1,12,0,True,False,all_wrong,8~27개,1,True,BRCA
+2014,OV,2,15,0,True,False,all_wrong,8~27개,4,False,
+2016,PAAD,1,35,0,True,False,all_wrong,28개 이상,2,False,
+2020,KIPAN,3,10,0,True,False,all_wrong,8~27개,1,True,BRCA
+2022,PRAD,3,2,0,True,False,all_wrong,1~7개,2,False,
+2024,PRAD,2,10,0,True,False,all_wrong,8~27개,3,False,
+2028,PAAD,2,8,0,True,False,all_wrong,8~27개,3,False,
+2031,BRCA,2,19,0,True,False,all_wrong,8~27개,3,False,
+2033,UCEC,2,8,0,True,False,all_wrong,8~27개,2,False,
+2034,KIPAN,1,5,0,True,False,all_wrong,1~7개,2,False,
+2036,COAD,1,13,0,True,False,all_wrong,8~27개,3,False,
+2039,PCPG,3,2,0,True,False,all_wrong,1~7개,3,False,
+2041,LUAD,3,34,0,True,False,all_wrong,28개 이상,3,False,
+2042,COAD,1,108,0,True,False,all_wrong,28개 이상,2,False,
+2044,OV,3,2,0,True,False,all_wrong,1~7개,2,False,
+2049,STES,1,33,0,True,False,all_wrong,28개 이상,4,False,
+2050,OV,2,17,0,True,False,all_wrong,8~27개,2,False,
+2052,TGCT,3,14,0,True,False,all_wrong,8~27개,2,False,
+2057,LUAD,2,19,0,True,False,all_wrong,8~27개,3,False,
+2060,HNSC,1,27,0,True,False,all_wrong,8~27개,1,True,BRCA
+2061,OV,2,23,0,True,False,all_wrong,8~27개,2,False,
+2062,SARC,3,14,0,True,False,all_wrong,8~27개,3,False,
+2063,STES,2,28,0,True,False,all_wrong,28개 이상,1,True,TGCT
+2066,PAAD,1,5,0,True,False,all_wrong,1~7개,2,False,
+2067,CESC,2,20,0,True,False,all_wrong,8~27개,2,False,
+2070,COAD,1,548,0,True,False,all_wrong,28개 이상,4,False,
+2072,LIHC,1,16,0,True,False,all_wrong,8~27개,2,False,
+2076,KIRC,1,16,0,True,False,all_wrong,8~27개,2,False,
+2077,PCPG,2,4,0,True,False,all_wrong,1~7개,2,False,
+2081,LUSC,2,53,0,True,False,all_wrong,28개 이상,3,False,
+2082,THYM,1,0,0,True,False,all_wrong,0개,3,False,
+2083,COAD,2,14,0,True,False,all_wrong,8~27개,3,False,
+2088,KIPAN,2,5,0,True,False,all_wrong,1~7개,4,False,
+2091,KIPAN,3,17,0,True,False,all_wrong,8~27개,3,False,
+2093,HNSC,1,13,0,True,False,all_wrong,8~27개,3,False,
+2094,TGCT,2,15,0,True,False,all_wrong,8~27개,1,True,PCPG
+2095,KIRC,3,10,0,True,False,all_wrong,8~27개,1,True,UCEC
+2096,SARC,1,6,0,True,False,all_wrong,1~7개,3,False,
+2098,KIRC,2,15,0,True,False,all_wrong,8~27개,2,False,
+2099,BLCA,2,59,0,True,False,all_wrong,28개 이상,2,False,
+2100,PRAD,2,6,0,True,False,all_wrong,1~7개,1,True,BRCA
+2102,PRAD,2,4,0,True,False,all_wrong,1~7개,2,False,
+2104,LIHC,2,46,0,True,False,all_wrong,28개 이상,3,False,
+2106,BRCA,2,2,0,True,False,all_wrong,1~7개,2,False,
+2110,STES,3,4,0,True,False,all_wrong,1~7개,3,False,
+2111,CESC,3,10,0,True,False,all_wrong,8~27개,1,True,SARC
+2114,STES,3,26,0,True,False,all_wrong,8~27개,1,True,OV
+2115,GBMLGG,3,6,0,True,False,all_wrong,1~7개,3,False,
+2116,HNSC,1,72,0,True,False,all_wrong,28개 이상,2,False,
+2120,KIPAN,3,15,0,True,False,all_wrong,8~27개,2,False,
+2121,SARC,1,7,0,True,False,all_wrong,1~7개,4,False,
+2124,BRCA,3,9,0,True,False,all_wrong,8~27개,3,False,
+2125,KIPAN,2,13,0,True,False,all_wrong,8~27개,3,False,
+2127,KIPAN,1,24,0,True,False,all_wrong,8~27개,1,True,PCPG
+2128,LUSC,1,39,0,True,False,all_wrong,28개 이상,3,False,
+2131,GBMLGG,3,22,0,True,False,all_wrong,8~27개,4,False,
+2132,STES,1,24,0,True,False,all_wrong,8~27개,2,False,
+2133,GBMLGG,1,16,0,True,False,all_wrong,8~27개,3,False,
+2138,LUAD,3,30,0,True,False,all_wrong,28개 이상,2,False,
+2139,KIPAN,2,22,0,True,False,all_wrong,8~27개,3,False,
+2142,KIPAN,2,14,0,True,False,all_wrong,8~27개,2,False,
+2144,KIRC,3,9,0,True,False,all_wrong,8~27개,3,False,
+2145,BRCA,2,22,0,True,False,all_wrong,8~27개,4,False,
+2147,SARC,2,17,0,True,False,all_wrong,8~27개,1,True,TGCT
+2150,KIRC,3,7,0,True,False,all_wrong,1~7개,2,False,
+2153,BRCA,2,8,0,True,False,all_wrong,8~27개,3,False,
+2154,PAAD,2,17,0,True,False,all_wrong,8~27개,3,False,
+2158,HNSC,1,19,0,True,False,all_wrong,8~27개,1,True,BRCA
+2166,SARC,3,10,0,True,False,all_wrong,8~27개,2,False,
+2169,COAD,2,17,0,True,False,all_wrong,8~27개,1,True,OV
+2173,OV,3,47,0,True,False,all_wrong,28개 이상,2,False,
+2174,UCEC,3,15,0,True,False,all_wrong,8~27개,3,False,
+2177,PRAD,3,24,0,True,False,all_wrong,8~27개,3,False,
+2180,SARC,2,19,0,True,False,all_wrong,8~27개,2,False,
+2181,TGCT,2,19,0,True,False,all_wrong,8~27개,2,False,
+2182,LIHC,1,30,0,True,False,all_wrong,28개 이상,3,False,
+2184,SKCM,3,12,0,True,False,all_wrong,8~27개,4,False,
+2185,BRCA,2,22,0,True,False,all_wrong,8~27개,1,True,UCEC
+2187,UCEC,1,13,0,True,False,all_wrong,8~27개,3,False,
+2190,SARC,2,4,0,True,False,all_wrong,1~7개,1,True,OV
+2191,PRAD,1,3,0,True,False,all_wrong,1~7개,1,True,THCA
+2192,KIPAN,3,23,0,True,False,all_wrong,8~27개,1,True,BRCA
+2193,LUAD,2,34,0,True,False,all_wrong,28개 이상,3,False,
+2194,PAAD,3,14,0,True,False,all_wrong,8~27개,2,False,
+2197,THYM,3,9,0,True,False,all_wrong,8~27개,2,False,
+2199,SKCM,2,5,0,True,False,all_wrong,1~7개,4,False,
+2206,KIPAN,2,18,0,True,False,all_wrong,8~27개,3,False,
+2214,KIPAN,3,7,0,True,False,all_wrong,1~7개,4,False,
+2215,LUSC,1,59,0,True,False,all_wrong,28개 이상,3,False,
+2217,LIHC,2,40,0,True,False,all_wrong,28개 이상,2,False,
+2219,GBMLGG,1,22,0,True,False,all_wrong,8~27개,3,False,
+2220,KIPAN,1,22,0,True,False,all_wrong,8~27개,2,False,
+2222,LAML,3,1,0,True,False,all_wrong,1~7개,2,False,
+2223,GBMLGG,1,6,0,True,False,all_wrong,1~7개,1,True,LGG
+2224,SARC,1,13,0,True,False,all_wrong,8~27개,2,False,
+2226,BLCA,3,8,0,True,False,all_wrong,8~27개,3,False,
+2228,BRCA,1,19,0,True,False,all_wrong,8~27개,1,True,OV
+2230,STES,2,93,0,True,False,all_wrong,28개 이상,2,False,
+2232,SARC,1,3,0,True,False,all_wrong,1~7개,2,False,
+2234,THCA,1,6,0,True,False,all_wrong,1~7개,2,False,
+2237,BRCA,3,11,0,True,False,all_wrong,8~27개,2,False,
+2239,THCA,3,2,0,True,False,all_wrong,1~7개,2,False,
+2242,BRCA,3,12,0,True,False,all_wrong,8~27개,1,True,OV
+2243,LUSC,3,50,0,True,False,all_wrong,28개 이상,1,True,LIHC
+2244,PAAD,3,25,0,True,False,all_wrong,8~27개,3,False,
+2245,SARC,3,14,0,True,False,all_wrong,8~27개,2,False,
+2247,UCEC,1,9,0,True,False,all_wrong,8~27개,1,True,PAAD
+2248,BRCA,1,4,0,True,False,all_wrong,1~7개,2,False,
+2251,BRCA,3,4,0,True,False,all_wrong,1~7개,3,False,
+2253,STES,1,39,0,True,False,all_wrong,28개 이상,2,False,
+2255,OV,2,3,0,True,False,all_wrong,1~7개,3,False,
+2256,GBMLGG,3,5,0,True,False,all_wrong,1~7개,1,True,LGG
+2258,HNSC,2,21,0,True,False,all_wrong,8~27개,1,True,BRCA
+2259,SARC,1,8,0,True,False,all_wrong,8~27개,2,False,
+2262,PCPG,2,2,0,True,False,all_wrong,1~7개,2,False,
+2263,KIPAN,1,13,0,True,False,all_wrong,8~27개,3,False,
+2265,CESC,2,11,0,True,False,all_wrong,8~27개,3,False,
+2266,OV,1,4,0,True,False,all_wrong,1~7개,1,True,BRCA
+2267,PCPG,2,1,0,True,False,all_wrong,1~7개,2,False,
+2270,THCA,3,4,0,True,False,all_wrong,1~7개,3,False,
+2273,STES,3,14,0,True,False,all_wrong,8~27개,2,False,
+2275,CESC,1,14,0,True,False,all_wrong,8~27개,1,True,SARC
+2279,PRAD,3,5,0,True,False,all_wrong,1~7개,3,False,
+2282,HNSC,3,19,0,True,False,all_wrong,8~27개,3,False,
+2283,OV,2,19,0,True,False,all_wrong,8~27개,2,False,
+2285,HNSC,3,15,0,True,False,all_wrong,8~27개,4,False,
+2287,SKCM,2,49,0,True,False,all_wrong,28개 이상,2,False,
+2289,BRCA,1,29,0,True,False,all_wrong,28개 이상,3,False,
+2293,KIPAN,1,24,0,True,False,all_wrong,8~27개,1,True,BRCA
+2297,LIHC,1,15,0,True,False,all_wrong,8~27개,2,False,
+2298,BLCA,2,58,0,True,False,all_wrong,28개 이상,1,True,HNSC
+2299,COAD,1,24,0,True,False,all_wrong,8~27개,2,False,
+2301,BRCA,3,13,0,True,False,all_wrong,8~27개,2,False,
+2302,BLCA,3,53,0,True,False,all_wrong,28개 이상,3,False,
+2305,STES,2,43,0,True,False,all_wrong,28개 이상,1,True,HNSC
+2309,BRCA,1,4,0,True,False,all_wrong,1~7개,2,False,
+2310,COAD,2,451,0,True,False,all_wrong,28개 이상,2,False,
+2314,SKCM,2,13,0,True,False,all_wrong,8~27개,1,True,PCPG
+2316,STES,1,37,0,True,False,all_wrong,28개 이상,3,False,
+2317,LAML,1,0,0,True,False,all_wrong,0개,3,False,
+2318,UCEC,3,16,0,True,False,all_wrong,8~27개,1,True,BRCA
+2319,BRCA,1,7,0,True,False,all_wrong,1~7개,2,False,
+2320,KIPAN,2,17,0,True,False,all_wrong,8~27개,3,False,
+2322,LUSC,2,265,0,True,False,all_wrong,28개 이상,3,False,
+2323,BLCA,3,10,0,True,False,all_wrong,8~27개,2,False,
+2325,THCA,2,1,0,True,False,all_wrong,1~7개,2,False,
+2326,CESC,1,275,0,True,False,all_wrong,28개 이상,4,False,
+2329,SARC,1,15,0,True,False,all_wrong,8~27개,2,False,
+2330,PCPG,2,3,0,True,False,all_wrong,1~7개,2,False,
+2335,GBMLGG,2,18,0,True,False,all_wrong,8~27개,3,False,
+2336,KIRC,3,18,0,True,False,all_wrong,8~27개,4,False,
+2341,GBMLGG,1,8,0,True,False,all_wrong,8~27개,1,True,LGG
+2342,STES,2,54,0,True,False,all_wrong,28개 이상,4,False,
+2348,PRAD,1,4,0,True,False,all_wrong,1~7개,2,False,
+2349,TGCT,1,16,0,True,False,all_wrong,8~27개,2,False,
+2352,CESC,1,13,0,True,False,all_wrong,8~27개,3,False,
+2357,STES,3,44,0,True,False,all_wrong,28개 이상,1,True,BRCA
+2358,PAAD,1,18,0,True,False,all_wrong,8~27개,3,False,
+2359,KIRC,1,12,0,True,False,all_wrong,8~27개,2,False,
+2360,KIRC,3,21,0,True,False,all_wrong,8~27개,2,False,
+2361,COAD,3,355,0,True,False,all_wrong,28개 이상,4,False,
+2362,SKCM,2,107,0,True,False,all_wrong,28개 이상,3,False,
+2365,LIHC,1,29,0,True,False,all_wrong,28개 이상,1,True,TGCT
+2366,PCPG,3,4,0,True,False,all_wrong,1~7개,2,False,
+2367,BRCA,2,36,0,True,False,all_wrong,28개 이상,4,False,
+2368,TGCT,2,13,0,True,False,all_wrong,8~27개,3,False,
+2369,LUAD,1,74,0,True,False,all_wrong,28개 이상,1,True,LUSC
+2371,LGG,2,5,0,True,False,all_wrong,1~7개,1,True,LAML
+2372,SARC,1,9,0,True,False,all_wrong,8~27개,1,True,OV
+2373,CESC,3,16,0,True,False,all_wrong,8~27개,1,True,OV
+2374,HNSC,1,5,0,True,False,all_wrong,1~7개,2,False,
+2380,PRAD,3,5,0,True,False,all_wrong,1~7개,2,False,
+2381,PCPG,1,8,0,True,False,all_wrong,8~27개,3,False,
+2382,PCPG,1,2,0,True,False,all_wrong,1~7개,3,False,
+2383,LUAD,2,127,0,True,False,all_wrong,28개 이상,2,False,
+2384,LUSC,3,40,0,True,False,all_wrong,28개 이상,2,False,
+2386,PAAD,2,40,0,True,False,all_wrong,28개 이상,2,False,
+2387,SARC,3,17,0,True,False,all_wrong,8~27개,2,False,
+2388,STES,3,43,0,True,False,all_wrong,28개 이상,2,False,
+2393,GBMLGG,1,17,0,True,False,all_wrong,8~27개,3,False,
+2395,THCA,1,5,0,True,False,all_wrong,1~7개,2,False,
+2396,PRAD,3,16,0,True,False,all_wrong,8~27개,2,False,
+2401,LUAD,3,36,0,True,False,all_wrong,28개 이상,1,True,OV
+2402,PCPG,2,8,0,True,False,all_wrong,8~27개,2,False,
+2403,STES,3,2,0,True,False,all_wrong,1~7개,1,True,BRCA
+2408,KIRC,2,4,0,True,False,all_wrong,1~7개,1,True,SARC
+2410,KIRC,1,10,0,True,False,all_wrong,8~27개,3,False,
+2412,STES,2,40,0,True,False,all_wrong,28개 이상,1,True,LIHC
+2413,KIRC,1,28,0,True,False,all_wrong,28개 이상,3,False,
+2414,LAML,3,2,0,True,False,all_wrong,1~7개,2,False,
+2417,LUAD,2,24,0,True,False,all_wrong,8~27개,4,False,
+2419,KIPAN,2,10,0,True,False,all_wrong,8~27개,4,False,
+2423,KIPAN,1,10,0,True,False,all_wrong,8~27개,2,False,
+2426,KIPAN,1,0,0,True,False,all_wrong,0개,3,False,
+2427,BRCA,1,8,0,True,False,all_wrong,8~27개,2,False,
+2431,LGG,3,10,0,True,False,all_wrong,8~27개,4,False,
+2432,LUSC,2,57,0,True,False,all_wrong,28개 이상,4,False,
+2435,CESC,3,33,0,True,False,all_wrong,28개 이상,2,False,
+2436,SKCM,3,8,0,True,False,all_wrong,8~27개,3,False,
+2439,LIHC,1,9,0,True,False,all_wrong,8~27개,3,False,
+2443,LUAD,1,42,0,True,False,all_wrong,28개 이상,4,False,
+2450,BRCA,1,6,0,True,False,all_wrong,1~7개,2,False,
+2456,BRCA,2,5,0,True,False,all_wrong,1~7개,1,True,GBMLGG
+2460,PRAD,2,10,0,True,False,all_wrong,8~27개,3,False,
+2462,HNSC,3,32,0,True,False,all_wrong,28개 이상,3,False,
+2463,BLCA,2,305,0,True,False,all_wrong,28개 이상,3,False,
+2464,PRAD,2,10,0,True,False,all_wrong,8~27개,1,True,GBMLGG
+2470,PCPG,2,4,0,True,False,all_wrong,1~7개,2,False,
+2471,LGG,1,16,0,True,False,all_wrong,8~27개,2,False,
+2474,KIPAN,2,32,0,True,False,all_wrong,28개 이상,3,False,
+2475,HNSC,1,65,0,True,False,all_wrong,28개 이상,1,True,COAD
+2477,BRCA,2,205,0,True,False,all_wrong,28개 이상,4,False,
+2480,BRCA,2,3,0,True,False,all_wrong,1~7개,1,True,OV
+2482,PCPG,1,10,0,True,False,all_wrong,8~27개,4,False,
+2486,LUSC,1,38,0,True,False,all_wrong,28개 이상,2,False,
+2488,GBMLGG,3,13,0,True,False,all_wrong,8~27개,2,False,
+2489,BLCA,3,47,0,True,False,all_wrong,28개 이상,2,False,
+2492,PAAD,1,17,0,True,False,all_wrong,8~27개,1,True,HNSC
+2493,SARC,2,12,0,True,False,all_wrong,8~27개,2,False,
+2494,KIPAN,3,9,0,True,False,all_wrong,8~27개,1,True,KIRC
+2496,GBMLGG,3,6,0,True,False,all_wrong,1~7개,1,True,LGG
+2497,CESC,1,11,0,True,False,all_wrong,8~27개,2,False,
+2500,GBMLGG,3,19,0,True,False,all_wrong,8~27개,3,False,
+2501,SARC,3,95,0,True,False,all_wrong,28개 이상,1,True,SKCM
+2502,SARC,1,23,0,True,False,all_wrong,8~27개,1,True,KIPAN
+2503,PCPG,1,6,0,True,False,all_wrong,1~7개,1,True,PRAD
+2505,LUAD,3,23,0,True,False,all_wrong,8~27개,3,False,
+2508,PAAD,3,4,0,True,False,all_wrong,1~7개,1,True,OV
+2511,CESC,3,10,0,True,False,all_wrong,8~27개,2,False,
+2512,GBMLGG,2,7,0,True,False,all_wrong,1~7개,1,True,LAML
+2513,UCEC,2,35,0,True,False,all_wrong,28개 이상,1,True,BRCA
+2514,LAML,2,1,0,True,False,all_wrong,1~7개,2,False,
+2515,THYM,1,0,0,True,False,all_wrong,0개,3,False,
+2516,KIPAN,3,18,0,True,False,all_wrong,8~27개,4,False,
+2521,LUSC,3,57,0,True,False,all_wrong,28개 이상,3,False,
+2523,BLCA,2,80,0,True,False,all_wrong,28개 이상,1,True,UCEC
+2524,TGCT,1,14,0,True,False,all_wrong,8~27개,3,False,
+2528,BRCA,2,1,0,True,False,all_wrong,1~7개,1,True,THCA
+2529,KIPAN,2,14,0,True,False,all_wrong,8~27개,2,False,
+2531,CESC,1,0,0,True,False,all_wrong,0개,3,False,
+2537,PRAD,2,6,0,True,False,all_wrong,1~7개,3,False,
+2539,GBMLGG,2,16,0,True,False,all_wrong,8~27개,1,True,BRCA
+2540,BLCA,3,101,0,True,False,all_wrong,28개 이상,2,False,
+2541,DLBC,1,31,0,True,False,all_wrong,28개 이상,2,False,
+2542,LUAD,2,30,0,True,False,all_wrong,28개 이상,3,False,
+2544,HNSC,2,18,0,True,False,all_wrong,8~27개,2,False,
+2545,THYM,1,0,0,True,False,all_wrong,0개,3,False,
+2546,BRCA,2,22,0,True,False,all_wrong,8~27개,1,True,HNSC
+2547,GBMLGG,1,15,0,True,False,all_wrong,8~27개,3,False,
+2550,LIHC,2,26,0,True,False,all_wrong,8~27개,3,False,
+2551,HNSC,3,76,0,True,False,all_wrong,28개 이상,3,False,
+2553,CESC,1,73,0,True,False,all_wrong,28개 이상,3,False,
+2555,KIPAN,1,9,0,True,False,all_wrong,8~27개,1,True,KIRC
+2558,BRCA,2,7,0,True,False,all_wrong,1~7개,2,False,
+2559,THCA,1,5,0,True,False,all_wrong,1~7개,3,False,
+2560,HNSC,3,31,0,True,False,all_wrong,28개 이상,3,False,
+2561,CESC,1,14,0,True,False,all_wrong,8~27개,4,False,
+2562,STES,3,10,0,True,False,all_wrong,8~27개,2,False,
+2565,KIRC,3,10,0,True,False,all_wrong,8~27개,2,False,
+2567,LIHC,1,7,0,True,False,all_wrong,1~7개,2,False,
+2571,BRCA,2,28,0,True,False,all_wrong,28개 이상,3,False,
+2574,HNSC,1,13,0,True,False,all_wrong,8~27개,2,False,
+2579,LUAD,2,10,0,True,False,all_wrong,8~27개,2,False,
+2583,HNSC,3,17,0,True,False,all_wrong,8~27개,2,False,
+2584,LIHC,2,68,0,True,False,all_wrong,28개 이상,2,False,
+2585,GBMLGG,3,9,0,True,False,all_wrong,8~27개,2,False,
+2589,SARC,3,3,0,True,False,all_wrong,1~7개,2,False,
+2591,LAML,1,4,0,True,False,all_wrong,1~7개,1,True,OV
+2593,CESC,3,133,0,True,False,all_wrong,28개 이상,3,False,
+2596,PRAD,2,4,0,True,False,all_wrong,1~7개,1,True,THCA
+2599,GBMLGG,2,23,0,True,False,all_wrong,8~27개,1,True,OV
+2600,PCPG,2,7,0,True,False,all_wrong,1~7개,3,False,
+2601,BRCA,3,16,0,True,False,all_wrong,8~27개,3,False,
+2603,CESC,2,10,0,True,False,all_wrong,8~27개,2,False,
+2604,PRAD,2,5,0,True,False,all_wrong,1~7개,1,True,OV
+2605,KIRC,1,4,0,True,False,all_wrong,1~7개,2,False,
+2606,OV,3,19,0,True,False,all_wrong,8~27개,2,False,
+2608,PRAD,1,6,0,True,False,all_wrong,1~7개,2,False,
+2611,BRCA,1,6,0,True,False,all_wrong,1~7개,1,True,PRAD
+2612,BRCA,1,15,0,True,False,all_wrong,8~27개,1,True,OV
+2618,GBMLGG,2,10,0,True,False,all_wrong,8~27개,1,True,LGG
+2619,BRCA,3,12,0,True,False,all_wrong,8~27개,3,False,
+2622,BRCA,2,29,0,True,False,all_wrong,28개 이상,4,False,
+2624,BRCA,2,17,0,True,False,all_wrong,8~27개,2,False,
+2628,THYM,1,0,0,True,False,all_wrong,0개,3,False,
+2629,GBMLGG,3,10,0,True,False,all_wrong,8~27개,3,False,
+2630,THCA,1,0,0,True,False,all_wrong,0개,3,False,
+2631,PRAD,2,3,0,True,False,all_wrong,1~7개,3,False,
+2632,UCEC,1,72,0,True,False,all_wrong,28개 이상,3,False,
+2633,GBMLGG,2,23,0,True,False,all_wrong,8~27개,3,False,
+2635,GBMLGG,1,19,0,True,False,all_wrong,8~27개,2,False,
+2636,BLCA,3,24,0,True,False,all_wrong,8~27개,4,False,
+2638,STES,3,24,0,True,False,all_wrong,8~27개,3,False,
+2639,STES,1,0,0,True,False,all_wrong,0개,3,False,
+2641,STES,3,19,0,True,False,all_wrong,8~27개,2,False,
+2642,PCPG,3,3,0,True,False,all_wrong,1~7개,3,False,
+2643,BRCA,3,9,0,True,False,all_wrong,8~27개,3,False,
+2646,THCA,1,0,0,True,False,all_wrong,0개,3,False,
+2651,BRCA,1,14,0,True,False,all_wrong,8~27개,2,False,
+2653,PRAD,2,5,0,True,False,all_wrong,1~7개,2,False,
+2654,HNSC,1,19,0,True,False,all_wrong,8~27개,2,False,
+2656,LUAD,1,38,0,True,False,all_wrong,28개 이상,4,False,
+2663,STES,3,42,0,True,False,all_wrong,28개 이상,2,False,
+2664,TGCT,1,12,0,True,False,all_wrong,8~27개,3,False,
+2665,KIPAN,3,18,0,True,False,all_wrong,8~27개,2,False,
+2666,LAML,1,1,0,True,False,all_wrong,1~7개,3,False,
+2667,SKCM,1,22,0,True,False,all_wrong,8~27개,2,False,
+2671,PAAD,1,10,0,True,False,all_wrong,8~27개,2,False,
+2673,KIPAN,2,10,0,True,False,all_wrong,8~27개,1,True,LAML
+2678,GBMLGG,1,12,0,True,False,all_wrong,8~27개,2,False,
+2681,TGCT,1,8,0,True,False,all_wrong,8~27개,3,False,
+2683,GBMLGG,1,13,0,True,False,all_wrong,8~27개,1,True,BRCA
+2686,LUSC,3,14,0,True,False,all_wrong,8~27개,2,False,
+2691,PAAD,2,15,0,True,False,all_wrong,8~27개,3,False,
+2692,PAAD,3,9,0,True,False,all_wrong,8~27개,2,False,
+2696,PAAD,1,47,0,True,False,all_wrong,28개 이상,2,False,
+2697,BRCA,3,14,0,True,False,all_wrong,8~27개,1,True,OV
+2700,KIPAN,1,15,0,True,False,all_wrong,8~27개,3,False,
+2701,SARC,1,4,0,True,False,all_wrong,1~7개,2,False,
+2703,STES,1,20,0,True,False,all_wrong,8~27개,1,True,OV
+2704,SARC,2,1,0,True,False,all_wrong,1~7개,2,False,
+2705,BRCA,2,12,0,True,False,all_wrong,8~27개,1,True,OV
+2706,STES,1,46,0,True,False,all_wrong,28개 이상,1,True,BRCA
+2707,BRCA,2,835,0,True,False,all_wrong,28개 이상,3,False,
+2710,SARC,3,10,0,True,False,all_wrong,8~27개,2,False,
+2712,KIPAN,1,26,0,True,False,all_wrong,8~27개,3,False,
+2714,SKCM,3,5,0,True,False,all_wrong,1~7개,4,False,
+2723,BLCA,3,35,0,True,False,all_wrong,28개 이상,3,False,
+2724,SKCM,3,95,0,True,False,all_wrong,28개 이상,2,False,
+2726,LIHC,3,25,0,True,False,all_wrong,8~27개,1,True,BRCA
+2727,PAAD,2,8,0,True,False,all_wrong,8~27개,1,True,OV
+2728,BRCA,3,1,0,True,False,all_wrong,1~7개,1,True,PCPG
+2732,LUSC,2,65,0,True,False,all_wrong,28개 이상,1,True,HNSC
+2735,STES,2,41,0,True,False,all_wrong,28개 이상,1,True,LIHC
+2744,HNSC,2,19,0,True,False,all_wrong,8~27개,3,False,
+2748,LUAD,1,47,0,True,False,all_wrong,28개 이상,3,False,
+2749,GBMLGG,3,5,0,True,False,all_wrong,1~7개,1,True,LGG
+2751,LUAD,3,10,0,True,False,all_wrong,8~27개,1,True,THCA
+2752,THYM,2,19,0,True,False,all_wrong,8~27개,3,False,
+2754,THYM,3,2,0,True,False,all_wrong,1~7개,1,True,PCPG
+2756,PRAD,3,2,0,True,False,all_wrong,1~7개,2,False,
+2759,LUSC,2,45,0,True,False,all_wrong,28개 이상,3,False,
+2760,BRCA,3,6,0,True,False,all_wrong,1~7개,1,True,LAML
+2762,SKCM,1,93,0,True,False,all_wrong,28개 이상,2,False,
+2763,GBMLGG,3,7,0,True,False,all_wrong,1~7개,2,False,
+2767,KIRC,3,10,0,True,False,all_wrong,8~27개,2,False,
+2769,STES,2,56,0,True,False,all_wrong,28개 이상,2,False,
+2772,CESC,2,5,0,True,False,all_wrong,1~7개,2,False,
+2773,SARC,3,6,0,True,False,all_wrong,1~7개,3,False,
+2775,CESC,1,46,0,True,False,all_wrong,28개 이상,2,False,
+2776,THYM,1,0,0,True,False,all_wrong,0개,3,False,
+2778,THCA,1,0,0,True,False,all_wrong,0개,3,False,
+2781,KIPAN,2,17,0,True,False,all_wrong,8~27개,1,True,COAD
+2783,STES,3,42,0,True,False,all_wrong,28개 이상,3,False,
+2785,LUSC,2,84,0,True,False,all_wrong,28개 이상,3,False,
+2787,SARC,3,8,0,True,False,all_wrong,8~27개,4,False,
+2793,LGG,2,8,0,True,False,all_wrong,8~27개,1,True,BRCA
+2794,THYM,1,0,0,True,False,all_wrong,0개,3,False,
+2795,COAD,1,306,0,True,False,all_wrong,28개 이상,1,True,SKCM
+2797,SARC,3,5,0,True,False,all_wrong,1~7개,3,False,
+2799,KIRC,2,14,0,True,False,all_wrong,8~27개,2,False,
+2801,STES,1,23,0,True,False,all_wrong,8~27개,4,False,
+2802,UCEC,1,4,0,True,False,all_wrong,1~7개,2,False,
+2804,GBMLGG,3,10,0,True,False,all_wrong,8~27개,1,True,SARC
+2805,KIPAN,1,18,0,True,False,all_wrong,8~27개,2,False,
+2808,TGCT,3,19,0,True,False,all_wrong,8~27개,3,False,
+2809,KIRC,1,17,0,True,False,all_wrong,8~27개,4,False,
+2811,PCPG,2,4,0,True,False,all_wrong,1~7개,3,False,
+2812,LUSC,1,66,0,True,False,all_wrong,28개 이상,1,True,STES
+2813,THCA,2,3,0,True,False,all_wrong,1~7개,3,False,
+2815,GBMLGG,3,12,0,True,False,all_wrong,8~27개,1,True,LGG
+2818,LUAD,2,67,0,True,False,all_wrong,28개 이상,4,False,
+2820,LUAD,3,5,0,True,False,all_wrong,1~7개,2,False,
+2823,LUSC,1,0,0,True,False,all_wrong,0개,3,False,
+2824,PRAD,3,6,0,True,False,all_wrong,1~7개,3,False,
+2826,PRAD,2,13,0,True,False,all_wrong,8~27개,1,True,KIPAN
+2827,LUSC,2,56,0,True,False,all_wrong,28개 이상,3,False,
+2828,GBMLGG,3,11,0,True,False,all_wrong,8~27개,1,True,LGG
+2829,LUAD,2,34,0,True,False,all_wrong,28개 이상,3,False,
+2830,LIHC,2,16,0,True,False,all_wrong,8~27개,2,False,
+2831,THCA,2,2,0,True,False,all_wrong,1~7개,2,False,
+2833,BRCA,3,2,0,True,False,all_wrong,1~7개,4,False,
+2837,LUAD,2,30,0,True,False,all_wrong,28개 이상,3,False,
+2840,PRAD,3,6,0,True,False,all_wrong,1~7개,3,False,
+2841,SKCM,2,24,0,True,False,all_wrong,8~27개,3,False,
+2843,THYM,2,6,0,True,False,all_wrong,1~7개,2,False,
+2845,COAD,1,17,0,True,False,all_wrong,8~27개,2,False,
+2851,THCA,3,2,0,True,False,all_wrong,1~7개,3,False,
+2852,GBMLGG,3,10,0,True,False,all_wrong,8~27개,2,False,
+2853,KIRC,3,12,0,True,False,all_wrong,8~27개,3,False,
+2854,KIPAN,1,12,0,True,False,all_wrong,8~27개,3,False,
+2855,BRCA,2,14,0,True,False,all_wrong,8~27개,1,True,OV
+2857,KIRC,3,8,0,True,False,all_wrong,8~27개,4,False,
+2858,SARC,2,16,0,True,False,all_wrong,8~27개,3,False,
+2860,STES,3,55,0,True,False,all_wrong,28개 이상,2,False,
+2861,PRAD,3,11,0,True,False,all_wrong,8~27개,1,True,KIRC
+2862,STES,3,48,0,True,False,all_wrong,28개 이상,1,True,HNSC
+2863,TGCT,1,12,0,True,False,all_wrong,8~27개,3,False,
+2865,KIRC,2,9,0,True,False,all_wrong,8~27개,2,False,
+2870,BRCA,2,27,0,True,False,all_wrong,8~27개,3,False,
+2873,THCA,1,3,0,True,False,all_wrong,1~7개,1,True,THYM
+2874,GBMLGG,1,2,0,True,False,all_wrong,1~7개,1,True,LGG
+2876,HNSC,3,36,0,True,False,all_wrong,28개 이상,3,False,
+2877,HNSC,2,40,0,True,False,all_wrong,28개 이상,2,False,
+2881,TGCT,1,17,0,True,False,all_wrong,8~27개,2,False,
+2882,LUAD,1,21,0,True,False,all_wrong,8~27개,2,False,
+2883,PCPG,2,5,0,True,False,all_wrong,1~7개,4,False,
+2885,STES,3,50,0,True,False,all_wrong,28개 이상,2,False,
+2887,PRAD,1,11,0,True,False,all_wrong,8~27개,3,False,
+2888,LIHC,2,34,0,True,False,all_wrong,28개 이상,2,False,
+2892,STES,1,41,0,True,False,all_wrong,28개 이상,1,True,COAD
+2895,KIRC,2,16,0,True,False,all_wrong,8~27개,3,False,
+2896,KIRC,3,23,0,True,False,all_wrong,8~27개,1,True,BRCA
+2897,LIHC,2,26,0,True,False,all_wrong,8~27개,3,False,
+2901,GBMLGG,2,4,0,True,False,all_wrong,1~7개,1,True,LGG
+2902,BLCA,3,36,0,True,False,all_wrong,28개 이상,2,False,
+2905,PAAD,3,15,0,True,False,all_wrong,8~27개,2,False,
+2910,KIPAN,1,19,0,True,False,all_wrong,8~27개,3,False,
+2911,LUSC,3,21,0,True,False,all_wrong,8~27개,3,False,
+2912,CESC,3,17,0,True,False,all_wrong,8~27개,2,False,
+2913,LUAD,2,42,0,True,False,all_wrong,28개 이상,2,False,
+2918,PRAD,3,2,0,True,False,all_wrong,1~7개,3,False,
+2921,LIHC,3,15,0,True,False,all_wrong,8~27개,1,True,UCEC
+2922,LUAD,2,57,0,True,False,all_wrong,28개 이상,3,False,
+2923,COAD,2,56,0,True,False,all_wrong,28개 이상,2,False,
+2927,CESC,2,37,0,True,False,all_wrong,28개 이상,1,True,BRCA
+2931,GBMLGG,1,8,0,True,False,all_wrong,8~27개,1,True,LAML
+2932,UCEC,2,19,0,True,False,all_wrong,8~27개,2,False,
+2933,THYM,3,2,0,True,False,all_wrong,1~7개,1,True,OV
+2935,LUAD,3,25,0,True,False,all_wrong,8~27개,1,True,TGCT
+2937,BRCA,2,2,0,True,False,all_wrong,1~7개,2,False,
+2940,HNSC,3,11,0,True,False,all_wrong,8~27개,4,False,
+2943,THCA,2,2,0,True,False,all_wrong,1~7개,2,False,
+2945,THYM,3,6,0,True,False,all_wrong,1~7개,2,False,
+2947,STES,2,17,0,True,False,all_wrong,8~27개,1,True,COAD
+2948,BRCA,3,9,0,True,False,all_wrong,8~27개,1,True,OV
+2954,KIPAN,1,18,0,True,False,all_wrong,8~27개,3,False,
+2959,THCA,3,7,0,True,False,all_wrong,1~7개,3,False,
+2961,SKCM,3,42,0,True,False,all_wrong,28개 이상,2,False,
+2966,LUAD,3,89,0,True,False,all_wrong,28개 이상,2,False,
+2969,BLCA,2,139,0,True,False,all_wrong,28개 이상,2,False,
+2972,THCA,3,6,0,True,False,all_wrong,1~7개,3,False,
+2978,KIPAN,3,10,0,True,False,all_wrong,8~27개,2,False,
+2979,STES,1,21,0,True,False,all_wrong,8~27개,2,False,
+2985,CESC,3,12,0,True,False,all_wrong,8~27개,3,False,
+2986,CESC,1,26,0,True,False,all_wrong,8~27개,1,True,SARC
+2987,STES,3,38,0,True,False,all_wrong,28개 이상,3,False,
+2991,HNSC,1,10,0,True,False,all_wrong,8~27개,1,True,OV
+2998,BRCA,1,6,0,True,False,all_wrong,1~7개,2,False,
+3002,LIHC,3,13,0,True,False,all_wrong,8~27개,3,False,
+3003,PAAD,1,13,0,True,False,all_wrong,8~27개,2,False,
+3004,KIRC,1,6,0,True,False,all_wrong,1~7개,2,False,
+3005,PCPG,2,2,0,True,False,all_wrong,1~7개,2,False,
+3008,UCEC,1,15,0,True,False,all_wrong,8~27개,3,False,
+3009,GBMLGG,3,6,0,True,False,all_wrong,1~7개,1,True,LGG
+3010,LIHC,2,34,0,True,False,all_wrong,28개 이상,3,False,
+3011,STES,3,40,0,True,False,all_wrong,28개 이상,3,False,
+3012,THCA,2,3,0,True,False,all_wrong,1~7개,2,False,
+3014,GBMLGG,2,7,0,True,False,all_wrong,1~7개,1,True,LGG
+3015,STES,2,9,0,True,False,all_wrong,8~27개,3,False,
+3016,THCA,1,0,0,True,False,all_wrong,0개,3,False,
+3017,BRCA,3,30,0,True,False,all_wrong,28개 이상,1,True,OV
+3020,KIRC,3,13,0,True,False,all_wrong,8~27개,1,True,THCA
+3021,BRCA,2,12,0,True,False,all_wrong,8~27개,3,False,
+3022,SARC,3,10,0,True,False,all_wrong,8~27개,1,True,BRCA
+3023,GBMLGG,3,6,0,True,False,all_wrong,1~7개,1,True,LGG
+3024,KIPAN,1,12,0,True,False,all_wrong,8~27개,2,False,
+3025,STES,1,25,0,True,False,all_wrong,8~27개,2,False,
+3029,LUAD,3,12,0,True,False,all_wrong,8~27개,3,False,
+3030,KIPAN,1,6,0,True,False,all_wrong,1~7개,2,False,
+3033,GBMLGG,1,26,0,True,False,all_wrong,8~27개,2,False,
+3034,KIRC,3,15,0,True,False,all_wrong,8~27개,3,False,
+3035,SKCM,3,6,0,True,False,all_wrong,1~7개,2,False,
+3036,SKCM,2,16,0,True,False,all_wrong,8~27개,1,True,STES
+3037,GBMLGG,2,8,0,True,False,all_wrong,8~27개,1,True,BRCA
+3042,STES,1,6,0,True,False,all_wrong,1~7개,1,True,BRCA
+3044,PAAD,2,19,0,True,False,all_wrong,8~27개,1,True,COAD
+3045,KIPAN,3,10,0,True,False,all_wrong,8~27개,2,False,
+3046,STES,2,20,0,True,False,all_wrong,8~27개,2,False,
+3047,STES,2,21,0,True,False,all_wrong,8~27개,2,False,
+3049,PCPG,3,3,0,True,False,all_wrong,1~7개,1,True,KIRC
+3050,GBMLGG,1,1,0,True,False,all_wrong,1~7개,2,False,
+3051,HNSC,1,48,0,True,False,all_wrong,28개 이상,3,False,
+3052,KIRC,3,12,0,True,False,all_wrong,8~27개,2,False,
+3055,THCA,1,0,0,True,False,all_wrong,0개,3,False,
+3058,STES,1,38,0,True,False,all_wrong,28개 이상,3,False,
+3059,KIRC,2,13,0,True,False,all_wrong,8~27개,2,False,
+3060,GBMLGG,1,5,0,True,False,all_wrong,1~7개,2,False,
+3065,CESC,3,15,0,True,False,all_wrong,8~27개,3,False,
+3068,GBMLGG,2,4,0,True,False,all_wrong,1~7개,1,True,LGG
+3069,BLCA,1,172,0,True,False,all_wrong,28개 이상,2,False,
+3070,PRAD,2,12,0,True,False,all_wrong,8~27개,2,False,
+3071,BRCA,1,20,0,True,False,all_wrong,8~27개,3,False,
+3072,THCA,3,7,0,True,False,all_wrong,1~7개,2,False,
+3074,BLCA,2,29,0,True,False,all_wrong,28개 이상,3,False,
+3076,GBMLGG,2,2,0,True,False,all_wrong,1~7개,1,True,LAML
+3077,HNSC,3,18,0,True,False,all_wrong,8~27개,3,False,
+3079,STES,2,55,0,True,False,all_wrong,28개 이상,1,True,LUAD
+3082,PRAD,3,3,0,True,False,all_wrong,1~7개,3,False,
+3084,CESC,1,35,0,True,False,all_wrong,28개 이상,1,True,UCEC
+3085,LUAD,2,9,0,True,False,all_wrong,8~27개,2,False,
+3086,UCEC,2,10,0,True,False,all_wrong,8~27개,1,True,BRCA
+3089,PRAD,2,1,0,True,False,all_wrong,1~7개,3,False,
+3090,STES,2,195,0,True,False,all_wrong,28개 이상,3,False,
+3091,LIHC,1,23,0,True,False,all_wrong,8~27개,3,False,
+3092,BRCA,3,147,0,True,False,all_wrong,28개 이상,3,False,
+3093,GBMLGG,1,0,0,True,False,all_wrong,0개,3,False,
+3094,KIRC,2,6,0,True,False,all_wrong,1~7개,3,False,
+3099,LAML,1,2,0,True,False,all_wrong,1~7개,2,False,
+3104,PAAD,1,7,0,True,False,all_wrong,1~7개,2,False,
+3106,UCEC,3,136,0,True,False,all_wrong,28개 이상,3,False,
+3108,LAML,1,0,0,True,False,all_wrong,0개,3,False,
+3110,PAAD,1,14,0,True,False,all_wrong,8~27개,1,True,OV
+3114,HNSC,1,45,0,True,False,all_wrong,28개 이상,2,False,
+3119,BRCA,3,8,0,True,False,all_wrong,8~27개,2,False,
+3121,HNSC,2,12,0,True,False,all_wrong,8~27개,4,False,
+3124,PCPG,1,3,0,True,False,all_wrong,1~7개,3,False,
+3125,UCEC,2,9,0,True,False,all_wrong,8~27개,3,False,
+3127,THCA,1,1,0,True,False,all_wrong,1~7개,2,False,
+3128,STES,2,24,0,True,False,all_wrong,8~27개,1,True,BRCA
+3132,CESC,3,227,0,True,False,all_wrong,28개 이상,3,False,
+3135,OV,3,26,0,True,False,all_wrong,8~27개,2,False,
+3137,LUSC,3,78,0,True,False,all_wrong,28개 이상,2,False,
+3140,LIHC,3,22,0,True,False,all_wrong,8~27개,1,True,PRAD
+3143,KIRC,3,14,0,True,False,all_wrong,8~27개,2,False,
+3144,STES,1,7,0,True,False,all_wrong,1~7개,3,False,
+3146,TGCT,3,20,0,True,False,all_wrong,8~27개,4,False,
+3148,PCPG,1,3,0,True,False,all_wrong,1~7개,3,False,
+3149,KIPAN,2,4,0,True,False,all_wrong,1~7개,1,True,SARC
+3150,KIPAN,1,51,0,True,False,all_wrong,28개 이상,3,False,
+3153,UCEC,1,11,0,True,False,all_wrong,8~27개,1,True,BRCA
+3158,SARC,1,10,0,True,False,all_wrong,8~27개,3,False,
+3160,LUSC,3,49,0,True,False,all_wrong,28개 이상,2,False,
+3161,PRAD,3,2,0,True,False,all_wrong,1~7개,2,False,
+3162,SKCM,2,86,0,True,False,all_wrong,28개 이상,2,False,
+3164,CESC,3,28,0,True,False,all_wrong,28개 이상,1,True,BRCA
+3165,LUSC,3,35,0,True,False,all_wrong,28개 이상,2,False,
+3166,KIRC,3,21,0,True,False,all_wrong,8~27개,1,True,KIPAN
+3170,BRCA,1,24,0,True,False,all_wrong,8~27개,1,True,LUAD
+3173,TGCT,3,16,0,True,False,all_wrong,8~27개,1,True,PRAD
+3176,HNSC,2,33,0,True,False,all_wrong,28개 이상,2,False,
+3178,LGG,2,2,0,True,False,all_wrong,1~7개,1,True,LAML
+3180,GBMLGG,1,8,0,True,False,all_wrong,8~27개,1,True,THCA
+3181,KIPAN,3,25,0,True,False,all_wrong,8~27개,3,False,
+3182,BRCA,2,37,0,True,False,all_wrong,28개 이상,4,False,
+3183,SKCM,3,10,0,True,False,all_wrong,8~27개,1,True,THCA
+3184,LAML,2,2,0,True,False,all_wrong,1~7개,3,False,
+3188,PRAD,1,6,0,True,False,all_wrong,1~7개,1,True,THYM
+3190,LIHC,3,40,0,True,False,all_wrong,28개 이상,2,False,
+3192,SKCM,3,16,0,True,False,all_wrong,8~27개,3,False,
+3193,COAD,2,113,0,True,False,all_wrong,28개 이상,3,False,
+3194,PCPG,2,3,0,True,False,all_wrong,1~7개,3,False,
+3195,STES,2,38,0,True,False,all_wrong,28개 이상,1,True,BRCA
+3197,CESC,2,8,0,True,False,all_wrong,8~27개,3,False,
+3198,CESC,3,74,0,True,False,all_wrong,28개 이상,3,False,
+3200,SARC,1,4,0,True,False,all_wrong,1~7개,3,False,
+3201,SKCM,2,60,0,True,False,all_wrong,28개 이상,2,False,
+3202,GBMLGG,2,9,0,True,False,all_wrong,8~27개,1,True,OV
+3203,GBMLGG,1,24,0,True,False,all_wrong,8~27개,1,True,THCA
+3206,PRAD,1,9,0,True,False,all_wrong,8~27개,3,False,
+3207,LUSC,3,95,0,True,False,all_wrong,28개 이상,2,False,
+3209,STES,2,42,0,True,False,all_wrong,28개 이상,1,True,PAAD
+3210,PRAD,2,3,0,True,False,all_wrong,1~7개,2,False,
+3213,LUSC,2,88,0,True,False,all_wrong,28개 이상,2,False,
+3214,KIPAN,3,24,0,True,False,all_wrong,8~27개,2,False,
+3216,LUSC,3,56,0,True,False,all_wrong,28개 이상,3,False,
+3217,STES,3,12,0,True,False,all_wrong,8~27개,2,False,
+3219,PRAD,3,3,0,True,False,all_wrong,1~7개,4,False,
+3220,OV,1,16,0,True,False,all_wrong,8~27개,1,True,LIHC
+3221,LGG,3,12,0,True,False,all_wrong,8~27개,4,False,
+3224,GBMLGG,1,13,0,True,False,all_wrong,8~27개,1,True,LGG
+3225,GBMLGG,3,5,0,True,False,all_wrong,1~7개,1,True,LGG
+3229,SARC,1,6,0,True,False,all_wrong,1~7개,3,False,
+3230,BLCA,1,140,0,True,False,all_wrong,28개 이상,1,True,COAD
+3231,GBMLGG,2,15,0,True,False,all_wrong,8~27개,2,False,
+3235,CESC,3,5,0,True,False,all_wrong,1~7개,3,False,
+3237,LUSC,1,67,0,True,False,all_wrong,28개 이상,3,False,
+3239,CESC,2,29,0,True,False,all_wrong,28개 이상,1,True,BRCA
+3242,LIHC,1,16,0,True,False,all_wrong,8~27개,1,True,BRCA
+3248,CESC,2,6,0,True,False,all_wrong,1~7개,3,False,
+3249,LUSC,3,69,0,True,False,all_wrong,28개 이상,4,False,
+3250,PCPG,2,2,0,True,False,all_wrong,1~7개,2,False,
+3252,SARC,3,12,0,True,False,all_wrong,8~27개,1,True,THCA
+3256,LGG,3,1,0,True,False,all_wrong,1~7개,1,True,THCA
+3258,THYM,1,0,0,True,False,all_wrong,0개,3,False,
+3261,HNSC,1,116,0,True,False,all_wrong,28개 이상,2,False,
+3262,BRCA,2,16,0,True,False,all_wrong,8~27개,4,False,
+3263,SKCM,1,8,0,True,False,all_wrong,8~27개,2,False,
+3265,KIRC,1,22,0,True,False,all_wrong,8~27개,2,False,
+3269,KIPAN,2,18,0,True,False,all_wrong,8~27개,1,True,PCPG
+3271,SARC,3,3,0,True,False,all_wrong,1~7개,1,True,PCPG
+3272,GBMLGG,1,4,0,True,False,all_wrong,1~7개,1,True,LGG
+3273,LGG,2,7,0,True,False,all_wrong,1~7개,1,True,LAML
+3276,OV,1,3,0,True,False,all_wrong,1~7개,3,False,
+3277,SARC,2,8,0,True,False,all_wrong,8~27개,1,True,OV
+3279,PRAD,1,9,0,True,False,all_wrong,8~27개,2,False,
+3284,UCEC,3,19,0,True,False,all_wrong,8~27개,1,True,BRCA
+3288,SARC,2,5,0,True,False,all_wrong,1~7개,3,False,
+3289,LUAD,1,11,0,True,False,all_wrong,8~27개,2,False,
+3290,SARC,3,10,0,True,False,all_wrong,8~27개,3,False,
+3291,KIRC,1,13,0,True,False,all_wrong,8~27개,2,False,
+3292,COAD,2,10,0,True,False,all_wrong,8~27개,2,False,
+3295,CESC,3,7,0,True,False,all_wrong,1~7개,3,False,
+3296,KIRC,2,10,0,True,False,all_wrong,8~27개,2,False,
+3298,STES,3,49,0,True,False,all_wrong,28개 이상,2,False,
+3302,TGCT,3,24,0,True,False,all_wrong,8~27개,4,False,
+3304,LAML,2,3,0,True,False,all_wrong,1~7개,2,False,
+3306,KIRC,2,15,0,True,False,all_wrong,8~27개,4,False,
+3307,SARC,1,4,0,True,False,all_wrong,1~7개,3,False,
+3308,KIRC,2,16,0,True,False,all_wrong,8~27개,3,False,
+3310,STES,1,16,0,True,False,all_wrong,8~27개,4,False,
+3316,TGCT,3,20,0,True,False,all_wrong,8~27개,2,False,
+3317,STES,3,18,0,True,False,all_wrong,8~27개,3,False,
+3323,HNSC,2,103,0,True,False,all_wrong,28개 이상,1,True,STES
+3325,PCPG,3,3,0,True,False,all_wrong,1~7개,1,True,OV
+3327,PAAD,3,3,0,True,False,all_wrong,1~7개,3,False,
+3329,GBMLGG,2,6,0,True,False,all_wrong,1~7개,3,False,
+3331,PRAD,3,8,0,True,False,all_wrong,8~27개,2,False,
+3333,PRAD,2,15,0,True,False,all_wrong,8~27개,1,True,LIHC
+3335,BRCA,2,18,0,True,False,all_wrong,8~27개,2,False,
+3337,PRAD,2,3,0,True,False,all_wrong,1~7개,2,False,
+3338,HNSC,1,15,0,True,False,all_wrong,8~27개,2,False,
+3340,GBMLGG,1,11,0,True,False,all_wrong,8~27개,4,False,
+3345,KIRC,1,20,0,True,False,all_wrong,8~27개,2,False,
+3346,HNSC,2,29,0,True,False,all_wrong,28개 이상,2,False,
+3347,BRCA,2,12,0,True,False,all_wrong,8~27개,2,False,
+3348,COAD,2,14,0,True,False,all_wrong,8~27개,3,False,
+3354,PRAD,3,4,0,True,False,all_wrong,1~7개,2,False,
+3356,KIRC,2,3,0,True,False,all_wrong,1~7개,2,False,
+3359,LUSC,3,68,0,True,False,all_wrong,28개 이상,3,False,
+3363,PAAD,3,9,0,True,False,all_wrong,8~27개,2,False,
+3365,KIPAN,3,19,0,True,False,all_wrong,8~27개,2,False,
+3369,PRAD,2,3,0,True,False,all_wrong,1~7개,3,False,
+3371,THCA,2,2,0,True,False,all_wrong,1~7개,2,False,
+3372,SKCM,1,32,0,True,False,all_wrong,28개 이상,3,False,
+3373,BRCA,2,16,0,True,False,all_wrong,8~27개,2,False,
+3375,HNSC,1,81,0,True,False,all_wrong,28개 이상,3,False,
+3376,GBMLGG,1,8,0,True,False,all_wrong,8~27개,1,True,LGG
+3377,PCPG,2,4,0,True,False,all_wrong,1~7개,3,False,
+3381,KIRC,2,12,0,True,False,all_wrong,8~27개,1,True,BRCA
+3382,STES,1,34,0,True,False,all_wrong,28개 이상,2,False,
+3383,THCA,2,3,0,True,False,all_wrong,1~7개,1,True,PCPG
+3385,LUAD,2,38,0,True,False,all_wrong,28개 이상,2,False,
+3390,LUSC,3,41,0,True,False,all_wrong,28개 이상,4,False,
+3391,KIPAN,2,12,0,True,False,all_wrong,8~27개,1,True,KIRC
+3392,KIRC,2,10,0,True,False,all_wrong,8~27개,4,False,
+3396,HNSC,1,386,0,True,False,all_wrong,28개 이상,2,False,
+3397,OV,3,28,0,True,False,all_wrong,28개 이상,4,False,
+3400,GBMLGG,2,10,0,True,False,all_wrong,8~27개,2,False,
+3401,PAAD,3,14,0,True,False,all_wrong,8~27개,1,True,OV
+3402,GBMLGG,3,16,0,True,False,all_wrong,8~27개,1,True,PRAD
+3404,GBMLGG,3,9,0,True,False,all_wrong,8~27개,1,True,LGG
+3406,LGG,1,8,0,True,False,all_wrong,8~27개,2,False,
+3407,BLCA,1,90,0,True,False,all_wrong,28개 이상,4,False,
+3409,CESC,2,16,0,True,False,all_wrong,8~27개,1,True,BRCA
+3410,LIHC,3,21,0,True,False,all_wrong,8~27개,3,False,
+3411,GBMLGG,2,2,0,True,False,all_wrong,1~7개,2,False,
+3414,BRCA,1,7,0,True,False,all_wrong,1~7개,1,True,PRAD
+3415,SKCM,3,104,0,True,False,all_wrong,28개 이상,3,False,
+3417,SARC,1,11,0,True,False,all_wrong,8~27개,1,True,OV
+3418,OV,1,11,0,True,False,all_wrong,8~27개,1,True,COAD
+3420,OV,3,26,0,True,False,all_wrong,8~27개,3,False,
+3424,THCA,3,7,0,True,False,all_wrong,1~7개,4,False,
+3425,PAAD,3,9,0,True,False,all_wrong,8~27개,2,False,
+3431,LUAD,3,57,0,True,False,all_wrong,28개 이상,2,False,
+3433,PAAD,3,11,0,True,False,all_wrong,8~27개,4,False,
+3437,COAD,2,31,0,True,False,all_wrong,28개 이상,3,False,
+3438,GBMLGG,3,8,0,True,False,all_wrong,8~27개,1,True,LGG
+3442,LUSC,3,76,0,True,False,all_wrong,28개 이상,3,False,
+3443,PRAD,2,8,0,True,False,all_wrong,8~27개,1,True,THCA
+3445,PCPG,3,4,0,True,False,all_wrong,1~7개,2,False,
+3448,CESC,1,1,0,True,False,all_wrong,1~7개,2,False,
+3451,TGCT,3,26,0,True,False,all_wrong,8~27개,2,False,
+3453,STES,2,28,0,True,False,all_wrong,28개 이상,2,False,
+3454,KIPAN,2,12,0,True,False,all_wrong,8~27개,1,True,KIRC
+3455,BLCA,2,49,0,True,False,all_wrong,28개 이상,4,False,
+3457,CESC,2,12,0,True,False,all_wrong,8~27개,2,False,
+3459,SARC,1,11,0,True,False,all_wrong,8~27개,2,False,
+3461,PRAD,1,8,0,True,False,all_wrong,8~27개,3,False,
+3463,KIRC,2,3,0,True,False,all_wrong,1~7개,3,False,
+3465,KIRC,3,9,0,True,False,all_wrong,8~27개,3,False,
+3467,LIHC,1,35,0,True,False,all_wrong,28개 이상,4,False,
+3469,THYM,1,0,0,True,False,all_wrong,0개,3,False,
+3470,HNSC,2,18,0,True,False,all_wrong,8~27개,2,False,
+3471,LUSC,1,47,0,True,False,all_wrong,28개 이상,2,False,
+3472,LIHC,2,25,0,True,False,all_wrong,8~27개,1,True,OV
+3473,LAML,3,5,0,True,False,all_wrong,1~7개,3,False,
+3476,THCA,1,0,0,True,False,all_wrong,0개,3,False,
+3477,CESC,3,31,0,True,False,all_wrong,28개 이상,2,False,
+3479,LUSC,2,59,0,True,False,all_wrong,28개 이상,1,True,HNSC
+3485,SARC,1,9,0,True,False,all_wrong,8~27개,4,False,
+3486,OV,1,7,0,True,False,all_wrong,1~7개,2,False,
+3487,TGCT,3,16,0,True,False,all_wrong,8~27개,1,True,PCPG
+3489,BRCA,2,11,0,True,False,all_wrong,8~27개,3,False,
+3490,KIPAN,1,12,0,True,False,all_wrong,8~27개,2,False,
+3492,PAAD,1,9,0,True,False,all_wrong,8~27개,2,False,
+3493,KIRC,1,12,0,True,False,all_wrong,8~27개,1,True,KIPAN
+3495,SARC,1,16,0,True,False,all_wrong,8~27개,2,False,
+3500,SKCM,3,19,0,True,False,all_wrong,8~27개,1,True,THCA
+3501,PAAD,2,30,0,True,False,all_wrong,28개 이상,4,False,
+3504,SARC,3,4,0,True,False,all_wrong,1~7개,2,False,
+3505,LUAD,1,48,0,True,False,all_wrong,28개 이상,2,False,
+3509,COAD,3,8,0,True,False,all_wrong,8~27개,2,False,
+3510,TGCT,2,19,0,True,False,all_wrong,8~27개,1,True,PRAD
+3512,GBMLGG,3,4,0,True,False,all_wrong,1~7개,1,True,LGG
+3513,PRAD,3,1,0,True,False,all_wrong,1~7개,2,False,
+3514,LUAD,1,29,0,True,False,all_wrong,28개 이상,3,False,
+3516,PRAD,3,5,0,True,False,all_wrong,1~7개,1,True,OV
+3518,PCPG,3,7,0,True,False,all_wrong,1~7개,1,True,SARC
+3519,THCA,3,2,0,True,False,all_wrong,1~7개,3,False,
+3520,KIPAN,1,15,0,True,False,all_wrong,8~27개,1,True,PRAD
+3525,BRCA,3,93,0,True,False,all_wrong,28개 이상,3,False,
+3526,UCEC,3,15,0,True,False,all_wrong,8~27개,2,False,
+3529,LIHC,2,15,0,True,False,all_wrong,8~27개,3,False,
+3532,STES,1,35,0,True,False,all_wrong,28개 이상,2,False,
+3533,CESC,2,45,0,True,False,all_wrong,28개 이상,2,False,
+3537,SKCM,3,8,0,True,False,all_wrong,8~27개,2,False,
+3540,GBMLGG,3,12,0,True,False,all_wrong,8~27개,3,False,
+3541,BRCA,3,11,0,True,False,all_wrong,8~27개,2,False,
+3542,HNSC,1,23,0,True,False,all_wrong,8~27개,4,False,
+3544,PCPG,2,4,0,True,False,all_wrong,1~7개,2,False,
+3546,BRCA,1,57,0,True,False,all_wrong,28개 이상,3,False,
+3549,LGG,1,12,0,True,False,all_wrong,8~27개,2,False,
+3551,LUAD,1,32,0,True,False,all_wrong,28개 이상,2,False,
+3552,LUSC,3,44,0,True,False,all_wrong,28개 이상,2,False,
+3553,LUSC,1,42,0,True,False,all_wrong,28개 이상,2,False,
+3555,THCA,2,12,0,True,False,all_wrong,8~27개,2,False,
+3556,BRCA,3,6,0,True,False,all_wrong,1~7개,1,True,THCA
+3557,COAD,3,172,0,True,False,all_wrong,28개 이상,3,False,
+3558,LAML,1,7,0,True,False,all_wrong,1~7개,2,False,
+3559,GBMLGG,3,17,0,True,False,all_wrong,8~27개,2,False,
+3560,PRAD,1,4,0,True,False,all_wrong,1~7개,2,False,
+3562,PRAD,2,1,0,True,False,all_wrong,1~7개,3,False,
+3564,GBMLGG,2,21,0,True,False,all_wrong,8~27개,3,False,
+3565,LUAD,2,25,0,True,False,all_wrong,8~27개,1,True,PRAD
+3566,CESC,2,29,0,True,False,all_wrong,28개 이상,4,False,
+3567,COAD,3,399,0,True,False,all_wrong,28개 이상,3,False,
+3569,BLCA,1,22,0,True,False,all_wrong,8~27개,1,True,BRCA
+3570,KIPAN,2,6,0,True,False,all_wrong,1~7개,3,False,
+3571,LAML,3,3,0,True,False,all_wrong,1~7개,4,False,
+3572,UCEC,1,29,0,True,False,all_wrong,28개 이상,2,False,
+3573,PRAD,2,7,0,True,False,all_wrong,1~7개,2,False,
+3575,SARC,3,16,0,True,False,all_wrong,8~27개,1,True,PRAD
+3577,LIHC,1,75,0,True,False,all_wrong,28개 이상,3,False,
+3581,LUSC,2,50,0,True,False,all_wrong,28개 이상,2,False,
+3582,LUAD,2,18,0,True,False,all_wrong,8~27개,3,False,
+3583,KIRC,1,0,0,True,False,all_wrong,0개,3,False,
+3585,LUSC,1,53,0,True,False,all_wrong,28개 이상,3,False,
+3587,KIRC,2,13,0,True,False,all_wrong,8~27개,4,False,
+3590,BRCA,1,4,0,True,False,all_wrong,1~7개,1,True,COAD
+3594,GBMLGG,3,9,0,True,False,all_wrong,8~27개,1,True,LGG
+3597,THYM,1,0,0,True,False,all_wrong,0개,3,False,
+3598,LAML,2,2,0,True,False,all_wrong,1~7개,3,False,
+3600,BRCA,3,27,0,True,False,all_wrong,8~27개,1,True,OV
+3602,KIRC,2,13,0,True,False,all_wrong,8~27개,3,False,
+3608,TGCT,3,16,0,True,False,all_wrong,8~27개,1,True,BRCA
+3612,OV,3,16,0,True,False,all_wrong,8~27개,4,False,
+3613,GBMLGG,3,11,0,True,False,all_wrong,8~27개,2,False,
+3616,LIHC,2,22,0,True,False,all_wrong,8~27개,3,False,
+3618,PCPG,1,2,0,True,False,all_wrong,1~7개,2,False,
+3623,LIHC,2,19,0,True,False,all_wrong,8~27개,2,False,
+3625,UCEC,1,104,0,True,False,all_wrong,28개 이상,3,False,
+3626,LUAD,1,20,0,True,False,all_wrong,8~27개,3,False,
+3629,HNSC,2,15,0,True,False,all_wrong,8~27개,3,False,
+3632,SARC,3,9,0,True,False,all_wrong,8~27개,3,False,
+3637,GBMLGG,3,14,0,True,False,all_wrong,8~27개,1,True,LGG
+3638,KIRC,3,22,0,True,False,all_wrong,8~27개,4,False,
+3640,GBMLGG,3,4,0,True,False,all_wrong,1~7개,1,True,LAML
+3642,STES,2,64,0,True,False,all_wrong,28개 이상,2,False,
+3643,BLCA,1,24,0,True,False,all_wrong,8~27개,4,False,
+3644,PAAD,3,5,0,True,False,all_wrong,1~7개,3,False,
+3646,STES,1,47,0,True,False,all_wrong,28개 이상,1,True,BRCA
+3651,PCPG,3,2,0,True,False,all_wrong,1~7개,3,False,
+3653,BLCA,3,62,0,True,False,all_wrong,28개 이상,2,False,
+3654,BRCA,2,6,0,True,False,all_wrong,1~7개,1,True,COAD
+3657,OV,2,16,0,True,False,all_wrong,8~27개,3,False,
+3658,GBMLGG,1,11,0,True,False,all_wrong,8~27개,1,True,THCA
+3660,HNSC,3,14,0,True,False,all_wrong,8~27개,1,True,BRCA
+3663,THYM,1,0,0,True,False,all_wrong,0개,3,False,
+3664,HNSC,2,19,0,True,False,all_wrong,8~27개,3,False,
+3666,LUAD,1,137,0,True,False,all_wrong,28개 이상,3,False,
+3668,THCA,1,0,0,True,False,all_wrong,0개,3,False,
+3670,SKCM,2,10,0,True,False,all_wrong,8~27개,2,False,
+3671,STES,3,31,0,True,False,all_wrong,28개 이상,2,False,
+3679,CESC,2,480,0,True,False,all_wrong,28개 이상,3,False,
+3681,PRAD,3,10,0,True,False,all_wrong,8~27개,3,False,
+3683,STES,1,26,0,True,False,all_wrong,8~27개,3,False,
+3684,PAAD,2,12,0,True,False,all_wrong,8~27개,2,False,
+3685,HNSC,1,73,0,True,False,all_wrong,28개 이상,2,False,
+3686,HNSC,3,22,0,True,False,all_wrong,8~27개,2,False,
+3687,BRCA,3,8,0,True,False,all_wrong,8~27개,2,False,
+3688,LIHC,2,23,0,True,False,all_wrong,8~27개,3,False,
+3690,HNSC,3,29,0,True,False,all_wrong,28개 이상,2,False,
+3691,STES,3,63,0,True,False,all_wrong,28개 이상,4,False,
+3692,STES,2,118,0,True,False,all_wrong,28개 이상,3,False,
+3693,KIRC,1,16,0,True,False,all_wrong,8~27개,3,False,
+3696,LUAD,2,27,0,True,False,all_wrong,8~27개,2,False,
+3698,LIHC,3,43,0,True,False,all_wrong,28개 이상,2,False,
+3701,GBMLGG,1,16,0,True,False,all_wrong,8~27개,2,False,
+3702,LIHC,3,25,0,True,False,all_wrong,8~27개,2,False,
+3703,OV,3,12,0,True,False,all_wrong,8~27개,2,False,
+3706,KIRC,1,7,0,True,False,all_wrong,1~7개,1,True,LAML
+3707,THCA,1,4,0,True,False,all_wrong,1~7개,2,False,
+3708,COAD,3,10,0,True,False,all_wrong,8~27개,2,False,
+3711,THYM,1,152,0,True,False,all_wrong,28개 이상,3,False,
+3712,BLCA,3,36,0,True,False,all_wrong,28개 이상,3,False,
+3713,OV,1,2,0,True,False,all_wrong,1~7개,2,False,
+3716,SARC,3,8,0,True,False,all_wrong,8~27개,4,False,
+3719,DLBC,2,132,0,True,False,all_wrong,28개 이상,2,False,
+3723,KIRC,3,19,0,True,False,all_wrong,8~27개,2,False,
+3724,THCA,1,7,0,True,False,all_wrong,1~7개,2,False,
+3725,BRCA,1,15,0,True,False,all_wrong,8~27개,2,False,
+3726,CESC,2,9,0,True,False,all_wrong,8~27개,2,False,
+3727,HNSC,2,32,0,True,False,all_wrong,28개 이상,3,False,
+3732,OV,3,7,0,True,False,all_wrong,1~7개,2,False,
+3733,KIPAN,2,17,0,True,False,all_wrong,8~27개,2,False,
+3734,LUAD,3,70,0,True,False,all_wrong,28개 이상,3,False,
+3736,BRCA,1,26,0,True,False,all_wrong,8~27개,3,False,
+3740,STES,1,22,0,True,False,all_wrong,8~27개,1,True,OV
+3745,STES,1,37,0,True,False,all_wrong,28개 이상,3,False,
+3747,KIRC,3,18,0,True,False,all_wrong,8~27개,1,True,THCA
+3749,SARC,3,5,0,True,False,all_wrong,1~7개,3,False,
+3756,GBMLGG,1,18,0,True,False,all_wrong,8~27개,1,True,BRCA
+3760,CESC,2,5,0,True,False,all_wrong,1~7개,3,False,
+3762,THCA,2,7,0,True,False,all_wrong,1~7개,2,False,
+3766,BRCA,3,13,0,True,False,all_wrong,8~27개,2,False,
+3767,LUAD,2,95,0,True,False,all_wrong,28개 이상,1,True,STES
+3769,LIHC,3,36,0,True,False,all_wrong,28개 이상,3,False,
+3770,LGG,2,7,0,True,False,all_wrong,1~7개,2,False,
+3772,BRCA,2,30,0,True,False,all_wrong,28개 이상,2,False,
+3778,KIPAN,3,17,0,True,False,all_wrong,8~27개,2,False,
+3779,BRCA,3,12,0,True,False,all_wrong,8~27개,2,False,
+3780,GBMLGG,1,16,0,True,False,all_wrong,8~27개,2,False,
+3783,KIRC,2,7,0,True,False,all_wrong,1~7개,3,False,
+3784,STES,1,35,0,True,False,all_wrong,28개 이상,3,False,
+3785,LUAD,3,34,0,True,False,all_wrong,28개 이상,1,True,LAML
+3787,OV,1,18,0,True,False,all_wrong,8~27개,4,False,
+3789,THYM,1,0,0,True,False,all_wrong,0개,3,False,
+3792,KIPAN,1,21,0,True,False,all_wrong,8~27개,2,False,
+3794,GBMLGG,3,20,0,True,False,all_wrong,8~27개,1,True,OV
+3796,CESC,3,13,0,True,False,all_wrong,8~27개,2,False,
+3798,BRCA,1,9,0,True,False,all_wrong,8~27개,1,True,OV
+3801,HNSC,2,75,0,True,False,all_wrong,28개 이상,2,False,
+3802,GBMLGG,2,5,0,True,False,all_wrong,1~7개,3,False,
+3803,PRAD,2,4,0,True,False,all_wrong,1~7개,1,True,OV
+3805,KIPAN,1,12,0,True,False,all_wrong,8~27개,3,False,
+3806,PAAD,2,8,0,True,False,all_wrong,8~27개,1,True,OV
+3809,LGG,2,9,0,True,False,all_wrong,8~27개,1,True,GBMLGG
+3812,STES,1,50,0,True,False,all_wrong,28개 이상,3,False,
+3813,SKCM,2,10,0,True,False,all_wrong,8~27개,1,True,THCA
+3815,PRAD,2,2,0,True,False,all_wrong,1~7개,3,False,
+3816,LAML,2,5,0,True,False,all_wrong,1~7개,1,True,OV
+3819,GBMLGG,1,11,0,True,False,all_wrong,8~27개,4,False,
+3820,BRCA,3,10,0,True,False,all_wrong,8~27개,2,False,
+3821,KIPAN,1,3,0,True,False,all_wrong,1~7개,2,False,
+3822,SKCM,2,12,0,True,False,all_wrong,8~27개,3,False,
+3824,GBMLGG,3,10,0,True,False,all_wrong,8~27개,1,True,LGG
+3825,BRCA,1,11,0,True,False,all_wrong,8~27개,3,False,
+3826,HNSC,3,6,0,True,False,all_wrong,1~7개,2,False,
+3829,HNSC,1,19,0,True,False,all_wrong,8~27개,1,True,OV
+3838,PRAD,2,5,0,True,False,all_wrong,1~7개,3,False,
+3840,KIRC,3,16,0,True,False,all_wrong,8~27개,2,False,
+3842,COAD,3,34,0,True,False,all_wrong,28개 이상,3,False,
+3843,KIRC,1,26,0,True,False,all_wrong,8~27개,2,False,
+3845,GBMLGG,3,12,0,True,False,all_wrong,8~27개,2,False,
+3846,GBMLGG,2,6,0,True,False,all_wrong,1~7개,1,True,LGG
+3849,LUSC,3,67,0,True,False,all_wrong,28개 이상,2,False,
+3850,THCA,1,1,0,True,False,all_wrong,1~7개,3,False,
+3851,KIPAN,3,16,0,True,False,all_wrong,8~27개,2,False,
+3853,STES,3,18,0,True,False,all_wrong,8~27개,2,False,
+3854,CESC,3,32,0,True,False,all_wrong,28개 이상,2,False,
+3855,KIRC,3,12,0,True,False,all_wrong,8~27개,4,False,
+3856,PRAD,2,3,0,True,False,all_wrong,1~7개,2,False,
+3857,OV,2,12,0,True,False,all_wrong,8~27개,2,False,
+3860,LIHC,3,18,0,True,False,all_wrong,8~27개,3,False,
+3865,CESC,3,86,0,True,False,all_wrong,28개 이상,1,True,LIHC
+3866,SARC,2,8,0,True,False,all_wrong,8~27개,2,False,
+3867,PCPG,2,2,0,True,False,all_wrong,1~7개,2,False,
+3868,THYM,2,6,0,True,False,all_wrong,1~7개,3,False,
+3871,KIPAN,1,8,0,True,False,all_wrong,8~27개,3,False,
+3872,THCA,3,3,0,True,False,all_wrong,1~7개,2,False,
+3874,BRCA,1,193,0,True,False,all_wrong,28개 이상,4,False,
+3876,GBMLGG,3,29,0,True,False,all_wrong,28개 이상,3,False,
+3878,TGCT,1,18,0,True,False,all_wrong,8~27개,2,False,
+3879,GBMLGG,2,18,0,True,False,all_wrong,8~27개,1,True,UCEC
+3880,LAML,1,4,0,True,False,all_wrong,1~7개,3,False,
+3881,KIPAN,2,17,0,True,False,all_wrong,8~27개,2,False,
+3882,KIPAN,1,18,0,True,False,all_wrong,8~27개,2,False,
+3884,LUAD,3,59,0,True,False,all_wrong,28개 이상,2,False,
+3888,KIRC,1,11,0,True,False,all_wrong,8~27개,2,False,
+3889,BRCA,2,3,0,True,False,all_wrong,1~7개,2,False,
+3893,LAML,2,5,0,True,False,all_wrong,1~7개,2,False,
+3894,CESC,2,14,0,True,False,all_wrong,8~27개,3,False,
+3895,CESC,3,7,0,True,False,all_wrong,1~7개,3,False,
+3896,PCPG,3,8,0,True,False,all_wrong,8~27개,1,True,SARC
+3897,TGCT,3,9,0,True,False,all_wrong,8~27개,3,False,
+3899,PRAD,1,2,0,True,False,all_wrong,1~7개,3,False,
+3900,PAAD,1,13,0,True,False,all_wrong,8~27개,2,False,
+3902,LUAD,1,16,0,True,False,all_wrong,8~27개,2,False,
+3904,THYM,1,0,0,True,False,all_wrong,0개,3,False,
+3905,STES,1,34,0,True,False,all_wrong,28개 이상,2,False,
+3908,LUSC,2,32,0,True,False,all_wrong,28개 이상,1,True,SARC
+3909,COAD,1,16,0,True,False,all_wrong,8~27개,3,False,
+3912,BRCA,2,9,0,True,False,all_wrong,8~27개,1,True,PCPG
+3915,CESC,3,46,0,True,False,all_wrong,28개 이상,3,False,
+3916,KIRC,2,5,0,True,False,all_wrong,1~7개,3,False,
+3918,LUAD,3,28,0,True,False,all_wrong,28개 이상,3,False,
+3919,HNSC,3,48,0,True,False,all_wrong,28개 이상,3,False,
+3921,KIPAN,3,9,0,True,False,all_wrong,8~27개,3,False,
+3922,LIHC,3,11,0,True,False,all_wrong,8~27개,2,False,
+3923,CESC,2,26,0,True,False,all_wrong,8~27개,1,True,BRCA
+3925,HNSC,2,42,0,True,False,all_wrong,28개 이상,2,False,
+3926,LAML,2,1,0,True,False,all_wrong,1~7개,2,False,
+3928,LAML,3,1,0,True,False,all_wrong,1~7개,2,False,
+3929,LUSC,1,108,0,True,False,all_wrong,28개 이상,3,False,
+3932,KIPAN,1,20,0,True,False,all_wrong,8~27개,2,False,
+3933,SARC,1,4,0,True,False,all_wrong,1~7개,3,False,
+3934,GBMLGG,3,12,0,True,False,all_wrong,8~27개,2,False,
+3938,SKCM,1,42,0,True,False,all_wrong,28개 이상,2,False,
+3943,PRAD,2,4,0,True,False,all_wrong,1~7개,1,True,OV
+3944,COAD,3,23,0,True,False,all_wrong,8~27개,3,False,
+3947,GBMLGG,3,4,0,True,False,all_wrong,1~7개,1,True,LGG
+3948,SARC,1,10,0,True,False,all_wrong,8~27개,2,False,
+3952,CESC,3,10,0,True,False,all_wrong,8~27개,2,False,
+3954,GBMLGG,1,9,0,True,False,all_wrong,8~27개,1,True,LGG
+3959,UCEC,2,14,0,True,False,all_wrong,8~27개,1,True,SARC
+3960,THYM,1,0,0,True,False,all_wrong,0개,3,False,
+3962,UCEC,2,62,0,True,False,all_wrong,28개 이상,1,True,TGCT
+3966,KIPAN,1,3,0,True,False,all_wrong,1~7개,3,False,
+3970,KIPAN,3,5,0,True,False,all_wrong,1~7개,2,False,
+3974,KIRC,2,11,0,True,False,all_wrong,8~27개,1,True,PCPG
+3976,LUSC,2,43,0,True,False,all_wrong,28개 이상,3,False,
+3977,KIPAN,1,10,0,True,False,all_wrong,8~27개,1,True,OV
+3978,GBMLGG,2,16,0,True,False,all_wrong,8~27개,1,True,PCPG
+3981,LUAD,1,35,0,True,False,all_wrong,28개 이상,2,False,
+3982,KIPAN,1,19,0,True,False,all_wrong,8~27개,3,False,
+3984,HNSC,1,30,0,True,False,all_wrong,28개 이상,3,False,
+3985,STES,2,19,0,True,False,all_wrong,8~27개,2,False,
+3986,SKCM,1,6,0,True,False,all_wrong,1~7개,4,False,
+3989,OV,2,8,0,True,False,all_wrong,8~27개,3,False,
+3990,OV,2,17,0,True,False,all_wrong,8~27개,3,False,
+3996,LUAD,2,15,0,True,False,all_wrong,8~27개,2,False,
+4004,KIRC,1,0,0,True,False,all_wrong,0개,3,False,
+4005,BRCA,3,44,0,True,False,all_wrong,28개 이상,3,False,
+4006,STES,1,17,0,True,False,all_wrong,8~27개,2,False,
+4007,LAML,2,2,0,True,False,all_wrong,1~7개,1,True,OV
+4011,KIRC,3,22,0,True,False,all_wrong,8~27개,3,False,
+4017,KIPAN,2,13,0,True,False,all_wrong,8~27개,2,False,
+4019,LUAD,3,20,0,True,False,all_wrong,8~27개,3,False,
+4021,LUSC,2,60,0,True,False,all_wrong,28개 이상,3,False,
+4023,LUSC,3,41,0,True,False,all_wrong,28개 이상,4,False,
+4024,CESC,3,32,0,True,False,all_wrong,28개 이상,1,True,BRCA
+4025,LAML,2,1,0,True,False,all_wrong,1~7개,1,True,LGG
+4026,SKCM,2,63,0,True,False,all_wrong,28개 이상,2,False,
+4027,GBMLGG,2,5,0,True,False,all_wrong,1~7개,1,True,THCA
+4028,KIPAN,1,19,0,True,False,all_wrong,8~27개,3,False,
+4032,BLCA,1,43,0,True,False,all_wrong,28개 이상,2,False,
+4034,KIPAN,1,6,0,True,False,all_wrong,1~7개,1,True,KIRC
+4036,LAML,2,1,0,True,False,all_wrong,1~7개,1,True,LGG
+4040,LUSC,1,34,0,True,False,all_wrong,28개 이상,4,False,
+4045,UCEC,2,15,0,True,False,all_wrong,8~27개,1,True,GBMLGG
+4046,DLBC,3,3,0,True,False,all_wrong,1~7개,3,False,
+4048,BLCA,3,20,0,True,False,all_wrong,8~27개,2,False,
+4050,LGG,2,12,0,True,False,all_wrong,8~27개,3,False,
+4052,LGG,3,8,0,True,False,all_wrong,8~27개,2,False,
+4054,KIPAN,1,15,0,True,False,all_wrong,8~27개,2,False,
+4055,SARC,1,9,0,True,False,all_wrong,8~27개,3,False,
+4060,LUSC,1,45,0,True,False,all_wrong,28개 이상,4,False,
+4062,KIPAN,1,28,0,True,False,all_wrong,28개 이상,2,False,
+4063,CESC,1,40,0,True,False,all_wrong,28개 이상,2,False,
+4064,KIPAN,2,3,0,True,False,all_wrong,1~7개,2,False,
+4066,BRCA,3,9,0,True,False,all_wrong,8~27개,3,False,
+4068,KIPAN,3,8,0,True,False,all_wrong,8~27개,1,True,BRCA
+4072,STES,3,12,0,True,False,all_wrong,8~27개,1,True,THCA
+4073,KIRC,2,11,0,True,False,all_wrong,8~27개,1,True,THCA
+4075,LUAD,2,99,0,True,False,all_wrong,28개 이상,3,False,
+4076,GBMLGG,3,5,0,True,False,all_wrong,1~7개,1,True,LGG
+4081,COAD,1,1631,0,True,False,all_wrong,28개 이상,1,True,UCEC
+4085,CESC,1,21,0,True,False,all_wrong,8~27개,3,False,
+4086,SKCM,3,16,0,True,False,all_wrong,8~27개,2,False,
+4090,STES,2,28,0,True,False,all_wrong,28개 이상,1,True,BRCA
+4093,KIPAN,2,7,0,True,False,all_wrong,1~7개,3,False,
+4094,HNSC,2,82,0,True,False,all_wrong,28개 이상,1,True,LUSC
+4095,GBMLGG,1,27,0,True,False,all_wrong,8~27개,3,False,
+4096,CESC,1,11,0,True,False,all_wrong,8~27개,3,False,
+4099,THCA,2,8,0,True,False,all_wrong,8~27개,4,False,
+4100,KIPAN,2,24,0,True,False,all_wrong,8~27개,1,True,HNSC
+4103,GBMLGG,2,14,0,True,False,all_wrong,8~27개,4,False,
+4104,KIRC,1,5,0,True,False,all_wrong,1~7개,3,False,
+4106,KIPAN,1,13,0,True,False,all_wrong,8~27개,3,False,
+4109,KIRC,1,11,0,True,False,all_wrong,8~27개,2,False,
+4113,KIRC,3,11,0,True,False,all_wrong,8~27개,3,False,
+4114,GBMLGG,3,16,0,True,False,all_wrong,8~27개,1,True,UCEC
+4115,SARC,1,6,0,True,False,all_wrong,1~7개,3,False,
+4117,SARC,1,9,0,True,False,all_wrong,8~27개,2,False,
+4118,PRAD,2,4,0,True,False,all_wrong,1~7개,2,False,
+4120,BRCA,3,4,0,True,False,all_wrong,1~7개,2,False,
+4122,THYM,1,0,0,True,False,all_wrong,0개,3,False,
+4123,LGG,3,10,0,True,False,all_wrong,8~27개,2,False,
+4126,PAAD,3,12,0,True,False,all_wrong,8~27개,2,False,
+4127,GBMLGG,2,8,0,True,False,all_wrong,8~27개,1,True,BRCA
+4128,ACC,3,15,0,True,False,all_wrong,8~27개,2,False,
+4131,CESC,2,112,0,True,False,all_wrong,28개 이상,2,False,
+4132,GBMLGG,1,1,0,True,False,all_wrong,1~7개,2,False,
+4137,LUSC,2,80,0,True,False,all_wrong,28개 이상,3,False,
+4139,LIHC,1,6,0,True,False,all_wrong,1~7개,2,False,
+4144,KIPAN,1,26,0,True,False,all_wrong,8~27개,2,False,
+4148,GBMLGG,3,7,0,True,False,all_wrong,1~7개,1,True,LGG
+4149,KIRC,1,15,0,True,False,all_wrong,8~27개,1,True,PRAD
+4152,KIPAN,1,15,0,True,False,all_wrong,8~27개,3,False,
+4155,TGCT,2,13,0,True,False,all_wrong,8~27개,4,False,
+4156,PRAD,2,2,0,True,False,all_wrong,1~7개,3,False,
+4157,OV,2,10,0,True,False,all_wrong,8~27개,2,False,
+4158,HNSC,3,16,0,True,False,all_wrong,8~27개,3,False,
+4159,LUAD,1,20,0,True,False,all_wrong,8~27개,3,False,
+4162,PCPG,2,3,0,True,False,all_wrong,1~7개,2,False,
+4166,THCA,2,4,0,True,False,all_wrong,1~7개,2,False,
+4167,STES,1,70,0,True,False,all_wrong,28개 이상,1,True,COAD
+4168,THYM,3,3,0,True,False,all_wrong,1~7개,3,False,
+4169,LIHC,3,40,0,True,False,all_wrong,28개 이상,2,False,
+4170,UCEC,1,10,0,True,False,all_wrong,8~27개,2,False,
+4171,KIPAN,3,10,0,True,False,all_wrong,8~27개,2,False,
+4173,GBMLGG,3,19,0,True,False,all_wrong,8~27개,1,True,LGG
+4175,BRCA,3,13,0,True,False,all_wrong,8~27개,2,False,
+4177,BRCA,2,3,0,True,False,all_wrong,1~7개,1,True,SARC
+4180,BRCA,2,27,0,True,False,all_wrong,8~27개,1,True,SARC
+4182,SARC,2,5,0,True,False,all_wrong,1~7개,3,False,
+4184,GBMLGG,3,15,0,True,False,all_wrong,8~27개,2,False,
+4187,KIRC,2,11,0,True,False,all_wrong,8~27개,4,False,
+4189,CESC,3,17,0,True,False,all_wrong,8~27개,3,False,
+4190,KIRC,1,18,0,True,False,all_wrong,8~27개,2,False,
+4193,STES,1,27,0,True,False,all_wrong,8~27개,3,False,
+4194,CESC,2,2,0,True,False,all_wrong,1~7개,3,False,
+4195,CESC,3,20,0,True,False,all_wrong,8~27개,2,False,
+4196,CESC,2,10,0,True,False,all_wrong,8~27개,2,False,
+4201,SARC,2,8,0,True,False,all_wrong,8~27개,3,False,
+4203,BLCA,2,3,0,True,False,all_wrong,1~7개,3,False,
+4205,HNSC,3,1,0,True,False,all_wrong,1~7개,1,True,OV
+4206,PCPG,2,4,0,True,False,all_wrong,1~7개,3,False,
+4212,GBMLGG,1,27,0,True,False,all_wrong,8~27개,3,False,
+4213,LIHC,3,89,0,True,False,all_wrong,28개 이상,3,False,
+4214,LUSC,1,41,0,True,False,all_wrong,28개 이상,3,False,
+4218,LIHC,1,7,0,True,False,all_wrong,1~7개,3,False,
+4220,LUSC,3,41,0,True,False,all_wrong,28개 이상,2,False,
+4221,HNSC,3,21,0,True,False,all_wrong,8~27개,4,False,
+4222,STES,2,10,0,True,False,all_wrong,8~27개,1,True,THCA
+4224,LUAD,1,172,0,True,False,all_wrong,28개 이상,4,False,
+4228,BRCA,2,853,0,True,False,all_wrong,28개 이상,1,True,UCEC
+4230,PRAD,1,7,0,True,False,all_wrong,1~7개,1,True,UCEC
+4231,GBMLGG,2,5,0,True,False,all_wrong,1~7개,1,True,OV
+4232,SARC,2,9,0,True,False,all_wrong,8~27개,2,False,
+4234,KIPAN,2,13,0,True,False,all_wrong,8~27개,2,False,
+4235,SARC,3,9,0,True,False,all_wrong,8~27개,3,False,
+4237,GBMLGG,1,12,0,True,False,all_wrong,8~27개,1,True,KIPAN
+4244,TGCT,1,19,0,True,False,all_wrong,8~27개,2,False,
+4250,LIHC,2,17,0,True,False,all_wrong,8~27개,3,False,
+4251,SARC,1,11,0,True,False,all_wrong,8~27개,1,True,BRCA
+4253,PAAD,2,12,0,True,False,all_wrong,8~27개,3,False,
+4255,STES,2,88,0,True,False,all_wrong,28개 이상,1,True,UCEC
+4261,LIHC,1,5,0,True,False,all_wrong,1~7개,3,False,
+4263,GBMLGG,2,20,0,True,False,all_wrong,8~27개,2,False,
+4265,LAML,1,1,0,True,False,all_wrong,1~7개,2,False,
+4271,COAD,2,138,0,True,False,all_wrong,28개 이상,4,False,
+4272,KIRC,3,15,0,True,False,all_wrong,8~27개,2,False,
+4273,BRCA,1,505,0,True,False,all_wrong,28개 이상,3,False,
+4275,STES,1,19,0,True,False,all_wrong,8~27개,2,False,
+4278,LUAD,3,102,0,True,False,all_wrong,28개 이상,3,False,
+4279,KIRC,2,19,0,True,False,all_wrong,8~27개,2,False,
+4281,BRCA,2,11,0,True,False,all_wrong,8~27개,2,False,
+4282,STES,1,48,0,True,False,all_wrong,28개 이상,2,False,
+4284,THCA,2,5,0,True,False,all_wrong,1~7개,2,False,
+4286,SKCM,2,16,0,True,False,all_wrong,8~27개,1,True,THCA
+4297,BRCA,2,7,0,True,False,all_wrong,1~7개,3,False,
+4300,PCPG,2,5,0,True,False,all_wrong,1~7개,3,False,
+4301,GBMLGG,2,14,0,True,False,all_wrong,8~27개,1,True,BRCA
+4302,LUAD,3,24,0,True,False,all_wrong,8~27개,2,False,
+4305,THYM,3,11,0,True,False,all_wrong,8~27개,2,False,
+4308,PCPG,2,4,0,True,False,all_wrong,1~7개,3,False,
+4309,BRCA,2,13,0,True,False,all_wrong,8~27개,1,True,OV
+4314,STES,1,3,0,True,False,all_wrong,1~7개,3,False,
+4316,HNSC,1,41,0,True,False,all_wrong,28개 이상,1,True,STES
+4319,LUSC,3,41,0,True,False,all_wrong,28개 이상,2,False,
+4320,PCPG,2,3,0,True,False,all_wrong,1~7개,3,False,
+4321,KIRC,1,31,0,True,False,all_wrong,28개 이상,2,False,
+4322,STES,2,22,0,True,False,all_wrong,8~27개,1,True,OV
+4323,KIPAN,2,11,0,True,False,all_wrong,8~27개,1,True,PCPG
+4324,KIPAN,2,6,0,True,False,all_wrong,1~7개,3,False,
+4325,OV,2,10,0,True,False,all_wrong,8~27개,2,False,
+4329,KIRC,1,6,0,True,False,all_wrong,1~7개,2,False,
+4332,GBMLGG,3,19,0,True,False,all_wrong,8~27개,3,False,
+4333,TGCT,1,19,0,True,False,all_wrong,8~27개,2,False,
+4342,BRCA,3,5,0,True,False,all_wrong,1~7개,2,False,
+4347,LUSC,3,153,0,True,False,all_wrong,28개 이상,1,True,SKCM
+4348,KIPAN,3,22,0,True,False,all_wrong,8~27개,4,False,
+4349,THCA,1,2,0,True,False,all_wrong,1~7개,3,False,
+4350,LIHC,2,2,0,True,False,all_wrong,1~7개,3,False,
+4351,KIPAN,3,6,0,True,False,all_wrong,1~7개,2,False,
+4360,KIRC,2,11,0,True,False,all_wrong,8~27개,1,True,KIPAN
+4361,UCEC,3,13,0,True,False,all_wrong,8~27개,1,True,BRCA
+4362,LAML,1,6,0,True,False,all_wrong,1~7개,2,False,
+4363,GBMLGG,3,19,0,True,False,all_wrong,8~27개,1,True,LGG
+4364,PRAD,2,8,0,True,False,all_wrong,8~27개,2,False,
+4366,GBMLGG,3,10,0,True,False,all_wrong,8~27개,4,False,
+4368,LUAD,1,15,0,True,False,all_wrong,8~27개,3,False,
+4369,KIPAN,1,23,0,True,False,all_wrong,8~27개,1,True,KIRC
+4374,OV,3,7,0,True,False,all_wrong,1~7개,2,False,
+4376,GBMLGG,3,4,0,True,False,all_wrong,1~7개,1,True,LGG
+4378,KIPAN,3,18,0,True,False,all_wrong,8~27개,1,True,THYM
+4379,HNSC,3,44,0,True,False,all_wrong,28개 이상,3,False,
+4380,SARC,2,14,0,True,False,all_wrong,8~27개,1,True,PRAD
+4382,BRCA,2,18,0,True,False,all_wrong,8~27개,2,False,
+4383,BLCA,2,78,0,True,False,all_wrong,28개 이상,2,False,
+4384,LUAD,3,56,0,True,False,all_wrong,28개 이상,3,False,
+4385,CESC,3,427,0,True,False,all_wrong,28개 이상,3,False,
+4388,BRCA,1,48,0,True,False,all_wrong,28개 이상,2,False,
+4389,THCA,1,0,0,True,False,all_wrong,0개,3,False,
+4391,UCEC,3,8,0,True,False,all_wrong,8~27개,2,False,
+4394,KIPAN,2,15,0,True,False,all_wrong,8~27개,4,False,
+4395,THCA,1,3,0,True,False,all_wrong,1~7개,1,True,BRCA
+4398,KIPAN,1,29,0,True,False,all_wrong,28개 이상,1,True,TGCT
+4406,OV,2,10,0,True,False,all_wrong,8~27개,4,False,
+4413,HNSC,3,34,0,True,False,all_wrong,28개 이상,3,False,
+4415,GBMLGG,3,8,0,True,False,all_wrong,8~27개,1,True,LGG
+4418,THYM,1,1,0,True,False,all_wrong,1~7개,3,False,
+4423,GBMLGG,2,7,0,True,False,all_wrong,1~7개,4,False,
+4425,LIHC,1,14,0,True,False,all_wrong,8~27개,2,False,
+4426,SARC,3,16,0,True,False,all_wrong,8~27개,2,False,
+4428,OV,1,42,0,True,False,all_wrong,28개 이상,1,True,COAD
+4429,KIRC,3,10,0,True,False,all_wrong,8~27개,2,False,
+4431,HNSC,1,26,0,True,False,all_wrong,8~27개,4,False,
+4433,KIPAN,2,9,0,True,False,all_wrong,8~27개,1,True,THCA
+4434,STES,2,25,0,True,False,all_wrong,8~27개,2,False,
+4436,STES,1,42,0,True,False,all_wrong,28개 이상,1,True,HNSC
+4442,TGCT,1,27,0,True,False,all_wrong,8~27개,1,True,CESC
+4443,BRCA,2,6,0,True,False,all_wrong,1~7개,1,True,OV
+4445,SARC,2,11,0,True,False,all_wrong,8~27개,1,True,OV
+4446,PAAD,3,12,0,True,False,all_wrong,8~27개,3,False,
+4447,LUAD,1,32,0,True,False,all_wrong,28개 이상,2,False,
+4450,LIHC,1,32,0,True,False,all_wrong,28개 이상,2,False,
+4451,KIPAN,2,10,0,True,False,all_wrong,8~27개,4,False,
+4453,LAML,3,3,0,True,False,all_wrong,1~7개,3,False,
+4457,LIHC,1,20,0,True,False,all_wrong,8~27개,3,False,
+4458,PCPG,1,3,0,True,False,all_wrong,1~7개,2,False,
+4460,LUAD,1,46,0,True,False,all_wrong,28개 이상,3,False,
+4463,LUSC,1,39,0,True,False,all_wrong,28개 이상,2,False,
+4465,SARC,3,18,0,True,False,all_wrong,8~27개,2,False,
+4468,LAML,3,6,0,True,False,all_wrong,1~7개,2,False,
+4471,THCA,1,3,0,True,False,all_wrong,1~7개,2,False,
+4472,LUSC,3,56,0,True,False,all_wrong,28개 이상,1,True,COAD
+4473,KIPAN,3,13,0,True,False,all_wrong,8~27개,2,False,
+4475,BRCA,2,13,0,True,False,all_wrong,8~27개,2,False,
+4476,HNSC,3,7,0,True,False,all_wrong,1~7개,3,False,
+4478,PAAD,3,5,0,True,False,all_wrong,1~7개,2,False,
+4483,LGG,2,12,0,True,False,all_wrong,8~27개,2,False,
+4484,BRCA,1,5,0,True,False,all_wrong,1~7개,1,True,OV
+4486,BRCA,2,6,0,True,False,all_wrong,1~7개,1,True,OV
+4487,UCEC,2,106,0,True,False,all_wrong,28개 이상,3,False,
+4492,GBMLGG,1,15,0,True,False,all_wrong,8~27개,1,True,SARC
+4493,KIPAN,3,25,0,True,False,all_wrong,8~27개,2,False,
+4494,GBMLGG,2,13,0,True,False,all_wrong,8~27개,2,False,
+4495,GBMLGG,3,11,0,True,False,all_wrong,8~27개,3,False,
+4496,STES,3,24,0,True,False,all_wrong,8~27개,2,False,
+4497,PAAD,2,26,0,True,False,all_wrong,8~27개,2,False,
+4499,BRCA,2,15,0,True,False,all_wrong,8~27개,2,False,
+4500,THCA,2,5,0,True,False,all_wrong,1~7개,2,False,
+4503,KIPAN,2,19,0,True,False,all_wrong,8~27개,3,False,
+4504,KIPAN,3,10,0,True,False,all_wrong,8~27개,2,False,
+4509,LUAD,3,12,0,True,False,all_wrong,8~27개,3,False,
+4513,BRCA,2,36,0,True,False,all_wrong,28개 이상,1,True,OV
+4514,CESC,3,18,0,True,False,all_wrong,8~27개,4,False,
+4515,PCPG,2,4,0,True,False,all_wrong,1~7개,2,False,
+4517,KIPAN,2,9,0,True,False,all_wrong,8~27개,2,False,
+4519,KIPAN,1,10,0,True,False,all_wrong,8~27개,2,False,
+4520,LIHC,2,42,0,True,False,all_wrong,28개 이상,3,False,
+4521,THCA,3,1,0,True,False,all_wrong,1~7개,2,False,
+4522,CESC,2,33,0,True,False,all_wrong,28개 이상,2,False,
+4526,THCA,3,6,0,True,False,all_wrong,1~7개,4,False,
+4527,LUSC,2,34,0,True,False,all_wrong,28개 이상,2,False,
+4529,PRAD,1,7,0,True,False,all_wrong,1~7개,2,False,
+4531,BRCA,1,4,0,True,False,all_wrong,1~7개,1,True,OV
+4532,STES,3,28,0,True,False,all_wrong,28개 이상,2,False,
+4534,CESC,3,35,0,True,False,all_wrong,28개 이상,3,False,
+4535,LUAD,3,30,0,True,False,all_wrong,28개 이상,2,False,
+4537,PAAD,3,23,0,True,False,all_wrong,8~27개,3,False,
+4538,KIPAN,1,4,0,True,False,all_wrong,1~7개,2,False,
+4541,CESC,3,30,0,True,False,all_wrong,28개 이상,3,False,
+4542,SARC,3,10,0,True,False,all_wrong,8~27개,1,True,OV
+4544,PRAD,2,3,0,True,False,all_wrong,1~7개,3,False,
+4546,GBMLGG,1,15,0,True,False,all_wrong,8~27개,1,True,LGG
+4547,KIPAN,3,18,0,True,False,all_wrong,8~27개,4,False,
+4549,CESC,1,10,0,True,False,all_wrong,8~27개,3,False,
+4550,GBMLGG,2,4,0,True,False,all_wrong,1~7개,1,True,LGG
+4552,KIRC,3,11,0,True,False,all_wrong,8~27개,4,False,
+4555,SKCM,2,20,0,True,False,all_wrong,8~27개,3,False,
+4558,GBMLGG,3,16,0,True,False,all_wrong,8~27개,2,False,
+4559,GBMLGG,3,17,0,True,False,all_wrong,8~27개,1,True,LGG
+4560,GBMLGG,3,8,0,True,False,all_wrong,8~27개,1,True,THCA
+4561,OV,1,14,0,True,False,all_wrong,8~27개,1,True,BRCA
+4563,KIRC,2,17,0,True,False,all_wrong,8~27개,2,False,
+4564,TGCT,3,20,0,True,False,all_wrong,8~27개,3,False,
+4566,LAML,3,2,0,True,False,all_wrong,1~7개,3,False,
+4567,SKCM,2,5,0,True,False,all_wrong,1~7개,1,True,THCA
+4570,PAAD,2,22,0,True,False,all_wrong,8~27개,3,False,
+4572,STES,1,0,0,True,False,all_wrong,0개,3,False,
+4574,KIPAN,2,13,0,True,False,all_wrong,8~27개,1,True,KIRC
+4577,SKCM,2,41,0,True,False,all_wrong,28개 이상,3,False,
+4579,THCA,3,1,0,True,False,all_wrong,1~7개,2,False,
+4580,BLCA,3,29,0,True,False,all_wrong,28개 이상,3,False,
+4581,BRCA,1,5,0,True,False,all_wrong,1~7개,1,True,OV
+4595,SKCM,1,34,0,True,False,all_wrong,28개 이상,1,True,THCA
+4596,GBMLGG,3,19,0,True,False,all_wrong,8~27개,1,True,BRCA
+4598,KIRC,3,23,0,True,False,all_wrong,8~27개,3,False,
+4599,PAAD,3,27,0,True,False,all_wrong,8~27개,3,False,
+4602,SARC,2,2,0,True,False,all_wrong,1~7개,3,False,
+4603,GBMLGG,3,8,0,True,False,all_wrong,8~27개,2,False,
+4604,BRCA,1,6,0,True,False,all_wrong,1~7개,1,True,PRAD
+4605,KIRC,1,10,0,True,False,all_wrong,8~27개,2,False,
+4610,GBMLGG,1,7,0,True,False,all_wrong,1~7개,1,True,LGG
+4614,GBMLGG,3,7,0,True,False,all_wrong,1~7개,1,True,LGG
+4615,HNSC,1,33,0,True,False,all_wrong,28개 이상,1,True,BRCA
+4616,THYM,2,2,0,True,False,all_wrong,1~7개,1,True,BRCA
+4617,HNSC,1,2,0,True,False,all_wrong,1~7개,2,False,
+4619,OV,1,17,0,True,False,all_wrong,8~27개,3,False,
+4621,STES,3,67,0,True,False,all_wrong,28개 이상,2,False,
+4622,LIHC,3,62,0,True,False,all_wrong,28개 이상,3,False,
+4626,LUSC,2,36,0,True,False,all_wrong,28개 이상,2,False,
+4630,LIHC,1,34,0,True,False,all_wrong,28개 이상,3,False,
+4632,KIPAN,3,13,0,True,False,all_wrong,8~27개,2,False,
+4638,KIPAN,3,19,0,True,False,all_wrong,8~27개,3,False,
+4639,SARC,1,6,0,True,False,all_wrong,1~7개,3,False,
+4643,KIPAN,2,13,0,True,False,all_wrong,8~27개,3,False,
+4645,KIPAN,2,9,0,True,False,all_wrong,8~27개,1,True,BRCA
+4646,DLBC,3,17,0,True,False,all_wrong,8~27개,1,True,SARC
+4647,SKCM,1,12,0,True,False,all_wrong,8~27개,3,False,
+4654,GBMLGG,3,12,0,True,False,all_wrong,8~27개,3,False,
+4655,LGG,1,0,0,True,False,all_wrong,0개,3,False,
+4656,COAD,2,296,0,True,False,all_wrong,28개 이상,3,False,
+4660,KIPAN,2,10,0,True,False,all_wrong,8~27개,1,True,KIRC
+4661,LUSC,1,44,0,True,False,all_wrong,28개 이상,1,True,HNSC
+4666,BRCA,2,28,0,True,False,all_wrong,28개 이상,2,False,
+4671,LGG,3,11,0,True,False,all_wrong,8~27개,2,False,
+4672,KIRC,1,13,0,True,False,all_wrong,8~27개,4,False,
+4674,LUSC,2,33,0,True,False,all_wrong,28개 이상,3,False,
+4679,KIPAN,2,13,0,True,False,all_wrong,8~27개,1,True,GBMLGG
+4681,SARC,2,7,0,True,False,all_wrong,1~7개,3,False,
+4685,GBMLGG,3,11,0,True,False,all_wrong,8~27개,2,False,
+4686,THYM,1,0,0,True,False,all_wrong,0개,3,False,
+4687,KIPAN,2,20,0,True,False,all_wrong,8~27개,1,True,KIRC
+4688,OV,2,1,0,True,False,all_wrong,1~7개,2,False,
+4690,STES,1,27,0,True,False,all_wrong,8~27개,2,False,
+4693,OV,2,33,0,True,False,all_wrong,28개 이상,4,False,
+4695,LGG,3,7,0,True,False,all_wrong,1~7개,2,False,
+4696,THCA,3,3,0,True,False,all_wrong,1~7개,2,False,
+4697,GBMLGG,3,18,0,True,False,all_wrong,8~27개,2,False,
+4704,TGCT,3,2,0,True,False,all_wrong,1~7개,3,False,
+4705,LUAD,3,18,0,True,False,all_wrong,8~27개,3,False,
+4707,HNSC,3,30,0,True,False,all_wrong,28개 이상,1,True,TGCT
+4713,KIPAN,1,19,0,True,False,all_wrong,8~27개,1,True,KIRC
+4714,CESC,3,9,0,True,False,all_wrong,8~27개,3,False,
+4715,LUAD,1,29,0,True,False,all_wrong,28개 이상,1,True,HNSC
+4716,BRCA,1,38,0,True,False,all_wrong,28개 이상,3,False,
+4725,PAAD,3,26,0,True,False,all_wrong,8~27개,2,False,
+4734,GBMLGG,2,21,0,True,False,all_wrong,8~27개,4,False,
+4736,HNSC,2,58,0,True,False,all_wrong,28개 이상,4,False,
+4738,KIPAN,2,16,0,True,False,all_wrong,8~27개,3,False,
+4739,STES,1,50,0,True,False,all_wrong,28개 이상,2,False,
+4740,LAML,2,3,0,True,False,all_wrong,1~7개,2,False,
+4741,GBMLGG,2,121,0,True,False,all_wrong,28개 이상,4,False,
+4742,LUSC,3,46,0,True,False,all_wrong,28개 이상,2,False,
+4743,CESC,3,16,0,True,False,all_wrong,8~27개,3,False,
+4744,LUSC,1,37,0,True,False,all_wrong,28개 이상,3,False,
+4745,SKCM,3,13,0,True,False,all_wrong,8~27개,3,False,
+4748,COAD,2,407,0,True,False,all_wrong,28개 이상,2,False,
+4751,KIRC,1,7,0,True,False,all_wrong,1~7개,3,False,
+4754,CESC,1,40,0,True,False,all_wrong,28개 이상,1,True,BRCA
+4756,CESC,3,2,0,True,False,all_wrong,1~7개,2,False,
+4758,THYM,3,1,0,True,False,all_wrong,1~7개,1,True,OV
+4763,DLBC,3,5,0,True,False,all_wrong,1~7개,3,False,
+4766,LUAD,2,79,0,True,False,all_wrong,28개 이상,3,False,
+4767,LUAD,3,49,0,True,False,all_wrong,28개 이상,2,False,
+4768,HNSC,2,22,0,True,False,all_wrong,8~27개,2,False,
+4771,LUSC,2,56,0,True,False,all_wrong,28개 이상,3,False,
+4775,LIHC,2,286,0,True,False,all_wrong,28개 이상,1,True,LUSC
+4776,KIRC,3,17,0,True,False,all_wrong,8~27개,2,False,
+4777,KIRC,1,19,0,True,False,all_wrong,8~27개,3,False,
+4778,SKCM,3,3,0,True,False,all_wrong,1~7개,3,False,
+4779,TGCT,3,21,0,True,False,all_wrong,8~27개,1,True,GBMLGG
+4781,BRCA,3,48,0,True,False,all_wrong,28개 이상,2,False,
+4782,BRCA,3,1,0,True,False,all_wrong,1~7개,1,True,PCPG
+4785,BRCA,3,8,0,True,False,all_wrong,8~27개,2,False,
+4787,LGG,3,2,0,True,False,all_wrong,1~7개,2,False,
+4788,THCA,1,0,0,True,False,all_wrong,0개,3,False,
+4789,KIPAN,3,8,0,True,False,all_wrong,8~27개,4,False,
+4792,LIHC,3,13,0,True,False,all_wrong,8~27개,2,False,
+4795,PCPG,2,2,0,True,False,all_wrong,1~7개,3,False,
+4797,LAML,3,3,0,True,False,all_wrong,1~7개,2,False,
+4798,PCPG,3,5,0,True,False,all_wrong,1~7개,2,False,
+4799,LUSC,2,44,0,True,False,all_wrong,28개 이상,3,False,
+4801,LIHC,1,19,0,True,False,all_wrong,8~27개,2,False,
+4802,BRCA,1,13,0,True,False,all_wrong,8~27개,2,False,
+4804,LUSC,2,102,0,True,False,all_wrong,28개 이상,2,False,
+4807,SARC,2,8,0,True,False,all_wrong,8~27개,2,False,
+4809,SKCM,1,8,0,True,False,all_wrong,8~27개,2,False,
+4812,STES,3,37,0,True,False,all_wrong,28개 이상,3,False,
+4814,LUAD,2,52,0,True,False,all_wrong,28개 이상,3,False,
+4815,HNSC,2,24,0,True,False,all_wrong,8~27개,1,True,OV
+4821,HNSC,1,8,0,True,False,all_wrong,8~27개,1,True,OV
+4822,LIHC,3,26,0,True,False,all_wrong,8~27개,1,True,OV
+4823,KIPAN,1,0,0,True,False,all_wrong,0개,3,False,
+4824,GBMLGG,2,15,0,True,False,all_wrong,8~27개,3,False,
+4828,LGG,1,10,0,True,False,all_wrong,8~27개,1,True,BRCA
+4829,GBMLGG,2,21,0,True,False,all_wrong,8~27개,2,False,
+4831,CESC,2,14,0,True,False,all_wrong,8~27개,3,False,
+4832,PAAD,3,7,0,True,False,all_wrong,1~7개,3,False,
+4833,BLCA,2,31,0,True,False,all_wrong,28개 이상,3,False,
+4834,LIHC,3,13,0,True,False,all_wrong,8~27개,2,False,
+4835,ACC,2,10,0,True,False,all_wrong,8~27개,4,False,
+4837,GBMLGG,3,4,0,True,False,all_wrong,1~7개,1,True,LGG
+4840,TGCT,1,10,0,True,False,all_wrong,8~27개,3,False,
+4841,KIPAN,1,15,0,True,False,all_wrong,8~27개,2,False,
+4847,KIPAN,3,15,0,True,False,all_wrong,8~27개,1,True,KIRC
+4848,KIPAN,1,9,0,True,False,all_wrong,8~27개,3,False,
+4849,KIPAN,3,10,0,True,False,all_wrong,8~27개,3,False,
+4850,GBMLGG,3,16,0,True,False,all_wrong,8~27개,1,True,BRCA
+4851,LUSC,1,81,0,True,False,all_wrong,28개 이상,3,False,
+4852,SARC,3,11,0,True,False,all_wrong,8~27개,2,False,
+4854,BRCA,2,3,0,True,False,all_wrong,1~7개,2,False,
+4856,STES,3,23,0,True,False,all_wrong,8~27개,1,True,BRCA
+4858,PRAD,2,4,0,True,False,all_wrong,1~7개,3,False,
+4859,SARC,2,14,0,True,False,all_wrong,8~27개,4,False,
+4861,OV,2,22,0,True,False,all_wrong,8~27개,1,True,COAD
+4863,ACC,3,88,0,True,False,all_wrong,28개 이상,4,False,
+4865,STES,1,44,0,True,False,all_wrong,28개 이상,1,True,SARC
+4866,THCA,3,2,0,True,False,all_wrong,1~7개,2,False,
+4867,GBMLGG,2,5,0,True,False,all_wrong,1~7개,1,True,LGG
+4868,TGCT,3,13,0,True,False,all_wrong,8~27개,3,False,
+4871,LGG,2,15,0,True,False,all_wrong,8~27개,3,False,
+4873,BRCA,2,23,0,True,False,all_wrong,8~27개,2,False,
+4875,STES,3,46,0,True,False,all_wrong,28개 이상,2,False,
+4879,LAML,1,0,0,True,False,all_wrong,0개,3,False,
+4880,BRCA,3,20,0,True,False,all_wrong,8~27개,3,False,
+4881,KIPAN,2,9,0,True,False,all_wrong,8~27개,2,False,
+4889,GBMLGG,3,47,0,True,False,all_wrong,28개 이상,2,False,
+4891,LGG,1,11,0,True,False,all_wrong,8~27개,2,False,
+4892,LUAD,3,10,0,True,False,all_wrong,8~27개,1,True,PCPG
+4893,KIRC,3,8,0,True,False,all_wrong,8~27개,2,False,
+4895,SARC,3,9,0,True,False,all_wrong,8~27개,3,False,
+4896,CESC,1,44,0,True,False,all_wrong,28개 이상,2,False,
+4898,KIPAN,2,17,0,True,False,all_wrong,8~27개,3,False,
+4900,COAD,1,270,0,True,False,all_wrong,28개 이상,4,False,
+4901,GBMLGG,1,12,0,True,False,all_wrong,8~27개,3,False,
+4902,SKCM,1,12,0,True,False,all_wrong,8~27개,3,False,
+4904,THCA,1,0,0,True,False,all_wrong,0개,3,False,
+4906,DLBC,1,6,0,True,False,all_wrong,1~7개,2,False,
+4907,PRAD,3,7,0,True,False,all_wrong,1~7개,1,True,PCPG
+4909,CESC,3,2,0,True,False,all_wrong,1~7개,2,False,
+4911,BRCA,2,13,0,True,False,all_wrong,8~27개,2,False,
+4912,KIRC,3,14,0,True,False,all_wrong,8~27개,3,False,
+4913,STES,1,29,0,True,False,all_wrong,28개 이상,2,False,
+4915,HNSC,1,37,0,True,False,all_wrong,28개 이상,2,False,
+4920,GBMLGG,1,25,0,True,False,all_wrong,8~27개,3,False,
+4921,SARC,1,13,0,True,False,all_wrong,8~27개,2,False,
+4922,BLCA,1,11,0,True,False,all_wrong,8~27개,1,True,PRAD
+4924,BLCA,1,110,0,True,False,all_wrong,28개 이상,3,False,
+4927,BRCA,2,9,0,True,False,all_wrong,8~27개,3,False,
+4932,KIPAN,2,11,0,True,False,all_wrong,8~27개,3,False,
+4935,SARC,3,7,0,True,False,all_wrong,1~7개,3,False,
+4936,PCPG,2,2,0,True,False,all_wrong,1~7개,2,False,
+4941,THYM,1,0,0,True,False,all_wrong,0개,3,False,
+4943,TGCT,3,12,0,True,False,all_wrong,8~27개,2,False,
+4944,GBMLGG,2,3,0,True,False,all_wrong,1~7개,1,True,LGG
+4946,CESC,2,50,0,True,False,all_wrong,28개 이상,4,False,
+4947,CESC,1,15,0,True,False,all_wrong,8~27개,2,False,
+4953,LUAD,3,40,0,True,False,all_wrong,28개 이상,2,False,
+4955,PAAD,3,16,0,True,False,all_wrong,8~27개,2,False,
+4957,PCPG,3,7,0,True,False,all_wrong,1~7개,2,False,
+4959,KIRC,2,10,0,True,False,all_wrong,8~27개,4,False,
+4962,THCA,1,1,0,True,False,all_wrong,1~7개,3,False,
+4964,TGCT,3,18,0,True,False,all_wrong,8~27개,2,False,
+4965,SARC,1,14,0,True,False,all_wrong,8~27개,1,True,OV
+4967,PCPG,1,3,0,True,False,all_wrong,1~7개,2,False,
+4968,LUAD,3,43,0,True,False,all_wrong,28개 이상,3,False,
+4971,PAAD,2,16,0,True,False,all_wrong,8~27개,2,False,
+4972,UCEC,1,17,0,True,False,all_wrong,8~27개,2,False,
+4973,PCPG,2,3,0,True,False,all_wrong,1~7개,2,False,
+4974,GBMLGG,3,13,0,True,False,all_wrong,8~27개,2,False,
+4975,GBMLGG,2,28,0,True,False,all_wrong,28개 이상,3,False,
+4978,KIRC,2,12,0,True,False,all_wrong,8~27개,1,True,KIPAN
+4979,HNSC,2,82,0,True,False,all_wrong,28개 이상,2,False,
+4980,COAD,1,22,0,True,False,all_wrong,8~27개,1,True,SARC
+4985,COAD,2,29,0,True,False,all_wrong,28개 이상,1,True,OV
+4987,GBMLGG,2,8,0,True,False,all_wrong,8~27개,1,True,LGG
+4988,LGG,1,15,0,True,False,all_wrong,8~27개,1,True,GBMLGG
+4994,BRCA,3,15,0,True,False,all_wrong,8~27개,2,False,
+4999,KIPAN,3,22,0,True,False,all_wrong,8~27개,4,False,
+5002,PAAD,2,7,0,True,False,all_wrong,1~7개,1,True,OV
+5004,KIPAN,1,12,0,True,False,all_wrong,8~27개,1,True,KIRC
+5007,PAAD,1,27,0,True,False,all_wrong,8~27개,3,False,
+5008,STES,3,15,0,True,False,all_wrong,8~27개,4,False,
+5009,LUAD,1,74,0,True,False,all_wrong,28개 이상,3,False,
+5010,KIPAN,3,17,0,True,False,all_wrong,8~27개,3,False,
+5012,KIRC,1,1,0,True,False,all_wrong,1~7개,2,False,
+5013,KIRC,1,6,0,True,False,all_wrong,1~7개,3,False,
+5014,THCA,1,3,0,True,False,all_wrong,1~7개,3,False,
+5019,STES,3,59,0,True,False,all_wrong,28개 이상,1,True,COAD
+5022,LUSC,3,23,0,True,False,all_wrong,8~27개,4,False,
+5024,STES,2,45,0,True,False,all_wrong,28개 이상,1,True,BRCA
+5025,KIPAN,2,13,0,True,False,all_wrong,8~27개,4,False,
+5029,LUAD,2,59,0,True,False,all_wrong,28개 이상,2,False,
+5030,OV,2,34,0,True,False,all_wrong,28개 이상,2,False,
+5031,CESC,1,23,0,True,False,all_wrong,8~27개,3,False,
+5032,KIPAN,1,7,0,True,False,all_wrong,1~7개,2,False,
+5036,LAML,1,4,0,True,False,all_wrong,1~7개,1,True,PCPG
+5039,LAML,1,5,0,True,False,all_wrong,1~7개,3,False,
+5040,SARC,1,9,0,True,False,all_wrong,8~27개,1,True,COAD
+5045,TGCT,2,11,0,True,False,all_wrong,8~27개,2,False,
+5047,UCEC,3,9,0,True,False,all_wrong,8~27개,1,True,BRCA
+5048,LIHC,2,7,0,True,False,all_wrong,1~7개,2,False,
+5050,GBMLGG,1,14,0,True,False,all_wrong,8~27개,1,True,LGG
+5053,PAAD,1,12,0,True,False,all_wrong,8~27개,3,False,
+5054,GBMLGG,1,31,0,True,False,all_wrong,28개 이상,3,False,
+5056,CESC,1,229,0,True,False,all_wrong,28개 이상,3,False,
+5057,LUAD,2,28,0,True,False,all_wrong,28개 이상,3,False,
+5059,THCA,3,6,0,True,False,all_wrong,1~7개,2,False,
+5060,THCA,3,2,0,True,False,all_wrong,1~7개,2,False,
+5061,PRAD,2,7,0,True,False,all_wrong,1~7개,1,True,OV
+5065,UCEC,1,7,0,True,False,all_wrong,1~7개,2,False,
+5066,KIPAN,2,6,0,True,False,all_wrong,1~7개,1,True,LAML
+5067,LUSC,2,68,0,True,False,all_wrong,28개 이상,2,False,
+5068,LUAD,2,16,0,True,False,all_wrong,8~27개,4,False,
+5071,LUAD,3,19,0,True,False,all_wrong,8~27개,1,True,TGCT
+5073,BRCA,2,14,0,True,False,all_wrong,8~27개,1,True,OV
+5074,BLCA,2,78,0,True,False,all_wrong,28개 이상,4,False,
+5079,PRAD,2,1,0,True,False,all_wrong,1~7개,2,False,
+5084,THYM,1,0,0,True,False,all_wrong,0개,3,False,
+5086,LUSC,2,24,0,True,False,all_wrong,8~27개,3,False,
+5088,THCA,1,2,0,True,False,all_wrong,1~7개,1,True,PRAD
+5089,COAD,3,28,0,True,False,all_wrong,28개 이상,2,False,
+5090,LUAD,3,4,0,True,False,all_wrong,1~7개,2,False,
+5091,KIRC,1,10,0,True,False,all_wrong,8~27개,2,False,
+5092,PRAD,3,2,0,True,False,all_wrong,1~7개,4,False,
+5093,PRAD,3,6,0,True,False,all_wrong,1~7개,2,False,
+5094,LAML,2,4,0,True,False,all_wrong,1~7개,3,False,
+5101,SARC,2,12,0,True,False,all_wrong,8~27개,2,False,
+5102,UCEC,3,33,0,True,False,all_wrong,28개 이상,2,False,
+5103,LGG,1,10,0,True,False,all_wrong,8~27개,1,True,GBMLGG
+5107,PRAD,3,4,0,True,False,all_wrong,1~7개,3,False,
+5109,LUAD,3,12,0,True,False,all_wrong,8~27개,2,False,
+5110,STES,3,73,0,True,False,all_wrong,28개 이상,1,True,COAD
+5114,SARC,1,0,0,True,False,all_wrong,0개,3,False,
+5116,COAD,3,19,0,True,False,all_wrong,8~27개,1,True,OV
+5117,SKCM,2,39,0,True,False,all_wrong,28개 이상,1,True,SARC
+5118,STES,2,23,0,True,False,all_wrong,8~27개,2,False,
+5119,LGG,2,14,0,True,False,all_wrong,8~27개,1,True,GBMLGG
+5122,STES,2,26,0,True,False,all_wrong,8~27개,1,True,BRCA
+5124,SKCM,2,58,0,True,False,all_wrong,28개 이상,1,True,COAD
+5126,KIRC,2,8,0,True,False,all_wrong,8~27개,3,False,
+5128,THCA,2,8,0,True,False,all_wrong,8~27개,2,False,
+5129,STES,2,48,0,True,False,all_wrong,28개 이상,3,False,
+5131,KIPAN,1,5,0,True,False,all_wrong,1~7개,2,False,
+5132,KIRC,2,9,0,True,False,all_wrong,8~27개,1,True,PRAD
+5133,BRCA,2,11,0,True,False,all_wrong,8~27개,2,False,
+5134,BRCA,1,194,0,True,False,all_wrong,28개 이상,2,False,
+5137,HNSC,1,12,0,True,False,all_wrong,8~27개,1,True,OV
+5138,THCA,1,0,0,True,False,all_wrong,0개,3,False,
+5139,SKCM,3,72,0,True,False,all_wrong,28개 이상,3,False,
+5141,PAAD,2,10,0,True,False,all_wrong,8~27개,3,False,
+5143,BRCA,2,5,0,True,False,all_wrong,1~7개,1,True,LAML
+5146,CESC,3,13,0,True,False,all_wrong,8~27개,2,False,
+5147,KIPAN,3,20,0,True,False,all_wrong,8~27개,1,True,KIRC
+5150,KIRC,1,18,0,True,False,all_wrong,8~27개,3,False,
+5151,SARC,2,8,0,True,False,all_wrong,8~27개,4,False,
+5155,LAML,3,2,0,True,False,all_wrong,1~7개,1,True,PCPG
+5156,TGCT,2,16,0,True,False,all_wrong,8~27개,3,False,
+5157,PRAD,3,7,0,True,False,all_wrong,1~7개,1,True,BRCA
+5158,GBMLGG,2,12,0,True,False,all_wrong,8~27개,3,False,
+5160,PCPG,3,8,0,True,False,all_wrong,8~27개,1,True,SARC
+5161,SARC,2,8,0,True,False,all_wrong,8~27개,3,False,
+5162,CESC,2,20,0,True,False,all_wrong,8~27개,1,True,BRCA
+5165,TGCT,3,19,0,True,False,all_wrong,8~27개,1,True,KIPAN
+5166,STES,1,20,0,True,False,all_wrong,8~27개,2,False,
+5168,BRCA,2,10,0,True,False,all_wrong,8~27개,1,True,OV
+5169,PAAD,2,19,0,True,False,all_wrong,8~27개,4,False,
+5171,KIRC,3,23,0,True,False,all_wrong,8~27개,3,False,
+5173,UCEC,3,392,0,True,False,all_wrong,28개 이상,2,False,
+5174,GBMLGG,1,10,0,True,False,all_wrong,8~27개,2,False,
+5175,KIRC,3,4,0,True,False,all_wrong,1~7개,2,False,
+5178,STES,2,34,0,True,False,all_wrong,28개 이상,1,True,BRCA
+5180,LUAD,2,26,0,True,False,all_wrong,8~27개,2,False,
+5183,PRAD,2,1,0,True,False,all_wrong,1~7개,2,False,
+5184,KIRC,1,14,0,True,False,all_wrong,8~27개,2,False,
+5186,LUSC,1,57,0,True,False,all_wrong,28개 이상,2,False,
+5187,TGCT,2,8,0,True,False,all_wrong,8~27개,4,False,
+5188,LAML,3,1,0,True,False,all_wrong,1~7개,2,False,
+5190,KIRC,3,9,0,True,False,all_wrong,8~27개,2,False,
+5192,DLBC,2,44,0,True,False,all_wrong,28개 이상,2,False,
+5193,LAML,1,0,0,True,False,all_wrong,0개,3,False,
+5194,COAD,3,184,0,True,False,all_wrong,28개 이상,2,False,
+5197,PRAD,3,6,0,True,False,all_wrong,1~7개,3,False,
+5200,BRCA,3,12,0,True,False,all_wrong,8~27개,2,False,
+5201,SARC,2,11,0,True,False,all_wrong,8~27개,1,True,BRCA
+5203,PRAD,2,1,0,True,False,all_wrong,1~7개,2,False,
+5207,GBMLGG,1,0,0,True,False,all_wrong,0개,3,False,
+5212,LAML,2,3,0,True,False,all_wrong,1~7개,2,False,
+5216,STES,1,96,0,True,False,all_wrong,28개 이상,4,False,
+5217,LIHC,2,38,0,True,False,all_wrong,28개 이상,3,False,
+5218,STES,2,30,0,True,False,all_wrong,28개 이상,2,False,
+5220,PRAD,1,2,0,True,False,all_wrong,1~7개,1,True,OV
+5223,GBMLGG,1,13,0,True,False,all_wrong,8~27개,1,True,OV
+5226,KIPAN,1,17,0,True,False,all_wrong,8~27개,2,False,
+5228,UCEC,3,88,0,True,False,all_wrong,28개 이상,3,False,
+5230,KIPAN,1,18,0,True,False,all_wrong,8~27개,1,True,TGCT
+5231,PRAD,3,17,0,True,False,all_wrong,8~27개,2,False,
+5242,BRCA,1,33,0,True,False,all_wrong,28개 이상,2,False,
+5245,STES,2,32,0,True,False,all_wrong,28개 이상,3,False,
+5248,HNSC,1,38,0,True,False,all_wrong,28개 이상,1,True,STES
+5249,KIRC,3,2,0,True,False,all_wrong,1~7개,4,False,
+5250,BRCA,1,16,0,True,False,all_wrong,8~27개,3,False,
+5267,GBMLGG,1,5,0,True,False,all_wrong,1~7개,1,True,LGG
+5269,LGG,2,9,0,True,False,all_wrong,8~27개,1,True,BRCA
+5270,UCEC,3,117,0,True,False,all_wrong,28개 이상,2,False,
+5274,LUSC,2,16,0,True,False,all_wrong,8~27개,2,False,
+5275,SARC,3,1,0,True,False,all_wrong,1~7개,2,False,
+5278,HNSC,1,22,0,True,False,all_wrong,8~27개,3,False,
+5280,KIPAN,3,6,0,True,False,all_wrong,1~7개,2,False,
+5282,LUAD,1,41,0,True,False,all_wrong,28개 이상,3,False,
+5284,TGCT,1,16,0,True,False,all_wrong,8~27개,1,True,BRCA
+5286,SARC,2,13,0,True,False,all_wrong,8~27개,3,False,
+5288,COAD,1,18,0,True,False,all_wrong,8~27개,4,False,
+5289,BRCA,2,18,0,True,False,all_wrong,8~27개,2,False,
+5290,KIPAN,3,15,0,True,False,all_wrong,8~27개,3,False,
+5291,LAML,1,0,0,True,False,all_wrong,0개,3,False,
+5293,UCEC,1,7,0,True,False,all_wrong,1~7개,2,False,
+5297,LAML,1,0,0,True,False,all_wrong,0개,3,False,
+5299,BRCA,1,35,0,True,False,all_wrong,28개 이상,2,False,
+5301,KIPAN,3,5,0,True,False,all_wrong,1~7개,1,True,LAML
+5304,BRCA,1,4,0,True,False,all_wrong,1~7개,3,False,
+5305,STES,1,19,0,True,False,all_wrong,8~27개,1,True,BRCA
+5307,BRCA,1,47,0,True,False,all_wrong,28개 이상,1,True,GBMLGG
+5310,KIPAN,1,13,0,True,False,all_wrong,8~27개,2,False,
+5311,LUAD,2,26,0,True,False,all_wrong,8~27개,2,False,
+5312,UCEC,1,3,0,True,False,all_wrong,1~7개,2,False,
+5315,KIPAN,3,17,0,True,False,all_wrong,8~27개,2,False,
+5317,SKCM,1,27,0,True,False,all_wrong,8~27개,3,False,
+5319,DLBC,2,174,0,True,False,all_wrong,28개 이상,2,False,
+5320,TGCT,2,10,0,True,False,all_wrong,8~27개,3,False,
+5325,KIPAN,1,14,0,True,False,all_wrong,8~27개,1,True,THCA
+5327,STES,2,44,0,True,False,all_wrong,28개 이상,3,False,
+5330,SARC,3,7,0,True,False,all_wrong,1~7개,2,False,
+5331,SARC,1,4,0,True,False,all_wrong,1~7개,2,False,
+5336,LUSC,1,95,0,True,False,all_wrong,28개 이상,2,False,
+5339,LUSC,3,36,0,True,False,all_wrong,28개 이상,2,False,
+5341,GBMLGG,3,18,0,True,False,all_wrong,8~27개,2,False,
+5343,SKCM,1,37,0,True,False,all_wrong,28개 이상,3,False,
+5344,CESC,1,13,0,True,False,all_wrong,8~27개,3,False,
+5345,KIPAN,1,0,0,True,False,all_wrong,0개,3,False,
+5349,SARC,3,9,0,True,False,all_wrong,8~27개,3,False,
+5350,KIRC,1,7,0,True,False,all_wrong,1~7개,3,False,
+5351,PCPG,1,6,0,True,False,all_wrong,1~7개,3,False,
+5353,HNSC,3,19,0,True,False,all_wrong,8~27개,2,False,
+5355,BRCA,2,6,0,True,False,all_wrong,1~7개,2,False,
+5357,GBMLGG,2,9,0,True,False,all_wrong,8~27개,1,True,LGG
+5358,THCA,2,2,0,True,False,all_wrong,1~7개,2,False,
+5361,LIHC,2,41,0,True,False,all_wrong,28개 이상,3,False,
+5362,UCEC,2,13,0,True,False,all_wrong,8~27개,2,False,
+5363,KIPAN,2,22,0,True,False,all_wrong,8~27개,2,False,
+5364,TGCT,1,12,0,True,False,all_wrong,8~27개,1,True,THCA
+5365,TGCT,1,11,0,True,False,all_wrong,8~27개,3,False,
+5369,KIRC,3,18,0,True,False,all_wrong,8~27개,2,False,
+5373,THCA,2,2,0,True,False,all_wrong,1~7개,1,True,SARC
+5374,BRCA,3,20,0,True,False,all_wrong,8~27개,1,True,OV
+5375,COAD,1,16,0,True,False,all_wrong,8~27개,2,False,
+5376,HNSC,1,59,0,True,False,all_wrong,28개 이상,4,False,
+5378,KIPAN,2,39,0,True,False,all_wrong,28개 이상,3,False,
+5379,THYM,2,1,0,True,False,all_wrong,1~7개,1,True,PCPG
+5381,BRCA,3,12,0,True,False,all_wrong,8~27개,3,False,
+5383,PRAD,3,5,0,True,False,all_wrong,1~7개,3,False,
+5385,LIHC,2,18,0,True,False,all_wrong,8~27개,2,False,
+5388,HNSC,2,2,0,True,False,all_wrong,1~7개,1,True,OV
+5389,PCPG,3,5,0,True,False,all_wrong,1~7개,2,False,
+5390,KIPAN,2,12,0,True,False,all_wrong,8~27개,1,True,KIRC
+5395,LIHC,2,28,0,True,False,all_wrong,28개 이상,2,False,
+5401,LUAD,2,10,0,True,False,all_wrong,8~27개,2,False,
+5402,LUSC,3,77,0,True,False,all_wrong,28개 이상,2,False,
+5406,LAML,1,1,0,True,False,all_wrong,1~7개,3,False,
+5408,BLCA,3,20,0,True,False,all_wrong,8~27개,2,False,
+5411,PAAD,1,13,0,True,False,all_wrong,8~27개,4,False,
+5413,SARC,3,11,0,True,False,all_wrong,8~27개,2,False,
+5414,PRAD,1,50,0,True,False,all_wrong,28개 이상,2,False,
+5415,HNSC,3,71,0,True,False,all_wrong,28개 이상,2,False,
+5416,LUAD,2,8,0,True,False,all_wrong,8~27개,3,False,
+5418,GBMLGG,2,13,0,True,False,all_wrong,8~27개,1,True,LGG
+5422,KIPAN,2,14,0,True,False,all_wrong,8~27개,1,True,KIRC
+5423,STES,2,21,0,True,False,all_wrong,8~27개,1,True,COAD
+5424,GBMLGG,1,1,0,True,False,all_wrong,1~7개,1,True,BRCA
+5427,LAML,3,2,0,True,False,all_wrong,1~7개,2,False,
+5430,OV,2,10,0,True,False,all_wrong,8~27개,2,False,
+5431,SARC,2,6,0,True,False,all_wrong,1~7개,3,False,
+5432,GBMLGG,2,14,0,True,False,all_wrong,8~27개,3,False,
+5435,KIRC,2,15,0,True,False,all_wrong,8~27개,4,False,
+5436,HNSC,1,12,0,True,False,all_wrong,8~27개,1,True,PRAD
+5437,BRCA,3,14,0,True,False,all_wrong,8~27개,2,False,
+5438,LIHC,3,42,0,True,False,all_wrong,28개 이상,3,False,
+5439,LUAD,3,34,0,True,False,all_wrong,28개 이상,1,True,COAD
+5442,SARC,2,11,0,True,False,all_wrong,8~27개,2,False,
+5444,OV,2,27,0,True,False,all_wrong,8~27개,2,False,
+5451,PAAD,3,18,0,True,False,all_wrong,8~27개,1,True,COAD
+5455,STES,2,22,0,True,False,all_wrong,8~27개,2,False,
+5456,KIPAN,3,25,0,True,False,all_wrong,8~27개,3,False,
+5458,OV,1,24,0,True,False,all_wrong,8~27개,4,False,
+5462,OV,3,10,0,True,False,all_wrong,8~27개,2,False,
+5467,LUAD,2,7,0,True,False,all_wrong,1~7개,3,False,
+5468,KIRC,3,22,0,True,False,all_wrong,8~27개,4,False,
+5475,KIPAN,1,7,0,True,False,all_wrong,1~7개,3,False,
+5476,BRCA,3,17,0,True,False,all_wrong,8~27개,3,False,
+5477,LUSC,1,93,0,True,False,all_wrong,28개 이상,2,False,
+5482,KIRC,2,17,0,True,False,all_wrong,8~27개,3,False,
+5483,GBMLGG,1,16,0,True,False,all_wrong,8~27개,2,False,
+5484,KIRC,3,18,0,True,False,all_wrong,8~27개,1,True,THYM
+5486,LUSC,2,45,0,True,False,all_wrong,28개 이상,2,False,
+5487,GBMLGG,2,12,0,True,False,all_wrong,8~27개,1,True,LGG
+5489,UCEC,2,12,0,True,False,all_wrong,8~27개,1,True,BRCA
+5491,BRCA,2,8,0,True,False,all_wrong,8~27개,2,False,
+5492,GBMLGG,1,11,0,True,False,all_wrong,8~27개,1,True,LGG
+5493,THCA,2,2,0,True,False,all_wrong,1~7개,1,True,PCPG
+5496,LIHC,2,13,0,True,False,all_wrong,8~27개,2,False,
+5497,BLCA,2,52,0,True,False,all_wrong,28개 이상,3,False,
+5498,BRCA,1,9,0,True,False,all_wrong,8~27개,2,False,
+5499,SARC,2,18,0,True,False,all_wrong,8~27개,2,False,
+5501,PRAD,2,12,0,True,False,all_wrong,8~27개,4,False,
+5502,LIHC,1,153,0,True,False,all_wrong,28개 이상,2,False,
+5504,KIRC,1,26,0,True,False,all_wrong,8~27개,2,False,
+5505,PRAD,1,7,0,True,False,all_wrong,1~7개,2,False,
+5507,LUAD,1,58,0,True,False,all_wrong,28개 이상,3,False,
+5509,UCEC,1,12,0,True,False,all_wrong,8~27개,1,True,BRCA
+5510,THCA,1,4,0,True,False,all_wrong,1~7개,2,False,
+5516,SARC,2,2,0,True,False,all_wrong,1~7개,2,False,
+5517,HNSC,3,123,0,True,False,all_wrong,28개 이상,3,False,
+5518,THCA,2,3,0,True,False,all_wrong,1~7개,3,False,
+5520,PAAD,2,10,0,True,False,all_wrong,8~27개,2,False,
+5522,PAAD,3,22,0,True,False,all_wrong,8~27개,3,False,
+5523,UCEC,3,6,0,True,False,all_wrong,1~7개,1,True,COAD
+5526,LGG,1,13,0,True,False,all_wrong,8~27개,1,True,GBMLGG
+5529,THYM,1,0,0,True,False,all_wrong,0개,3,False,
+5530,UCEC,2,9,0,True,False,all_wrong,8~27개,1,True,BRCA
+5534,STES,2,50,0,True,False,all_wrong,28개 이상,2,False,
+5537,GBMLGG,2,3,0,True,False,all_wrong,1~7개,1,True,LGG
+5539,SARC,2,4,0,True,False,all_wrong,1~7개,1,True,OV
+5540,SARC,1,2,0,True,False,all_wrong,1~7개,2,False,
+5543,STES,2,97,0,True,False,all_wrong,28개 이상,4,False,
+5547,BRCA,3,8,0,True,False,all_wrong,8~27개,2,False,
+5550,CESC,1,8,0,True,False,all_wrong,8~27개,2,False,
+5552,KIPAN,1,9,0,True,False,all_wrong,8~27개,1,True,KIRC
+5556,GBMLGG,1,10,0,True,False,all_wrong,8~27개,1,True,BRCA
+5557,LGG,1,11,0,True,False,all_wrong,8~27개,1,True,GBMLGG
+5559,LUAD,1,69,0,True,False,all_wrong,28개 이상,3,False,
+5561,PRAD,3,6,0,True,False,all_wrong,1~7개,2,False,
+5564,SARC,1,8,0,True,False,all_wrong,8~27개,3,False,
+5566,BLCA,2,162,0,True,False,all_wrong,28개 이상,4,False,
+5569,OV,3,41,0,True,False,all_wrong,28개 이상,3,False,
+5571,UCEC,1,8,0,True,False,all_wrong,8~27개,1,True,BRCA
+5572,HNSC,2,64,0,True,False,all_wrong,28개 이상,1,True,LUSC
+5573,BRCA,3,16,0,True,False,all_wrong,8~27개,2,False,
+5579,LUAD,3,50,0,True,False,all_wrong,28개 이상,4,False,
+5580,STES,1,19,0,True,False,all_wrong,8~27개,1,True,PRAD
+5581,BRCA,1,11,0,True,False,all_wrong,8~27개,2,False,
+5582,TGCT,2,10,0,True,False,all_wrong,8~27개,3,False,
+5584,BRCA,1,27,0,True,False,all_wrong,8~27개,2,False,
+5585,BRCA,3,39,0,True,False,all_wrong,28개 이상,1,True,COAD
+5588,LGG,2,13,0,True,False,all_wrong,8~27개,2,False,
+5591,SARC,1,10,0,True,False,all_wrong,8~27개,3,False,
+5592,BRCA,3,21,0,True,False,all_wrong,8~27개,2,False,
+5593,DLBC,1,17,0,True,False,all_wrong,8~27개,1,True,BRCA
+5595,OV,1,15,0,True,False,all_wrong,8~27개,2,False,
+5596,COAD,3,6,0,True,False,all_wrong,1~7개,3,False,
+5597,STES,3,174,0,True,False,all_wrong,28개 이상,4,False,
+5598,KIRC,1,5,0,True,False,all_wrong,1~7개,2,False,
+5599,PAAD,3,13,0,True,False,all_wrong,8~27개,2,False,
+5600,GBMLGG,1,20,0,True,False,all_wrong,8~27개,2,False,
+5603,THCA,1,8,0,True,False,all_wrong,8~27개,3,False,
+5606,LUSC,2,70,0,True,False,all_wrong,28개 이상,2,False,
+5609,TGCT,2,15,0,True,False,all_wrong,8~27개,4,False,
+5615,KIPAN,1,11,0,True,False,all_wrong,8~27개,2,False,
+5618,THCA,2,1,0,True,False,all_wrong,1~7개,2,False,
+5623,KIPAN,1,31,0,True,False,all_wrong,28개 이상,2,False,
+5625,THCA,1,0,0,True,False,all_wrong,0개,3,False,
+5626,KIRC,1,20,0,True,False,all_wrong,8~27개,1,True,SARC
+5627,HNSC,3,66,0,True,False,all_wrong,28개 이상,2,False,
+5628,LUAD,3,60,0,True,False,all_wrong,28개 이상,1,True,LGG
+5632,HNSC,1,30,0,True,False,all_wrong,28개 이상,2,False,
+5637,OV,2,29,0,True,False,all_wrong,28개 이상,2,False,
+5641,LUSC,2,52,0,True,False,all_wrong,28개 이상,3,False,
+5643,SARC,2,5,0,True,False,all_wrong,1~7개,2,False,
+5644,COAD,2,9,0,True,False,all_wrong,8~27개,4,False,
+5645,KIPAN,2,7,0,True,False,all_wrong,1~7개,1,True,GBMLGG
+5646,TGCT,1,20,0,True,False,all_wrong,8~27개,2,False,
+5648,THYM,1,0,0,True,False,all_wrong,0개,3,False,
+5651,LUAD,2,13,0,True,False,all_wrong,8~27개,3,False,
+5654,LIHC,2,12,0,True,False,all_wrong,8~27개,1,True,LGG
+5655,HNSC,3,20,0,True,False,all_wrong,8~27개,3,False,
+5658,KIPAN,1,8,0,True,False,all_wrong,8~27개,1,True,PRAD
+5661,LIHC,3,35,0,True,False,all_wrong,28개 이상,3,False,
+5663,GBMLGG,2,17,0,True,False,all_wrong,8~27개,2,False,
+5665,BRCA,1,13,0,True,False,all_wrong,8~27개,2,False,
+5669,STES,3,28,0,True,False,all_wrong,28개 이상,3,False,
+5671,PRAD,3,2,0,True,False,all_wrong,1~7개,2,False,
+5673,LUAD,1,37,0,True,False,all_wrong,28개 이상,3,False,
+5677,KIPAN,3,15,0,True,False,all_wrong,8~27개,1,True,PCPG
+5680,LUSC,1,33,0,True,False,all_wrong,28개 이상,1,True,HNSC
+5682,LUAD,1,125,0,True,False,all_wrong,28개 이상,3,False,
+5684,THYM,3,10,0,True,False,all_wrong,8~27개,1,True,PAAD
+5685,BRCA,1,6,0,True,False,all_wrong,1~7개,1,True,PRAD
+5688,KIPAN,1,15,0,True,False,all_wrong,8~27개,2,False,
+5690,CESC,1,15,0,True,False,all_wrong,8~27개,2,False,
+5691,LGG,2,5,0,True,False,all_wrong,1~7개,1,True,LAML
+5693,BRCA,3,23,0,True,False,all_wrong,8~27개,2,False,
+5697,PRAD,2,4,0,True,False,all_wrong,1~7개,2,False,
+5699,HNSC,1,35,0,True,False,all_wrong,28개 이상,2,False,
+5700,TGCT,3,14,0,True,False,all_wrong,8~27개,4,False,
+5701,LUAD,2,39,0,True,False,all_wrong,28개 이상,4,False,
+5705,UCEC,2,398,0,True,False,all_wrong,28개 이상,1,True,STES
+5708,LAML,1,0,0,True,False,all_wrong,0개,3,False,
+5709,BRCA,2,177,0,True,False,all_wrong,28개 이상,3,False,
+5713,THCA,2,8,0,True,False,all_wrong,8~27개,4,False,
+5717,BLCA,3,39,0,True,False,all_wrong,28개 이상,1,True,BRCA
+5719,OV,1,9,0,True,False,all_wrong,8~27개,3,False,
+5720,STES,2,313,0,True,False,all_wrong,28개 이상,3,False,
+5721,STES,3,7,0,True,False,all_wrong,1~7개,1,True,PRAD
+5729,HNSC,3,31,0,True,False,all_wrong,28개 이상,2,False,
+5731,STES,1,17,0,True,False,all_wrong,8~27개,2,False,
+5732,SKCM,1,22,0,True,False,all_wrong,8~27개,1,True,THCA
+5735,PCPG,3,3,0,True,False,all_wrong,1~7개,1,True,PRAD
+5736,STES,1,18,0,True,False,all_wrong,8~27개,1,True,BRCA
+5737,KIRC,3,14,0,True,False,all_wrong,8~27개,2,False,
+5739,PCPG,1,2,0,True,False,all_wrong,1~7개,3,False,
+5740,PCPG,2,3,0,True,False,all_wrong,1~7개,3,False,
+5748,LUSC,3,579,0,True,False,all_wrong,28개 이상,1,True,SKCM
+5749,PAAD,1,0,0,True,False,all_wrong,0개,3,False,
+5752,KIPAN,3,7,0,True,False,all_wrong,1~7개,2,False,
+5754,LUSC,1,50,0,True,False,all_wrong,28개 이상,3,False,
+5758,BRCA,2,14,0,True,False,all_wrong,8~27개,2,False,
+5759,SKCM,3,45,0,True,False,all_wrong,28개 이상,1,True,COAD
+5762,BRCA,3,16,0,True,False,all_wrong,8~27개,3,False,
+5764,STES,2,37,0,True,False,all_wrong,28개 이상,1,True,HNSC
+5768,LUAD,1,116,0,True,False,all_wrong,28개 이상,2,False,
+5770,KIPAN,3,10,0,True,False,all_wrong,8~27개,1,True,UCEC
+5773,KIRC,1,9,0,True,False,all_wrong,8~27개,3,False,
+5775,PAAD,2,10,0,True,False,all_wrong,8~27개,2,False,
+5781,THCA,3,8,0,True,False,all_wrong,8~27개,3,False,
+5782,STES,3,42,0,True,False,all_wrong,28개 이상,1,True,COAD
+5783,BRCA,2,13,0,True,False,all_wrong,8~27개,2,False,
+5786,PAAD,2,11,0,True,False,all_wrong,8~27개,2,False,
+5791,LUAD,3,13,0,True,False,all_wrong,8~27개,2,False,
+5792,LIHC,2,24,0,True,False,all_wrong,8~27개,3,False,
+5798,SARC,1,0,0,True,False,all_wrong,0개,3,False,
+5801,KIPAN,3,45,0,True,False,all_wrong,28개 이상,2,False,
+5802,STES,2,17,0,True,False,all_wrong,8~27개,2,False,
+5804,THYM,1,0,0,True,False,all_wrong,0개,3,False,
+5805,PCPG,3,3,0,True,False,all_wrong,1~7개,3,False,
+5806,BRCA,3,16,0,True,False,all_wrong,8~27개,1,True,OV
+5807,HNSC,2,9,0,True,False,all_wrong,8~27개,1,True,BRCA
+5812,PRAD,2,10,0,True,False,all_wrong,8~27개,2,False,
+5814,COAD,3,22,0,True,False,all_wrong,8~27개,4,False,
+5815,HNSC,3,10,0,True,False,all_wrong,8~27개,2,False,
+5816,LAML,3,1,0,True,False,all_wrong,1~7개,2,False,
+5819,SKCM,3,12,0,True,False,all_wrong,8~27개,2,False,
+5820,OV,2,10,0,True,False,all_wrong,8~27개,3,False,
+5824,SKCM,2,8,0,True,False,all_wrong,8~27개,1,True,OV
+5825,LIHC,2,24,0,True,False,all_wrong,8~27개,3,False,
+5826,THCA,2,4,0,True,False,all_wrong,1~7개,3,False,
+5828,KIPAN,3,15,0,True,False,all_wrong,8~27개,3,False,
+5833,UCEC,1,20,0,True,False,all_wrong,8~27개,1,True,PRAD
+5834,PCPG,2,5,0,True,False,all_wrong,1~7개,2,False,
+5835,BRCA,2,26,0,True,False,all_wrong,8~27개,1,True,OV
+5838,SKCM,3,26,0,True,False,all_wrong,8~27개,2,False,
+5839,PAAD,2,24,0,True,False,all_wrong,8~27개,2,False,
+5845,LIHC,1,39,0,True,False,all_wrong,28개 이상,1,True,COAD
+5846,SARC,2,69,0,True,False,all_wrong,28개 이상,2,False,
+5849,COAD,3,50,0,True,False,all_wrong,28개 이상,2,False,
+5854,THCA,3,4,0,True,False,all_wrong,1~7개,2,False,
+5858,BRCA,2,4,0,True,False,all_wrong,1~7개,3,False,
+5859,SARC,1,12,0,True,False,all_wrong,8~27개,3,False,
+5860,LIHC,1,33,0,True,False,all_wrong,28개 이상,2,False,
+5861,STES,3,15,0,True,False,all_wrong,8~27개,3,False,
+5862,LIHC,2,64,0,True,False,all_wrong,28개 이상,3,False,
+5865,BRCA,2,6,0,True,False,all_wrong,1~7개,1,True,OV
+5868,BRCA,3,5,0,True,False,all_wrong,1~7개,4,False,
+5870,LGG,1,5,0,True,False,all_wrong,1~7개,3,False,
+5871,KIPAN,1,2,0,True,False,all_wrong,1~7개,3,False,
+5872,BRCA,1,8,0,True,False,all_wrong,8~27개,2,False,
+5874,OV,3,13,0,True,False,all_wrong,8~27개,3,False,
+5877,KIRC,3,5,0,True,False,all_wrong,1~7개,1,True,GBMLGG
+5878,KIRC,2,16,0,True,False,all_wrong,8~27개,2,False,
+5884,KIRC,3,15,0,True,False,all_wrong,8~27개,2,False,
+5887,GBMLGG,1,23,0,True,False,all_wrong,8~27개,1,True,OV
+5891,SARC,1,8,0,True,False,all_wrong,8~27개,1,True,PRAD
+5893,KIRC,3,13,0,True,False,all_wrong,8~27개,2,False,
+5896,BLCA,3,23,0,True,False,all_wrong,8~27개,2,False,
+5898,GBMLGG,3,15,0,True,False,all_wrong,8~27개,1,True,LGG
+5902,PRAD,3,75,0,True,False,all_wrong,28개 이상,2,False,
+5903,SARC,2,5,0,True,False,all_wrong,1~7개,2,False,
+5904,KIPAN,2,11,0,True,False,all_wrong,8~27개,4,False,
+5906,HNSC,1,9,0,True,False,all_wrong,8~27개,1,True,OV
+5909,PRAD,3,6,0,True,False,all_wrong,1~7개,2,False,
+5910,HNSC,2,17,0,True,False,all_wrong,8~27개,3,False,
+5911,PRAD,2,2,0,True,False,all_wrong,1~7개,2,False,
+5912,CESC,3,17,0,True,False,all_wrong,8~27개,3,False,
+5913,HNSC,1,19,0,True,False,all_wrong,8~27개,3,False,
+5919,PCPG,3,3,0,True,False,all_wrong,1~7개,3,False,
+5920,BRCA,3,292,0,True,False,all_wrong,28개 이상,3,False,
+5923,LAML,2,1,0,True,False,all_wrong,1~7개,2,False,
+5930,SARC,1,5,0,True,False,all_wrong,1~7개,1,True,OV
+5938,PAAD,2,9,0,True,False,all_wrong,8~27개,1,True,OV
+5939,GBMLGG,3,13,0,True,False,all_wrong,8~27개,3,False,
+5942,SARC,1,387,0,True,False,all_wrong,28개 이상,1,True,SKCM
+5943,CESC,3,90,0,True,False,all_wrong,28개 이상,3,False,
+5944,BRCA,1,10,0,True,False,all_wrong,8~27개,1,True,OV
+5946,KIRC,2,11,0,True,False,all_wrong,8~27개,2,False,
+5949,SARC,3,5,0,True,False,all_wrong,1~7개,3,False,
+5952,STES,2,11,0,True,False,all_wrong,8~27개,1,True,PRAD
+5953,CESC,3,39,0,True,False,all_wrong,28개 이상,3,False,
+5955,BRCA,3,4,0,True,False,all_wrong,1~7개,2,False,
+5956,THCA,1,5,0,True,False,all_wrong,1~7개,2,False,
+5961,OV,3,4,0,True,False,all_wrong,1~7개,2,False,
+5962,SARC,2,15,0,True,False,all_wrong,8~27개,3,False,
+5963,THCA,2,6,0,True,False,all_wrong,1~7개,1,True,PCPG
+5964,SARC,1,6,0,True,False,all_wrong,1~7개,3,False,
+5967,SARC,2,6,0,True,False,all_wrong,1~7개,3,False,
+5970,THCA,2,6,0,True,False,all_wrong,1~7개,1,True,PCPG
+5971,THCA,2,2,0,True,False,all_wrong,1~7개,2,False,
+5972,THCA,1,0,0,True,False,all_wrong,0개,3,False,
+5974,GBMLGG,1,7,0,True,False,all_wrong,1~7개,1,True,LGG
+5976,BRCA,2,6,0,True,False,all_wrong,1~7개,1,True,OV
+5977,HNSC,3,11,0,True,False,all_wrong,8~27개,3,False,
+5979,KIPAN,3,13,0,True,False,all_wrong,8~27개,1,True,THCA
+5982,GBMLGG,3,14,0,True,False,all_wrong,8~27개,3,False,
+5983,THCA,2,3,0,True,False,all_wrong,1~7개,2,False,
+5985,LIHC,1,25,0,True,False,all_wrong,8~27개,2,False,
+5986,LIHC,1,24,0,True,False,all_wrong,8~27개,3,False,
+5987,LUSC,3,46,0,True,False,all_wrong,28개 이상,2,False,
+5989,KIPAN,2,17,0,True,False,all_wrong,8~27개,3,False,
+5990,LIHC,2,39,0,True,False,all_wrong,28개 이상,2,False,
+5992,HNSC,2,26,0,True,False,all_wrong,8~27개,2,False,
+5993,HNSC,1,9,0,True,False,all_wrong,8~27개,3,False,
+5995,LUSC,3,65,0,True,False,all_wrong,28개 이상,2,False,
+5996,GBMLGG,1,3,0,True,False,all_wrong,1~7개,1,True,LGG
+5998,STES,2,26,0,True,False,all_wrong,8~27개,2,False,
+6000,PCPG,2,5,0,True,False,all_wrong,1~7개,3,False,
+6002,BRCA,2,7,0,True,False,all_wrong,1~7개,3,False,
+6003,THCA,2,5,0,True,False,all_wrong,1~7개,1,True,PCPG
+6007,LAML,3,7,0,True,False,all_wrong,1~7개,2,False,
+6008,THYM,2,4,0,True,False,all_wrong,1~7개,2,False,
+6017,BRCA,1,63,0,True,False,all_wrong,28개 이상,3,False,
+6023,LUAD,2,18,0,True,False,all_wrong,8~27개,2,False,
+6024,KIPAN,3,13,0,True,False,all_wrong,8~27개,3,False,
+6026,CESC,1,26,0,True,False,all_wrong,8~27개,3,False,
+6028,PRAD,1,4,0,True,False,all_wrong,1~7개,2,False,
+6029,LIHC,2,58,0,True,False,all_wrong,28개 이상,3,False,
+6036,LGG,3,12,0,True,False,all_wrong,8~27개,3,False,
+6039,GBMLGG,1,21,0,True,False,all_wrong,8~27개,2,False,
+6040,BRCA,3,10,0,True,False,all_wrong,8~27개,1,True,LAML
+6041,KIPAN,3,2,0,True,False,all_wrong,1~7개,4,False,
+6042,STES,3,30,0,True,False,all_wrong,28개 이상,2,False,
+6047,GBMLGG,2,19,0,True,False,all_wrong,8~27개,2,False,
+6050,LGG,3,18,0,True,False,all_wrong,8~27개,2,False,
+6051,DLBC,3,20,0,True,False,all_wrong,8~27개,4,False,
+6053,GBMLGG,1,6,0,True,False,all_wrong,1~7개,1,True,LGG
+6055,STES,2,14,0,True,False,all_wrong,8~27개,2,False,
+6057,KIPAN,2,15,0,True,False,all_wrong,8~27개,3,False,
+6060,SARC,2,8,0,True,False,all_wrong,8~27개,2,False,
+6061,BRCA,1,15,0,True,False,all_wrong,8~27개,1,True,OV
+6062,SKCM,1,19,0,True,False,all_wrong,8~27개,1,True,THCA
+6063,KIRC,1,9,0,True,False,all_wrong,8~27개,3,False,
+6066,BRCA,3,10,0,True,False,all_wrong,8~27개,3,False,
+6067,PCPG,2,7,0,True,False,all_wrong,1~7개,2,False,
+6069,LGG,1,4,0,True,False,all_wrong,1~7개,3,False,
+6071,GBMLGG,2,10,0,True,False,all_wrong,8~27개,1,True,LGG
+6073,LUAD,1,32,0,True,False,all_wrong,28개 이상,3,False,
+6074,THCA,3,2,0,True,False,all_wrong,1~7개,2,False,
+6076,LUAD,3,11,0,True,False,all_wrong,8~27개,4,False,
+6077,OV,3,27,0,True,False,all_wrong,8~27개,1,True,BRCA
+6078,SARC,3,4,0,True,False,all_wrong,1~7개,1,True,OV
+6079,GBMLGG,1,16,0,True,False,all_wrong,8~27개,2,False,
+6082,ACC,1,23,0,True,False,all_wrong,8~27개,2,False,
+6083,BRCA,3,14,0,True,False,all_wrong,8~27개,3,False,
+6085,HNSC,2,27,0,True,False,all_wrong,8~27개,1,True,BRCA
+6090,STES,3,37,0,True,False,all_wrong,28개 이상,1,True,COAD
+6093,KIPAN,3,19,0,True,False,all_wrong,8~27개,3,False,
+6095,SARC,2,8,0,True,False,all_wrong,8~27개,2,False,
+6098,OV,2,13,0,True,False,all_wrong,8~27개,1,True,SARC
+6101,BRCA,2,12,0,True,False,all_wrong,8~27개,1,True,OV
+6102,PAAD,1,9,0,True,False,all_wrong,8~27개,3,False,
+6104,PCPG,3,1,0,True,False,all_wrong,1~7개,2,False,
+6105,THCA,2,5,0,True,False,all_wrong,1~7개,2,False,
+6108,LIHC,1,12,0,True,False,all_wrong,8~27개,1,True,PRAD
+6110,TGCT,3,26,0,True,False,all_wrong,8~27개,2,False,
+6111,KIPAN,3,18,0,True,False,all_wrong,8~27개,1,True,KIRC
+6114,BRCA,1,20,0,True,False,all_wrong,8~27개,2,False,
+6116,LGG,1,0,0,True,False,all_wrong,0개,3,False,
+6117,CESC,2,188,0,True,False,all_wrong,28개 이상,4,False,
+6119,KIRC,1,15,0,True,False,all_wrong,8~27개,2,False,
+6120,KIPAN,1,9,0,True,False,all_wrong,8~27개,1,True,KIRC
+6122,STES,2,24,0,True,False,all_wrong,8~27개,1,True,COAD
+6124,LIHC,3,20,0,True,False,all_wrong,8~27개,3,False,
+6127,HNSC,1,123,0,True,False,all_wrong,28개 이상,3,False,
+6130,GBMLGG,3,5,0,True,False,all_wrong,1~7개,1,True,LGG
+6131,DLBC,3,141,0,True,False,all_wrong,28개 이상,3,False,
+6132,KIPAN,1,23,0,True,False,all_wrong,8~27개,1,True,PRAD
+6134,CESC,1,0,0,True,False,all_wrong,0개,3,False,
+6135,STES,3,45,0,True,False,all_wrong,28개 이상,2,False,
+6136,SARC,3,10,0,True,False,all_wrong,8~27개,4,False,
+6138,HNSC,1,17,0,True,False,all_wrong,8~27개,3,False,
+6141,HNSC,2,33,0,True,False,all_wrong,28개 이상,2,False,
+6143,GBMLGG,3,18,0,True,False,all_wrong,8~27개,1,True,LGG
+6145,SARC,2,10,0,True,False,all_wrong,8~27개,2,False,
+6146,BRCA,2,8,0,True,False,all_wrong,8~27개,1,True,THCA
+6147,PRAD,2,4,0,True,False,all_wrong,1~7개,3,False,
+6151,SKCM,3,27,0,True,False,all_wrong,8~27개,4,False,
+6156,COAD,1,618,0,True,False,all_wrong,28개 이상,3,False,
+6161,LUSC,1,69,0,True,False,all_wrong,28개 이상,2,False,
+6162,BRCA,3,9,0,True,False,all_wrong,8~27개,1,True,OV
+6164,LIHC,2,48,0,True,False,all_wrong,28개 이상,2,False,
+6166,COAD,2,16,0,True,False,all_wrong,8~27개,2,False,
+6167,KIRC,3,11,0,True,False,all_wrong,8~27개,1,True,KIPAN
+6169,BLCA,1,78,0,True,False,all_wrong,28개 이상,2,False,
+6170,PRAD,1,5,0,True,False,all_wrong,1~7개,3,False,
+6171,GBMLGG,3,4,0,True,False,all_wrong,1~7개,1,True,LGG
+6173,PRAD,3,5,0,True,False,all_wrong,1~7개,3,False,
+6174,COAD,3,11,0,True,False,all_wrong,8~27개,1,True,OV
+6175,LUAD,1,21,0,True,False,all_wrong,8~27개,3,False,
+6177,KIRC,1,15,0,True,False,all_wrong,8~27개,2,False,
+6180,CESC,2,19,0,True,False,all_wrong,8~27개,3,False,
+6182,LIHC,3,16,0,True,False,all_wrong,8~27개,4,False,
+6184,THCA,3,4,0,True,False,all_wrong,1~7개,2,False,
+6186,KIPAN,2,24,0,True,False,all_wrong,8~27개,4,False,
+6189,TGCT,2,3,0,True,False,all_wrong,1~7개,2,False,
+6190,PCPG,2,3,0,True,False,all_wrong,1~7개,3,False,
+6191,OV,1,8,0,True,False,all_wrong,8~27개,2,False,
+6192,LIHC,1,36,0,True,False,all_wrong,28개 이상,2,False,
+6196,LUAD,2,42,0,True,False,all_wrong,28개 이상,2,False,
+6197,LGG,2,11,0,True,False,all_wrong,8~27개,1,True,GBMLGG
+6199,TGCT,1,7,0,True,False,all_wrong,1~7개,3,False,

@@ -1,0 +1,4 @@
+﻿outer_fold,candidate,family,strategy,inner_macro_f1,settings
+1,XGB_B,XGBoost,Interaction,0.33835959506369445,"{""name"": ""XGB_B"", ""family"": ""XGBoost"", ""strategy"": ""Interaction"", ""n_estimators"": 350, ""max_depth"": 4, ""learning_rate"": 0.05}"
+2,XGB_A,XGBoost,Interaction,0.34438672583799795,"{""name"": ""XGB_A"", ""family"": ""XGBoost"", ""strategy"": ""Interaction"", ""n_estimators"": 200, ""max_depth"": 3, ""learning_rate"": 0.06}"
+3,XGB_A,XGBoost,Interaction,0.3510640569240199,"{""name"": ""XGB_A"", ""family"": ""XGBoost"", ""strategy"": ""Interaction"", ""n_estimators"": 200, ""max_depth"": 3, ""learning_rate"": 0.06}"
