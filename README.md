@@ -173,5 +173,20 @@ Train의 중복 프로필은 거의 모두 KIPAN+KIRC, GBMLGG+LGG 조합입니�
 
 나이브 베이즈 점수는 Train으로 다시 계산되므로 별도 파일 없이 같은 코드로 재현됩니다.
 
-### Contributors
-- [@claude](https://github.com/claude)
+## Contributors
+
+<a href="https://github.com/lcm9903">
+  <img src="https://github.com/lcm9903.png" width="40" height="40" alt="lcm9903" style="border-radius: 50%;"/>
+</a>
+<a href="https://github.com/yeohj1226">
+  <img src="https://github.com/yeohj1226.png" width="40" height="40" alt="yeohj1226" style="border-radius: 50%;"/>
+</a>
+<a href="https://github.com/redisfree">
+  <img src="https://github.com/redisfree.png" width="40" height="40" alt="redisfree" style="border-radius: 50%;"/>
+</a>
+<a href="https://github.com/wlgml2244-jpg">
+  <img src="https://github.com/wlgml2244-jpg.png" width="40" height="40" alt="wlgml2244-jpg" style="border-radius: 50%;"/>
+</a>
+<a href="https://github.com/claude">
+  <img src="https://github.com/claude.png" width="40" height="40" alt="claude" style="border-radius: 50%;"/>
+</a>
