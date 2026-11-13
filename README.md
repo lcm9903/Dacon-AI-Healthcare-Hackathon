@@ -172,3 +172,6 @@ Train의 중복 프로필은 거의 모두 KIPAN+KIRC, GBMLGG+LGG 조합입니�
 | `preprocess_and_lr.pkl` | 트리용·선형용·LightGBM 전용 특징 변환기, 로지스틱 회귀 모델, LabelEncoder, 앙상블 가중치, 설정값 (9.8MB) |
 
 나이브 베이즈 점수는 Train으로 다시 계산되므로 별도 파일 없이 같은 코드로 재현됩니다.
+
+### Contributors
+- [@claude](https://github.com/claude)
